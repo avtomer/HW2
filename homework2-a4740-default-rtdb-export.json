@@ -1,0 +1,6763 @@
+{
+  "temperature" : {
+    "-MkdJPR7HdRC7_Ku1pkb" : {
+      "temperature" : "24.2"
+    },
+    "-MkdJPf1dnjWu394PXW9" : {
+      "temperature" : "23.9"
+    },
+    "-MkdJPun7Z8DNFdc5DVr" : {
+      "temperature" : "27.5"
+    },
+    "-MkdJQOqTxrl6DlYAbVr" : {
+      "temperature" : "20.9"
+    },
+    "-MkdJQRZUOkZ1gQoYkhn" : {
+      "temperature" : "19.8"
+    },
+    "-MkdJQeEDfcYDIDyvuiP" : {
+      "temperature" : "27.0"
+    },
+    "-MkdJQtCdfIt3TfA5k9U" : {
+      "temperature" : "20.0"
+    },
+    "-MkdJR838lCx0R241Phu" : {
+      "temperature" : "22.3"
+    },
+    "-MkdJR_L56tyTtb668gS" : {
+      "temperature" : "22.9"
+    },
+    "-MkdJRbj7BI4TMTP2MY7" : {
+      "temperature" : "27.7"
+    },
+    "-MkdJRroD9WYq51H5jOi" : {
+      "temperature" : "27.3"
+    },
+    "-MkdJS75CbgITnhqHEDZ" : {
+      "temperature" : "20.3"
+    },
+    "-MkdJSM-sGbjPSxrvYWz" : {
+      "temperature" : "20.1"
+    },
+    "-MkdJSaUNJA7j8dHk09X" : {
+      "temperature" : "25.6"
+    },
+    "-MkdJSpqOuilQw_keuUC" : {
+      "temperature" : "27.1"
+    },
+    "-MkdJT4N7I0WRV-jdyXP" : {
+      "temperature" : "21.3"
+    },
+    "-MkdJTKIYhSr9cBh85Sq" : {
+      "temperature" : "21.9"
+    },
+    "-MkdJT_F4pcobLc_DDcE" : {
+      "temperature" : "24.7"
+    },
+    "-MkdJToUNKpuheBQ6xE5" : {
+      "temperature" : "26.3"
+    },
+    "-MkdJU36jlRxNNAhg_ph" : {
+      "temperature" : "26.8"
+    },
+    "-MkdJUIkrtHPORBzL0r1" : {
+      "temperature" : "19.0"
+    },
+    "-MkdJUXzPLnc_TmUZMNa" : {
+      "temperature" : "22.4"
+    },
+    "-MkdJUnR-Aou1Oaawa5c" : {
+      "temperature" : "22.7"
+    },
+    "-MkdJVJ1YAkIABcA7uaa" : {
+      "temperature" : "20.1"
+    },
+    "-MkdJVLkYeDEQNpoGMp3" : {
+      "temperature" : "18.6"
+    },
+    "-MkdJVXBXbXxp2i24_Xm" : {
+      "temperature" : "25.5"
+    },
+    "-MkdJVmN-Ba_CG8MQaat" : {
+      "temperature" : "20.9"
+    },
+    "-MkdJW-m5TKS-i63xck9" : {
+      "temperature" : "23.7"
+    },
+    "-MkdJWFKsolEV1tE0CEa" : {
+      "temperature" : "21.4"
+    },
+    "-MkdJWUzSNAV346gK3pZ" : {
+      "temperature" : "18.4"
+    },
+    "-MkdJWk0zvoUMYS1arEw" : {
+      "temperature" : "21.8"
+    },
+    "-MkdJX-8uLPPdd-ytOxz" : {
+      "temperature" : "22.8"
+    },
+    "-MkdJXESZOPYVT1nJj1u" : {
+      "temperature" : "20.9"
+    },
+    "-MkdJXUASga1EM5_S3gY" : {
+      "temperature" : "22.9"
+    },
+    "-MkdJXizt2en4l6q8XO-" : {
+      "temperature" : "26.5"
+    },
+    "-MkdJXyN1OyBrerh7772" : {
+      "temperature" : "21.8"
+    },
+    "-MkdJYCuiBCmMMYPU41P" : {
+      "temperature" : "24.7"
+    },
+    "-MkdJYSbcTokbdF98lpr" : {
+      "temperature" : "21.7"
+    },
+    "-MkdJYhEUiKRcswAfBCd" : {
+      "temperature" : "24.2"
+    },
+    "-MkdJYwuCBMO_-tksAM0" : {
+      "temperature" : "18.4"
+    },
+    "-MkdJZBLVUTnBoK7SKIl" : {
+      "temperature" : "20.7"
+    },
+    "-MkdJZRA_Z95zKq2izEN" : {
+      "temperature" : "25.5"
+    },
+    "-MkdJZffFtYdyXqR1WrZ" : {
+      "temperature" : "20.7"
+    },
+    "-MkdJZvr6h4x70f2VnQ5" : {
+      "temperature" : "21.2"
+    },
+    "-MkdJ_A5wmn-qlmTK-fq" : {
+      "temperature" : "19.3"
+    },
+    "-MkdJ_PYKdY5qKkBHgay" : {
+      "temperature" : "21.0"
+    },
+    "-MkdJ_g8ip1Uyxojz_RS" : {
+      "temperature" : "20.9"
+    },
+    "-MkdJ_tnmS17bqfA8d91" : {
+      "temperature" : "26.8"
+    },
+    "-MkdJa8JsOkvD1tq4qjq" : {
+      "temperature" : "24.9"
+    },
+    "-MkdJaNrLL14jR98CDfq" : {
+      "temperature" : "25.2"
+    },
+    "-MkdJacrUemfvyD3Q8sv" : {
+      "temperature" : "25.1"
+    },
+    "-MkdJasAZfr7Lqfhic1S" : {
+      "temperature" : "19.8"
+    },
+    "-MkdJb6ZRnkhynygvjWR" : {
+      "temperature" : "21.8"
+    },
+    "-MkdJbM57WHb0UA_Msqh" : {
+      "temperature" : "19.6"
+    },
+    "-MkdJbaqb9X5HH-retRT" : {
+      "temperature" : "27.6"
+    },
+    "-MkdJbqJgjk9I9TfftVw" : {
+      "temperature" : "25.0"
+    },
+    "-MkdJc5ZaDYJvlGeqeq-" : {
+      "temperature" : "19.1"
+    },
+    "-MkdJcKZ2AARpH1BqWJZ" : {
+      "temperature" : "23.1"
+    },
+    "-MkdJc_S_58IaZYPJun4" : {
+      "temperature" : "24.8"
+    },
+    "-MkdJcpBMj5y4-xtr5rW" : {
+      "temperature" : "25.3"
+    },
+    "-MkdJd44Vve8owb3vNp2" : {
+      "temperature" : "25.1"
+    },
+    "-MkdJdJg_IB9SjrPKDUs" : {
+      "temperature" : "19.0"
+    },
+    "-MkdJdZPYPxfZt1pNoaM" : {
+      "temperature" : "27.1"
+    },
+    "-MkdJdny0LZmYtJABjBy" : {
+      "temperature" : "18.1"
+    },
+    "-MkdJe2GdAi4gUhobc5R" : {
+      "temperature" : "18.8"
+    },
+    "-MkdJeILN3lkum3Z30nY" : {
+      "temperature" : "26.4"
+    },
+    "-MkdJeXzJuEB61JoRrr2" : {
+      "temperature" : "27.8"
+    },
+    "-MkdJemInepNBr3SLz0a" : {
+      "temperature" : "24.8"
+    },
+    "-MkdJf1AcZ_bxsL95qW6" : {
+      "temperature" : "23.8"
+    },
+    "-MkdJfHjYJbC6PkSxeE0" : {
+      "temperature" : "24.7"
+    },
+    "-MkdJfWPEjE9L-tqAzfd" : {
+      "temperature" : "22.1"
+    },
+    "-MkdJfky5QgM_k5Si0Kb" : {
+      "temperature" : "22.3"
+    },
+    "-MkdJg-UUPjLPbv7AijE" : {
+      "temperature" : "18.7"
+    },
+    "-MkdJgEvVwVG-FeGHWXB" : {
+      "temperature" : "27.7"
+    },
+    "-MkdJgUhKrewiraH4-bT" : {
+      "temperature" : "27.4"
+    },
+    "-MkdJgj5feNqwqtBNX3L" : {
+      "temperature" : "21.4"
+    },
+    "-MkdJgykKRoq-EJnEvYE" : {
+      "temperature" : "24.2"
+    },
+    "-MkdJhDYtp8lf0gg3fS3" : {
+      "temperature" : "26.0"
+    },
+    "-MkdJhT-VCQNZ7l6cZaR" : {
+      "temperature" : "27.0"
+    },
+    "-MkdJhhrCHT7iBO8i2Jg" : {
+      "temperature" : "20.1"
+    },
+    "-MkdJhx7o1Wo7JhVDuru" : {
+      "temperature" : "19.3"
+    },
+    "-MkdJiC4f6ws6unbyqQh" : {
+      "temperature" : "23.5"
+    },
+    "-MkdJiRkECUL8Ke2a0Uy" : {
+      "temperature" : "27.7"
+    },
+    "-MkdJigBdXlM5GfXphgl" : {
+      "temperature" : "27.9"
+    },
+    "-MkdJivvRvRokAj4gHTP" : {
+      "temperature" : "22.0"
+    },
+    "-MkdJjAUnoL7wv5_xDlh" : {
+      "temperature" : "19.0"
+    },
+    "-MkdJjPuN2K7yPh7Q9UG" : {
+      "temperature" : "23.3"
+    },
+    "-MkdJjeiUh0lIJ6khBZf" : {
+      "temperature" : "18.8"
+    },
+    "-MkdJjuN8AM6rgS5axfF" : {
+      "temperature" : "26.6"
+    },
+    "-MkdJk97XXQeDQClXzzw" : {
+      "temperature" : "18.0"
+    },
+    "-MkdJkOnZbmOwbGbKrbl" : {
+      "temperature" : "26.7"
+    },
+    "-MkdJkdBGh_MWdhWA8Ar" : {
+      "temperature" : "22.1"
+    },
+    "-MkdJktp9iIQMe_4kDHv" : {
+      "temperature" : "22.0"
+    },
+    "-MkdJl7aMLU_0HHpZdaN" : {
+      "temperature" : "20.0"
+    },
+    "-MkdJlNL5Uymg2GPsI6_" : {
+      "temperature" : "22.3"
+    },
+    "-MkdJlbztQfrSvv5CGus" : {
+      "temperature" : "18.9"
+    },
+    "-MkdJlrcokED8YXbyhEL" : {
+      "temperature" : "19.6"
+    },
+    "-MkdJm5xJ9ZUS_OKllfC" : {
+      "temperature" : "24.7"
+    },
+    "-MkdJmLQrJwTAUk_7vTM" : {
+      "temperature" : "24.3"
+    },
+    "-MkdJmaJ8BJ0OLbbchMU" : {
+      "temperature" : "19.1"
+    },
+    "-MkdJmppPx1ZeU4dAvBZ" : {
+      "temperature" : "18.6"
+    },
+    "-MkdJn4Q_Tfp2pvrKRJS" : {
+      "temperature" : "22.0"
+    },
+    "-MkdJnK5S57m1P0zZHR7" : {
+      "temperature" : "25.5"
+    },
+    "-MkdJn_-jee67EJ5GA9V" : {
+      "temperature" : "27.4"
+    },
+    "-MkdJnoAS-anMXT-HSz-" : {
+      "temperature" : "25.3"
+    },
+    "-MkdJo2p8cQ9Q-YiYKpH" : {
+      "temperature" : "26.2"
+    },
+    "-MkdJoIWHfP9wRZVVHCG" : {
+      "temperature" : "24.8"
+    },
+    "-MkdJoYIbPlXJUg-t7NL" : {
+      "temperature" : "19.0"
+    },
+    "-MkdJombOZrtLy9E-g48" : {
+      "temperature" : "25.9"
+    },
+    "-MkdJp1jg24ZeF3PXjai" : {
+      "temperature" : "18.0"
+    },
+    "-MkdJpGwP6jNb7-MJztn" : {
+      "temperature" : "22.3"
+    },
+    "-MkdJpWaILvUH-TFLyTQ" : {
+      "temperature" : "27.3"
+    },
+    "-MkdJplYdNfUE7pxry5v" : {
+      "temperature" : "22.2"
+    },
+    "-MkdJq-nFJwL9sdmW0tM" : {
+      "temperature" : "19.3"
+    },
+    "-MkdJqF_U9aCt46ubBSJ" : {
+      "temperature" : "25.1"
+    },
+    "-MkdJqVyfHJeljrbvo2h" : {
+      "temperature" : "21.0"
+    },
+    "-MkdJqjijiGnOLSSI8sp" : {
+      "temperature" : "20.3"
+    },
+    "-MkdJqzLZ99SHXgI8_d_" : {
+      "temperature" : "27.6"
+    },
+    "-MkdJrEGkxWDEey0zAh5" : {
+      "temperature" : "27.6"
+    },
+    "-MkdJrTtJ00oxQakIOx2" : {
+      "temperature" : "25.5"
+    },
+    "-MkdJriat1m-7Er74DlS" : {
+      "temperature" : "26.2"
+    },
+    "-MkdJryHDjNNwyRxf1XZ" : {
+      "temperature" : "23.5"
+    },
+    "-MkdJsCxzKU_0o17PcgS" : {
+      "temperature" : "24.0"
+    },
+    "-MkdJsSHAtr_5Q5ZvmZq" : {
+      "temperature" : "28.0"
+    },
+    "-MkdJsgiDTzgKd4IdMo0" : {
+      "temperature" : "21.1"
+    },
+    "-MkdJsw_qXIJk6W6TkW0" : {
+      "temperature" : "25.8"
+    },
+    "-MkdJtBIzbHDGanP2Dta" : {
+      "temperature" : "26.0"
+    },
+    "-MkdJtQh1IGZ4nfFgXCx" : {
+      "temperature" : "22.6"
+    },
+    "-MkdJtf_CIJhRFM9bDqh" : {
+      "temperature" : "25.0"
+    },
+    "-MkdJtutlW5mqNnXIj4r" : {
+      "temperature" : "21.2"
+    },
+    "-MkdJu9zaescMF9FhCbE" : {
+      "temperature" : "28.0"
+    },
+    "-MkdJuPDtcb5-P3Zz0Nn" : {
+      "temperature" : "26.8"
+    },
+    "-MkdJudtiK-RLrNxWGSv" : {
+      "temperature" : "26.1"
+    },
+    "-MkdJutr9fU5c1ymAYyU" : {
+      "temperature" : "26.5"
+    },
+    "-MkdJv8FctJ70JqaZxl8" : {
+      "temperature" : "20.5"
+    },
+    "-MkdJvNf1F7UsqVqWHLP" : {
+      "temperature" : "22.8"
+    },
+    "-MkdJvcS4q_bJtMdBk_b" : {
+      "temperature" : "20.0"
+    },
+    "-MkdJvromZRXXsIHpjD6" : {
+      "temperature" : "24.7"
+    },
+    "-MkdJw6K8KoHssEKSrxI" : {
+      "temperature" : "24.8"
+    },
+    "-MkdJwMFl10NySVC022b" : {
+      "temperature" : "23.0"
+    },
+    "-MkdJwb3sdY41x0N1bpv" : {
+      "temperature" : "22.4"
+    },
+    "-MkdJwqZfiPoDhFIb8F_" : {
+      "temperature" : "24.3"
+    },
+    "-MkdJx4uFpkOyvJmIh2x" : {
+      "temperature" : "25.7"
+    },
+    "-MkdJxKYow9EApyhE2ZS" : {
+      "temperature" : "24.1"
+    },
+    "-MkdJx_WjhMi1TksTGFh" : {
+      "temperature" : "26.6"
+    },
+    "-MkdJxoxMkDsWBtowfE2" : {
+      "temperature" : "23.9"
+    },
+    "-MkdJy3aZc0yhhhDhLrQ" : {
+      "temperature" : "25.8"
+    },
+    "-MkdJyJ4nzHDWqj7Pq4Q" : {
+      "temperature" : "20.6"
+    },
+    "-MkdJyYY42we_fH-mlx6" : {
+      "temperature" : "25.2"
+    },
+    "-MkdJynpedHpiZKDOS2g" : {
+      "temperature" : "20.2"
+    },
+    "-MkdJz2A4B_Xsy5Dt8RO" : {
+      "temperature" : "19.7"
+    },
+    "-MkdJzHhLJhEfouJ6h7K" : {
+      "temperature" : "19.4"
+    },
+    "-MkdJzXhf_koZVzU5WhV" : {
+      "temperature" : "27.4"
+    },
+    "-MkdJzmFwUxoQ6dWLqoB" : {
+      "temperature" : "23.5"
+    },
+    "-MkdK-0Yalg_XTq8xfWV" : {
+      "temperature" : "20.4"
+    },
+    "-MkdK-G_8Xjd82tRq_2r" : {
+      "temperature" : "22.0"
+    },
+    "-MkdK-WFgHKM8h3D5OjV" : {
+      "temperature" : "18.8"
+    },
+    "-MkdK-kzkf4WMSI7Lhp8" : {
+      "temperature" : "22.2"
+    },
+    "-MkdK-zugpyFP_L9M25g" : {
+      "temperature" : "19.2"
+    },
+    "-MkdK0EhQtExUftE1zqJ" : {
+      "temperature" : "25.1"
+    },
+    "-MkdK0UcNiyBAfIbfkqq" : {
+      "temperature" : "23.9"
+    },
+    "-MkdK0j7QREtJXjqS4hB" : {
+      "temperature" : "19.4"
+    },
+    "-MkdK0y_q_egoF1_RUo1" : {
+      "temperature" : "22.0"
+    },
+    "-MkdK1DCUxFD-giVHNqB" : {
+      "temperature" : "21.5"
+    },
+    "-MkdK1TXow0pQN2bYxvR" : {
+      "temperature" : "19.1"
+    },
+    "-MkdK1hc2LY-WilhpF2B" : {
+      "temperature" : "21.0"
+    },
+    "-MkdK1x2zQJxwVaII8Oc" : {
+      "temperature" : "27.5"
+    },
+    "-MkdK2BwlJrNLUUwBTfF" : {
+      "temperature" : "22.7"
+    },
+    "-MkdK2RZWK6xZYDwcgMr" : {
+      "temperature" : "26.0"
+    },
+    "-MkdK2gTHr1gMlK5-1Zu" : {
+      "temperature" : "27.1"
+    },
+    "-MkdK2vdDDHfsu5xM0rt" : {
+      "temperature" : "22.6"
+    },
+    "-MkdK3ALJciCvls8VHPU" : {
+      "temperature" : "22.5"
+    },
+    "-MkdK3QqQ-hg_F31HlxO" : {
+      "temperature" : "25.1"
+    },
+    "-MkdK3eAQuXhEgmlpZL0" : {
+      "temperature" : "25.2"
+    },
+    "-MkdK3u1QdK4_QWTCxvW" : {
+      "temperature" : "24.3"
+    },
+    "-MkdK48iPkRZkoVwb5w5" : {
+      "temperature" : "24.5"
+    },
+    "-MkdK4OGIHlF0YQrwh9N" : {
+      "temperature" : "19.7"
+    },
+    "-MkdOIdh_3NdGVxI7VQz" : {
+      "temperature" : "18.1"
+    },
+    "-MkdOIhXGXlNMDLK1LSP" : {
+      "temperature" : "24.3"
+    },
+    "-MkdOIhY7V0DLReDB2oW" : {
+      "temperature" : "19.9"
+    },
+    "-MkdOIhmlZIg1IAWMDiv" : {
+      "temperature" : "19.0"
+    },
+    "-MkdOIhpOhuzx7blVk4i" : {
+      "temperature" : "18.5"
+    },
+    "-MkdOIhzDp_xr9RuvgQX" : {
+      "temperature" : "23.4"
+    },
+    "-MkdOIiAVl4GXhcGMZfI" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOIiTJmV1fNwqXi3i" : {
+      "temperature" : "21.9"
+    },
+    "-MkdOIlr8Ha0iUWfv2ox" : {
+      "temperature" : "24.8"
+    },
+    "-MkdOIlzK-D1N8K1NG6h" : {
+      "temperature" : "22.3"
+    },
+    "-MkdOIm-_hxa5SENz6tQ" : {
+      "temperature" : "25.7"
+    },
+    "-MkdOIov9t3D5-eHX7Xa" : {
+      "temperature" : "24.9"
+    },
+    "-MkdOIoyXGYnO2al70VC" : {
+      "temperature" : "26.0"
+    },
+    "-MkdOIp-nXO9IY9cP5Vy" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOIp1eqtvBrHXBQHo" : {
+      "temperature" : "18.9"
+    },
+    "-MkdOIpw4F7wN1zRLabl" : {
+      "temperature" : "18.6"
+    },
+    "-MkdOIq0d7anBP8HHOmE" : {
+      "temperature" : "22.0"
+    },
+    "-MkdOIshVmdf54HvOfNh" : {
+      "temperature" : "20.6"
+    },
+    "-MkdOIt5v57a82k_HeRL" : {
+      "temperature" : "18.9"
+    },
+    "-MkdOItEd-0WvP65DpR1" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOItTrx6fEW5P1z1V" : {
+      "temperature" : "26.0"
+    },
+    "-MkdOItaAlPxbCsHMEyB" : {
+      "temperature" : "27.4"
+    },
+    "-MkdOIthoBsXJ-Ffz26M" : {
+      "temperature" : "18.7"
+    },
+    "-MkdOItjgqguHnibFWZS" : {
+      "temperature" : "26.0"
+    },
+    "-MkdOItkr8aJJ6tIF1Z9" : {
+      "temperature" : "23.3"
+    },
+    "-MkdOItkr8aJJ6tIF1ZA" : {
+      "temperature" : "18.8"
+    },
+    "-MkdOItpBDc8ck0jx8CK" : {
+      "temperature" : "22.3"
+    },
+    "-MkdOIwbKd7T1eo6ZTv3" : {
+      "temperature" : "24.1"
+    },
+    "-MkdOIxNXpYXa8Ji_yrF" : {
+      "temperature" : "20.6"
+    },
+    "-MkdOIxQl5fFURxSBQcG" : {
+      "temperature" : "23.3"
+    },
+    "-MkdOIx_CDmJNWMXK6Pl" : {
+      "temperature" : "27.6"
+    },
+    "-MkdOIxjnouozha3YokJ" : {
+      "temperature" : "19.6"
+    },
+    "-MkdOIxtdfNH_Iepru9D" : {
+      "temperature" : "18.4"
+    },
+    "-MkdOIxv0tOdBV1zXN0A" : {
+      "temperature" : "26.3"
+    },
+    "-MkdOIxwlQJpng6p7s-c" : {
+      "temperature" : "26.4"
+    },
+    "-MkdOIy1G_kx5DQ7eThX" : {
+      "temperature" : "25.8"
+    },
+    "-MkdOIyAwYJmNokLWeg8" : {
+      "temperature" : "24.5"
+    },
+    "-MkdOIyVU4xYH6JuZ3x8" : {
+      "temperature" : "23.8"
+    },
+    "-MkdOIyhMCWbnLzpmW2n" : {
+      "temperature" : "23.7"
+    },
+    "-MkdOIyhMCWbnLzpmW2o" : {
+      "temperature" : "21.5"
+    },
+    "-MkdOIzS2_o7MWnQSysr" : {
+      "temperature" : "21.6"
+    },
+    "-MkdOIzcyLsZORYq91Qd" : {
+      "temperature" : "23.8"
+    },
+    "-MkdOIzcyLsZORYq91Qe" : {
+      "temperature" : "23.1"
+    },
+    "-MkdOIzm9J29aZsgfpaT" : {
+      "temperature" : "22.1"
+    },
+    "-MkdOIzrY-rsACFO25o3" : {
+      "temperature" : "26.6"
+    },
+    "-MkdOIzsHCA_amStUfQh" : {
+      "temperature" : "24.0"
+    },
+    "-MkdOIzwRGv5Yrd0l7cF" : {
+      "temperature" : "21.2"
+    },
+    "-MkdOJ--3SmU_3AohFPi" : {
+      "temperature" : "20.6"
+    },
+    "-MkdOJ--3SmU_3AohFPj" : {
+      "temperature" : "22.1"
+    },
+    "-MkdOJ-0SQke3mhtYcuu" : {
+      "temperature" : "23.4"
+    },
+    "-MkdOJ3FmNTCqAmvHhh0" : {
+      "temperature" : "27.6"
+    },
+    "-MkdOJ3FmNTCqAmvHhh1" : {
+      "temperature" : "18.5"
+    },
+    "-MkdOJ3FmNTCqAmvHhh2" : {
+      "temperature" : "25.1"
+    },
+    "-MkdOJ3GkEuKQW0Cj8RN" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOJ3HIKRVFL2tv2bw" : {
+      "temperature" : "26.6"
+    },
+    "-MkdOJ3HIKRVFL2tv2bx" : {
+      "temperature" : "27.6"
+    },
+    "-MkdOJ3HIKRVFL2tv2by" : {
+      "temperature" : "25.2"
+    },
+    "-MkdOJ3IuUsJ3_5Q8N9V" : {
+      "temperature" : "26.0"
+    },
+    "-MkdOJ3KKHsgpNC5xFpk" : {
+      "temperature" : "26.7"
+    },
+    "-MkdOJ3M1AbR_tLZ3ByZ" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOJ3QlDuq-WILQDAp" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOJ4WffzhNFLdvycX" : {
+      "temperature" : "25.8"
+    },
+    "-MkdOJ5cZYgMQptpmDbR" : {
+      "temperature" : "24.6"
+    },
+    "-MkdOJ7eFnNyX91LFkwE" : {
+      "temperature" : "18.6"
+    },
+    "-MkdOJ7eFnNyX91LFkwF" : {
+      "temperature" : "21.0"
+    },
+    "-MkdOJ7gRtGUbpf7n6N1" : {
+      "temperature" : "20.5"
+    },
+    "-MkdOJ7jq0s5-9upddkm" : {
+      "temperature" : "27.0"
+    },
+    "-MkdOJ7n0Dsan8k0jKNW" : {
+      "temperature" : "24.4"
+    },
+    "-MkdOJ7n0Dsan8k0jKNX" : {
+      "temperature" : "18.7"
+    },
+    "-MkdOJ7osAQN6uYwZory" : {
+      "temperature" : "26.1"
+    },
+    "-MkdOJ7osAQN6uYwZorz" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOJ7pyVtsItYln31X" : {
+      "temperature" : "21.1"
+    },
+    "-MkdOJ7tl261KV5Sf8qa" : {
+      "temperature" : "27.6"
+    },
+    "-MkdOJ7vblO5VSKfCiev" : {
+      "temperature" : "21.1"
+    },
+    "-MkdOJ7vblO5VSKfCiew" : {
+      "temperature" : "21.5"
+    },
+    "-MkdOJ7xRWwAb77Nrtyo" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOJ7yyIVchB32Z8oO" : {
+      "temperature" : "20.6"
+    },
+    "-MkdOJ7yyIVchB32Z8oP" : {
+      "temperature" : "19.3"
+    },
+    "-MkdOJ7yyIVchB32Z8oQ" : {
+      "temperature" : "19.8"
+    },
+    "-MkdOJ7zxvdTiERpZrmX" : {
+      "temperature" : "21.7"
+    },
+    "-MkdOJ81ctQwlAZAlajZ" : {
+      "temperature" : "20.0"
+    },
+    "-MkdOJ841zlb1YeSjUFE" : {
+      "temperature" : "22.8"
+    },
+    "-MkdOJ841zlb1YeSjUFF" : {
+      "temperature" : "20.6"
+    },
+    "-MkdOJ841zlb1YeSjUFG" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOJ87ysSDtg5UI7rS" : {
+      "temperature" : "21.2"
+    },
+    "-MkdOJ8HdjIigHDoF1sb" : {
+      "temperature" : "27.0"
+    },
+    "-MkdOJ8HdjIigHDoF1sc" : {
+      "temperature" : "26.1"
+    },
+    "-MkdOJ8HdjIigHDoF1sd" : {
+      "temperature" : "25.2"
+    },
+    "-MkdOJ8HdjIigHDoF1se" : {
+      "temperature" : "21.7"
+    },
+    "-MkdOJ8HdjIigHDoF1sf" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOJ8HdjIigHDoF1sg" : {
+      "temperature" : "24.0"
+    },
+    "-MkdOJ8Ipz_eVmYMMnM1" : {
+      "temperature" : "18.1"
+    },
+    "-MkdOJ8Ipz_eVmYMMnM2" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOJ8Ipz_eVmYMMnM3" : {
+      "temperature" : "22.2"
+    },
+    "-MkdOJ8Ipz_eVmYMMnM4" : {
+      "temperature" : "24.4"
+    },
+    "-MkdOJ8JVSnHj5PcKl0n" : {
+      "temperature" : "23.5"
+    },
+    "-MkdOJ8JVSnHj5PcKl0o" : {
+      "temperature" : "21.2"
+    },
+    "-MkdOJ8Sm7M4kD_kWMNB" : {
+      "temperature" : "26.5"
+    },
+    "-MkdOJ8TZ14gkHN61YsC" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOJ8sdpWhYoYqCo-Q" : {
+      "temperature" : "21.5"
+    },
+    "-MkdOJ945Dqrf8ERsxhv" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOJ95h7GLLqKvCqf7" : {
+      "temperature" : "24.9"
+    },
+    "-MkdOJ9DF0qVZMNjbtxl" : {
+      "temperature" : "27.4"
+    },
+    "-MkdOJ9GPFXonaSHDEBT" : {
+      "temperature" : "19.4"
+    },
+    "-MkdOJ9LJD6RS1MgG4VZ" : {
+      "temperature" : "23.2"
+    },
+    "-MkdOJ9MDsFRevxTeM2c" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOJ9NGXxxlX0PTpqt" : {
+      "temperature" : "26.6"
+    },
+    "-MkdOJ9NGXxxlX0PTpqu" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOJ9OMhEAktQtwuGv" : {
+      "temperature" : "19.3"
+    },
+    "-MkdOJ9PBEodcksfU8J0" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOJ9PBEodcksfU8J1" : {
+      "temperature" : "27.8"
+    },
+    "-MkdOJ9PBEodcksfU8J2" : {
+      "temperature" : "18.6"
+    },
+    "-MkdOJ9R1K5nFDtsOMDt" : {
+      "temperature" : "25.2"
+    },
+    "-MkdOJ9ZsN3XYR31Fs0i" : {
+      "temperature" : "19.2"
+    },
+    "-MkdOJAzDQ5Hh4d1onjx" : {
+      "temperature" : "25.8"
+    },
+    "-MkdOJBeN0Do6LEruaGo" : {
+      "temperature" : "27.1"
+    },
+    "-MkdOJC0Ru_d9DPadKNU" : {
+      "temperature" : "19.0"
+    },
+    "-MkdOJC7PJKP2LyaQABf" : {
+      "temperature" : "22.2"
+    },
+    "-MkdOJCG3bDvXvdR78rr" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOJCLN220GmFw52vo" : {
+      "temperature" : "18.7"
+    },
+    "-MkdOJEbVW8yXnMhKAfm" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOJEbVW8yXnMhKAfn" : {
+      "temperature" : "25.3"
+    },
+    "-MkdOJEcle3BOUgJ3jo7" : {
+      "temperature" : "28.0"
+    },
+    "-MkdOJEcle3BOUgJ3jo8" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOJEcle3BOUgJ3jo9" : {
+      "temperature" : "26.8"
+    },
+    "-MkdOJEdF1Stohn1ierH" : {
+      "temperature" : "27.5"
+    },
+    "-MkdOJEdF1Stohn1ierI" : {
+      "temperature" : "24.7"
+    },
+    "-MkdOJEiq7JL-F5VGGq4" : {
+      "temperature" : "27.7"
+    },
+    "-MkdOJEjDPyUiVcCcuoa" : {
+      "temperature" : "22.2"
+    },
+    "-MkdOJGBuyxHoJ6buBn8" : {
+      "temperature" : "19.1"
+    },
+    "-MkdOJGCKQRpBmOM7vOa" : {
+      "temperature" : "22.6"
+    },
+    "-MkdOJGLTNK2xBSEfNEW" : {
+      "temperature" : "19.9"
+    },
+    "-MkdOJGM1kNM29riujLJ" : {
+      "temperature" : "18.4"
+    },
+    "-MkdOJGM1kNM29riujLK" : {
+      "temperature" : "22.2"
+    },
+    "-MkdOJGOP4sb7UC-jO0C" : {
+      "temperature" : "22.8"
+    },
+    "-MkdOJGPqJEhvfGctfbo" : {
+      "temperature" : "25.0"
+    },
+    "-MkdOJGews_xL6rjLHv2" : {
+      "temperature" : "27.1"
+    },
+    "-MkdOJGews_xL6rjLHv3" : {
+      "temperature" : "26.8"
+    },
+    "-MkdOJGews_xL6rjLHv4" : {
+      "temperature" : "24.5"
+    },
+    "-MkdOJGgSe5P0DlB68N6" : {
+      "temperature" : "18.5"
+    },
+    "-MkdOJGgSe5P0DlB68N7" : {
+      "temperature" : "23.6"
+    },
+    "-MkdOJGgSe5P0DlB68N8" : {
+      "temperature" : "23.1"
+    },
+    "-MkdOJGhN_swLFgwSuP9" : {
+      "temperature" : "20.8"
+    },
+    "-MkdOJJaxv6Iy7SQlO62" : {
+      "temperature" : "22.1"
+    },
+    "-MkdOJJaxv6Iy7SQlO63" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOJJbdahoK82AYMHY" : {
+      "temperature" : "27.5"
+    },
+    "-MkdOJJbdahoK82AYMHZ" : {
+      "temperature" : "26.0"
+    },
+    "-MkdOJJbdahoK82AYMH_" : {
+      "temperature" : "18.1"
+    },
+    "-MkdOJJcIGoR_FzheeE4" : {
+      "temperature" : "19.1"
+    },
+    "-MkdOJLQG39_lbTxnjNC" : {
+      "temperature" : "22.6"
+    },
+    "-MkdOJLT7UeyClaYbsTQ" : {
+      "temperature" : "19.0"
+    },
+    "-MkdOJLT7UeyClaYbsTR" : {
+      "temperature" : "19.3"
+    },
+    "-MkdOJLUD92YlDzUZgo8" : {
+      "temperature" : "18.8"
+    },
+    "-MkdOJLUD92YlDzUZgo9" : {
+      "temperature" : "21.4"
+    },
+    "-MkdOJLUD92YlDzUZgoA" : {
+      "temperature" : "23.7"
+    },
+    "-MkdOJLUD92YlDzUZgoB" : {
+      "temperature" : "26.5"
+    },
+    "-MkdOJLV5zHEsw9w1Egz" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOJLfF06RkPcMgKgK" : {
+      "temperature" : "21.2"
+    },
+    "-MkdOJLgHrFGJDhHyRjl" : {
+      "temperature" : "26.4"
+    },
+    "-MkdOJLgHrFGJDhHyRjm" : {
+      "temperature" : "23.6"
+    },
+    "-MkdOJLjUZsPofkOsbMa" : {
+      "temperature" : "18.6"
+    },
+    "-MkdOJLjUZsPofkOsbMb" : {
+      "temperature" : "22.7"
+    },
+    "-MkdOJLjUZsPofkOsbMc" : {
+      "temperature" : "27.3"
+    },
+    "-MkdOJLjUZsPofkOsbMd" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOJLkeoHdvW59-azg" : {
+      "temperature" : "20.0"
+    },
+    "-MkdOJLkeoHdvW59-azh" : {
+      "temperature" : "26.2"
+    },
+    "-MkdOJLkeoHdvW59-azi" : {
+      "temperature" : "18.3"
+    },
+    "-MkdOJLlH7ixDZ4U29dR" : {
+      "temperature" : "26.5"
+    },
+    "-MkdOJLlH7ixDZ4U29dS" : {
+      "temperature" : "20.5"
+    },
+    "-MkdOJLmHuWPpUdX6wcS" : {
+      "temperature" : "24.7"
+    },
+    "-MkdOJLo9rKvAkUceq9M" : {
+      "temperature" : "23.1"
+    },
+    "-MkdOJLpNoqrpybQc_m1" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOJLpNoqrpybQc_m2" : {
+      "temperature" : "22.8"
+    },
+    "-MkdOJLpNoqrpybQc_m3" : {
+      "temperature" : "25.6"
+    },
+    "-MkdOJLpNoqrpybQc_m4" : {
+      "temperature" : "25.7"
+    },
+    "-MkdOJLqQc6cKaAr7BTO" : {
+      "temperature" : "23.9"
+    },
+    "-MkdOJLqQc6cKaAr7BTP" : {
+      "temperature" : "27.7"
+    },
+    "-MkdOJLrweVwElm-3YHi" : {
+      "temperature" : "19.0"
+    },
+    "-MkdOJLrweVwElm-3YHj" : {
+      "temperature" : "19.7"
+    },
+    "-MkdOJLttucPV_zuUYan" : {
+      "temperature" : "21.3"
+    },
+    "-MkdOJLuPNnZhL0e69WE" : {
+      "temperature" : "23.6"
+    },
+    "-MkdOJLuPNnZhL0e69WF" : {
+      "temperature" : "19.3"
+    },
+    "-MkdOJLuPNnZhL0e69WG" : {
+      "temperature" : "19.7"
+    },
+    "-MkdOJNCM1zZtj1Q2vQf" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOJNFL6QmSjUI0G3g" : {
+      "temperature" : "25.9"
+    },
+    "-MkdOJNKysugtIThlH3b" : {
+      "temperature" : "24.1"
+    },
+    "-MkdOJNLDPhBWBJrXoqj" : {
+      "temperature" : "24.0"
+    },
+    "-MkdOJNd316qYyw02mFK" : {
+      "temperature" : "21.7"
+    },
+    "-MkdOJNjyQmjxPfaaBfS" : {
+      "temperature" : "25.5"
+    },
+    "-MkdOJQLzqdbed9xuYt-" : {
+      "temperature" : "26.4"
+    },
+    "-MkdOJQM3bUGJ7_T-dQQ" : {
+      "temperature" : "18.4"
+    },
+    "-MkdOJQbpVlS4VJZNnjL" : {
+      "temperature" : "22.1"
+    },
+    "-MkdOJQcvb_J19IYMG_0" : {
+      "temperature" : "19.2"
+    },
+    "-MkdOJQeKmjreEgLBDou" : {
+      "temperature" : "19.3"
+    },
+    "-MkdOJQeKmjreEgLBDov" : {
+      "temperature" : "25.9"
+    },
+    "-MkdOJQeKmjreEgLBDow" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOJQf9hvILZvxpTP0" : {
+      "temperature" : "18.3"
+    },
+    "-MkdOJQf9hvILZvxpTP1" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOJQf9hvILZvxpTP2" : {
+      "temperature" : "20.5"
+    },
+    "-MkdOJQf9hvILZvxpTP3" : {
+      "temperature" : "26.4"
+    },
+    "-MkdOJRYl52eivsWc6td" : {
+      "temperature" : "26.3"
+    },
+    "-MkdOJRYl52eivsWc6te" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOJSKanTh-UGB1wCO" : {
+      "temperature" : "24.7"
+    },
+    "-MkdOJSLYSecykiWoFL-" : {
+      "temperature" : "24.7"
+    },
+    "-MkdOJSO-efHeTaYqOpI" : {
+      "temperature" : "25.0"
+    },
+    "-MkdOJSO-efHeTaYqOpJ" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOJSP_RuL3Jv2MJZQ" : {
+      "temperature" : "18.0"
+    },
+    "-MkdOJSQ-AsmWXoTLEHH" : {
+      "temperature" : "27.7"
+    },
+    "-MkdOJSWRlO6BayuQ_VM" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOJSXsLO-ZmpuAcN9" : {
+      "temperature" : "21.2"
+    },
+    "-MkdOJSXsLO-ZmpuAcNA" : {
+      "temperature" : "27.8"
+    },
+    "-MkdOJSY4l5An4hJh10_" : {
+      "temperature" : "23.6"
+    },
+    "-MkdOJSZnrmsBqgVhjUs" : {
+      "temperature" : "19.6"
+    },
+    "-MkdOJS_qjHdws7L6Equ" : {
+      "temperature" : "26.5"
+    },
+    "-MkdOJS_qjHdws7L6Eqv" : {
+      "temperature" : "19.0"
+    },
+    "-MkdOJS_qjHdws7L6Eqw" : {
+      "temperature" : "26.1"
+    },
+    "-MkdOJS_qjHdws7L6Eqx" : {
+      "temperature" : "24.0"
+    },
+    "-MkdOJS_qjHdws7L6Eqy" : {
+      "temperature" : "20.3"
+    },
+    "-MkdOJS_qjHdws7L6Eqz" : {
+      "temperature" : "20.2"
+    },
+    "-MkdOJS_qjHdws7L6Er-" : {
+      "temperature" : "21.4"
+    },
+    "-MkdOJSaJ3qvM01hI2yl" : {
+      "temperature" : "18.1"
+    },
+    "-MkdOJSaJ3qvM01hI2ym" : {
+      "temperature" : "27.8"
+    },
+    "-MkdOJSbc-mziDEus6Ej" : {
+      "temperature" : "25.7"
+    },
+    "-MkdOJSbc-mziDEus6Ek" : {
+      "temperature" : "24.2"
+    },
+    "-MkdOJSbc-mziDEus6El" : {
+      "temperature" : "21.9"
+    },
+    "-MkdOJSbc-mziDEus6Em" : {
+      "temperature" : "20.6"
+    },
+    "-MkdOJSbc-mziDEus6En" : {
+      "temperature" : "25.8"
+    },
+    "-MkdOJSdzK43TZNJjdrB" : {
+      "temperature" : "27.6"
+    },
+    "-MkdOJSkw2mM1dkJWVuP" : {
+      "temperature" : "24.0"
+    },
+    "-MkdOJSkw2mM1dkJWVuQ" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOJSlQHFQflTJB7gr" : {
+      "temperature" : "25.6"
+    },
+    "-MkdOJSnTM3GHXq5erKV" : {
+      "temperature" : "18.5"
+    },
+    "-MkdOJSsNXv6DbrLCMfC" : {
+      "temperature" : "20.8"
+    },
+    "-MkdOJSsNXv6DbrLCMfD" : {
+      "temperature" : "23.3"
+    },
+    "-MkdOJSsNXv6DbrLCMfE" : {
+      "temperature" : "26.4"
+    },
+    "-MkdOJSsNXv6DbrLCMfF" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOJSsNXv6DbrLCMfG" : {
+      "temperature" : "24.2"
+    },
+    "-MkdOJSvPSg5ko1BRytV" : {
+      "temperature" : "25.2"
+    },
+    "-MkdOJSvPSg5ko1BRytW" : {
+      "temperature" : "23.3"
+    },
+    "-MkdOJSwJO8lDHE8fOpi" : {
+      "temperature" : "27.0"
+    },
+    "-MkdOJT-C-Erwyo1PJlp" : {
+      "temperature" : "25.2"
+    },
+    "-MkdOJT-C-Erwyo1PJlq" : {
+      "temperature" : "26.7"
+    },
+    "-MkdOJT6XK4AB4T4JuOJ" : {
+      "temperature" : "23.2"
+    },
+    "-MkdOJT6XK4AB4T4JuOK" : {
+      "temperature" : "27.5"
+    },
+    "-MkdOJT6XK4AB4T4JuOL" : {
+      "temperature" : "21.7"
+    },
+    "-MkdOJT6XK4AB4T4JuOM" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOJT7Sdm6vptTNiUW" : {
+      "temperature" : "25.6"
+    },
+    "-MkdOJT9WZs2xovSgGFb" : {
+      "temperature" : "23.5"
+    },
+    "-MkdOJU5rJEULkwqKZ_K" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOJUI5qkvZOtMjyQ1" : {
+      "temperature" : "23.3"
+    },
+    "-MkdOJUVCy8W1jipgJUb" : {
+      "temperature" : "22.8"
+    },
+    "-MkdOJVIhd07WCgg4L1S" : {
+      "temperature" : "23.9"
+    },
+    "-MkdOJVSUBy0yzdm_xSv" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOJVSUBy0yzdm_xSw" : {
+      "temperature" : "19.5"
+    },
+    "-MkdOJVTJ9zgX-VHfrzk" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOJVUdWPRETIIKbWA" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOJVW7KA0WTMyN-jI" : {
+      "temperature" : "23.2"
+    },
+    "-MkdOJVXdmDdgamk2Lth" : {
+      "temperature" : "24.6"
+    },
+    "-MkdOJVY8qMkw3fEEbS4" : {
+      "temperature" : "18.6"
+    },
+    "-MkdOJVeqmuxqrHkxH4g" : {
+      "temperature" : "21.7"
+    },
+    "-MkdOJVoRzphmGqX4yuv" : {
+      "temperature" : "26.2"
+    },
+    "-MkdOJVw3YnXAZo9g4zc" : {
+      "temperature" : "19.6"
+    },
+    "-MkdOJVyP1tHkYtRxDQ8" : {
+      "temperature" : "22.0"
+    },
+    "-MkdOJVyP1tHkYtRxDQ9" : {
+      "temperature" : "23.2"
+    },
+    "-MkdOJW1G6YhWsYFQYY8" : {
+      "temperature" : "24.9"
+    },
+    "-MkdOJW2Qa2vsTj4Zlis" : {
+      "temperature" : "22.7"
+    },
+    "-MkdOJW3Gt3ButJFgMoD" : {
+      "temperature" : "19.6"
+    },
+    "-MkdOJW4X5wZesk3K0rc" : {
+      "temperature" : "27.7"
+    },
+    "-MkdOJW4X5wZesk3K0rd" : {
+      "temperature" : "18.1"
+    },
+    "-MkdOJWDRueC34PCvQ-B" : {
+      "temperature" : "21.6"
+    },
+    "-MkdOJWHQWZ0QJT2adZ3" : {
+      "temperature" : "18.7"
+    },
+    "-MkdOJWIifPZxiFLPLYA" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOJWJynT5kyodF7gZ" : {
+      "temperature" : "26.3"
+    },
+    "-MkdOJWKAUOuR12rS5Bj" : {
+      "temperature" : "25.6"
+    },
+    "-MkdOJZg4A7vuGZEudLc" : {
+      "temperature" : "23.5"
+    },
+    "-MkdOJZg4A7vuGZEudLd" : {
+      "temperature" : "23.5"
+    },
+    "-MkdOJZhPVHREPHH3q46" : {
+      "temperature" : "19.4"
+    },
+    "-MkdOJ_0CkVtcZIg7vi8" : {
+      "temperature" : "22.1"
+    },
+    "-MkdOJ_1ceRJ4V8MNI7K" : {
+      "temperature" : "27.3"
+    },
+    "-MkdOJ_2iCEyowZYV0aQ" : {
+      "temperature" : "19.1"
+    },
+    "-MkdOJ_4ohSnSzz5cW3p" : {
+      "temperature" : "27.3"
+    },
+    "-MkdOJ_4ohSnSzz5cW3q" : {
+      "temperature" : "28.0"
+    },
+    "-MkdOJ_5C7W7YWg-E6tf" : {
+      "temperature" : "18.0"
+    },
+    "-MkdOJ_6H-CmhCYmMS6o" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOJ_UrrVGty3I-Whw" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOJ_UrrVGty3I-Whx" : {
+      "temperature" : "26.2"
+    },
+    "-MkdOJ_VCwVxOcY0jErg" : {
+      "temperature" : "18.7"
+    },
+    "-MkdOJ_WKJ7PSpg9KZhQ" : {
+      "temperature" : "23.8"
+    },
+    "-MkdOJ_X1J6vAOVmw8Pq" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOJ_X1J6vAOVmw8Pr" : {
+      "temperature" : "22.6"
+    },
+    "-MkdOJ__N5O-QwYrAkBQ" : {
+      "temperature" : "18.9"
+    },
+    "-MkdOJ_k6TVwswplEcyt" : {
+      "temperature" : "25.2"
+    },
+    "-MkdOJ_k6TVwswplEcyu" : {
+      "temperature" : "19.2"
+    },
+    "-MkdOJ_n5GfjSo2GJsYu" : {
+      "temperature" : "25.5"
+    },
+    "-MkdOJ_n5GfjSo2GJsYv" : {
+      "temperature" : "24.0"
+    },
+    "-MkdOJ_oLRpA7z-wgTU_" : {
+      "temperature" : "27.1"
+    },
+    "-MkdOJ_uDKaYS1xmM5rH" : {
+      "temperature" : "19.5"
+    },
+    "-MkdOJ_y-RzYUFhMQ_tc" : {
+      "temperature" : "19.7"
+    },
+    "-MkdOJaDYepF51bi0IDZ" : {
+      "temperature" : "20.0"
+    },
+    "-MkdOJaDYepF51bi0ID_" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOJaF_aFrmtTIG9mI" : {
+      "temperature" : "21.3"
+    },
+    "-MkdOJaF_aFrmtTIG9mJ" : {
+      "temperature" : "27.4"
+    },
+    "-MkdOJaF_aFrmtTIG9mK" : {
+      "temperature" : "27.3"
+    },
+    "-MkdOJaHuLStEatIXD4x" : {
+      "temperature" : "26.5"
+    },
+    "-MkdOJaIisCxk08oV3t0" : {
+      "temperature" : "23.1"
+    },
+    "-MkdOJaJdIKRdGBGwW0f" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOJaJdIKRdGBGwW0g" : {
+      "temperature" : "21.1"
+    },
+    "-MkdOJaKuCiA6Hy1BC5s" : {
+      "temperature" : "25.7"
+    },
+    "-MkdOJaKuCiA6Hy1BC5t" : {
+      "temperature" : "22.3"
+    },
+    "-MkdOJaKuCiA6Hy1BC5u" : {
+      "temperature" : "27.7"
+    },
+    "-MkdOJaLCca9u28UQCEH" : {
+      "temperature" : "26.5"
+    },
+    "-MkdOJaMImA31aHtXM5t" : {
+      "temperature" : "20.3"
+    },
+    "-MkdOJbhbz3M6bJUNAJX" : {
+      "temperature" : "18.6"
+    },
+    "-MkdOJbhbz3M6bJUNAJY" : {
+      "temperature" : "27.2"
+    },
+    "-MkdOJbhbz3M6bJUNAJZ" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOJbjsshj8JZ_Wn1Z" : {
+      "temperature" : "21.7"
+    },
+    "-MkdOJbkXT_jo-bJvtV8" : {
+      "temperature" : "25.0"
+    },
+    "-MkdOJbkXT_jo-bJvtV9" : {
+      "temperature" : "24.5"
+    },
+    "-MkdOJbkXT_jo-bJvtVA" : {
+      "temperature" : "22.3"
+    },
+    "-MkdOJbn41ptFwxe9BzZ" : {
+      "temperature" : "26.5"
+    },
+    "-MkdOJbn41ptFwxe9Bz_" : {
+      "temperature" : "21.1"
+    },
+    "-MkdOJc9KLabN_mirB2d" : {
+      "temperature" : "22.4"
+    },
+    "-MkdOJc9KLabN_mirB2e" : {
+      "temperature" : "24.6"
+    },
+    "-MkdOJcAqDzkgnr-oaal" : {
+      "temperature" : "18.7"
+    },
+    "-MkdOJcBJU4171usmjaf" : {
+      "temperature" : "18.8"
+    },
+    "-MkdOJcCopyukRETiBOv" : {
+      "temperature" : "27.3"
+    },
+    "-MkdOJcCopyukRETiBOw" : {
+      "temperature" : "26.0"
+    },
+    "-MkdOJcCopyukRETiBOx" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOJcCopyukRETiBOy" : {
+      "temperature" : "24.5"
+    },
+    "-MkdOJcEgKBhkA3NU45S" : {
+      "temperature" : "26.8"
+    },
+    "-MkdOJcHZ-ZpScBxx3PC" : {
+      "temperature" : "27.7"
+    },
+    "-MkdOJcHZ-ZpScBxx3PD" : {
+      "temperature" : "21.6"
+    },
+    "-MkdOJcXMS25NuQ1FmDX" : {
+      "temperature" : "19.7"
+    },
+    "-MkdOKpCcJCMsJkoD4qi" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOKpPfFzq3mDhgnOT" : {
+      "temperature" : "18.0"
+    },
+    "-MkdOKpTnBGYu3v9eeot" : {
+      "temperature" : "24.2"
+    },
+    "-MkdOKpZsxqKxvrDuDTg" : {
+      "temperature" : "27.0"
+    },
+    "-MkdOKpZsxqKxvrDuDTh" : {
+      "temperature" : "21.2"
+    },
+    "-MkdOKptXunADImjf8kT" : {
+      "temperature" : "25.7"
+    },
+    "-MkdOKpzcc-CX08PzGPr" : {
+      "temperature" : "20.5"
+    },
+    "-MkdOKqO4RbO2v6Vy-VA" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOKqO4RbO2v6Vy-VB" : {
+      "temperature" : "27.3"
+    },
+    "-MkdOKqU2e1M8fV8AYAk" : {
+      "temperature" : "19.7"
+    },
+    "-MkdOKq_QCrY7Z0kibub" : {
+      "temperature" : "18.7"
+    },
+    "-MkdOKqem9qcdERi0mK1" : {
+      "temperature" : "21.6"
+    },
+    "-MkdOKqem9qcdERi0mK2" : {
+      "temperature" : "21.0"
+    },
+    "-MkdOKqi2MsandVBHtZV" : {
+      "temperature" : "20.5"
+    },
+    "-MkdOKqn-E2O_ooBejMH" : {
+      "temperature" : "21.1"
+    },
+    "-MkdOKqpOHARTmwtTAQA" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOKqxyub7p2eddjs9" : {
+      "temperature" : "21.6"
+    },
+    "-MkdOKrQTmMOzUorJw7E" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOKvXYA_X4D11T1rQ" : {
+      "temperature" : "24.1"
+    },
+    "-MkdOKyOdlHhUFZtHKjL" : {
+      "temperature" : "24.8"
+    },
+    "-MkdOKyOdlHhUFZtHKjM" : {
+      "temperature" : "24.8"
+    },
+    "-MkdOL-QDOeqT_34ztPK" : {
+      "temperature" : "23.9"
+    },
+    "-MkdOL01QrNro-KZLUpT" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOL08Lh7ZeMGj-wJ_" : {
+      "temperature" : "20.9"
+    },
+    "-MkdOL1947qqbcf1Pc8-" : {
+      "temperature" : "19.3"
+    },
+    "-MkdOL2DD9psF0QhZbn0" : {
+      "temperature" : "24.2"
+    },
+    "-MkdOL2EHh6tWMrq3YKp" : {
+      "temperature" : "27.0"
+    },
+    "-MkdOL2dPm0Jh8dImVDF" : {
+      "temperature" : "22.5"
+    },
+    "-MkdOL2glQlOrnur_x96" : {
+      "temperature" : "23.4"
+    },
+    "-MkdOL3NxxmX-7v9VGu5" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOL3PJVEP8nicSVEL" : {
+      "temperature" : "22.5"
+    },
+    "-MkdOL3mSCdUCWl9-ou7" : {
+      "temperature" : "23.5"
+    },
+    "-MkdOL3mSCdUCWl9-ou8" : {
+      "temperature" : "22.4"
+    },
+    "-MkdOL4XH7Bbv2OGrPWp" : {
+      "temperature" : "24.8"
+    },
+    "-MkdOL56QqsY4mtTnOTC" : {
+      "temperature" : "22.7"
+    },
+    "-MkdOL5AVReC-4-2LEfL" : {
+      "temperature" : "25.7"
+    },
+    "-MkdOL5B1nCE4wPUHbVN" : {
+      "temperature" : "25.6"
+    },
+    "-MkdOL5IMROgxX6Q9Z7O" : {
+      "temperature" : "20.8"
+    },
+    "-MkdOL5IMROgxX6Q9Z7P" : {
+      "temperature" : "23.7"
+    },
+    "-MkdOL5M2zKK3GnXtAwH" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOL5mGu2H8hXyI785" : {
+      "temperature" : "26.7"
+    },
+    "-MkdOL6Nm7P8vW_2wRiW" : {
+      "temperature" : "19.1"
+    },
+    "-MkdOL6U4kzdmBanmZMP" : {
+      "temperature" : "27.3"
+    },
+    "-MkdOL6U4kzdmBanmZMQ" : {
+      "temperature" : "19.5"
+    },
+    "-MkdOL6U4kzdmBanmZMR" : {
+      "temperature" : "24.0"
+    },
+    "-MkdOL6WLkwfLWnHqAL3" : {
+      "temperature" : "20.5"
+    },
+    "-MkdOL7AtK-8nwHqotDG" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOL7WJEfLJN_ORpa_" : {
+      "temperature" : "23.2"
+    },
+    "-MkdOL8EBYc0GNk_lpAE" : {
+      "temperature" : "22.1"
+    },
+    "-MkdOL8MIU-v4UeKkGnM" : {
+      "temperature" : "24.4"
+    },
+    "-MkdOL9eoAhcRqPqD1S_" : {
+      "temperature" : "24.3"
+    },
+    "-MkdOLAmuzfwfWC6-oDK" : {
+      "temperature" : "23.7"
+    },
+    "-MkdOLAngUAP7bQdHRUg" : {
+      "temperature" : "19.3"
+    },
+    "-MkdOLAngUAP7bQdHRUh" : {
+      "temperature" : "23.1"
+    },
+    "-MkdOLApsDMMmbx8YccO" : {
+      "temperature" : "26.2"
+    },
+    "-MkdOLArt-7_jsPlV0z6" : {
+      "temperature" : "27.3"
+    },
+    "-MkdOLB-H3zDLZB0L54A" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOLB0yiWRt9WIJ0yG" : {
+      "temperature" : "19.7"
+    },
+    "-MkdOLBno2Qg-C6jLraz" : {
+      "temperature" : "20.9"
+    },
+    "-MkdOLBqps2xnVh01Y9e" : {
+      "temperature" : "24.3"
+    },
+    "-MkdOLBsec63RzGOAzGP" : {
+      "temperature" : "25.3"
+    },
+    "-MkdOLG0FpCqs6lsRKsa" : {
+      "temperature" : "25.5"
+    },
+    "-MkdOLG29F-coToJ-AeJ" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOLG3-GW84ypElmA0" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOLG4ZCcvJ535SKW6" : {
+      "temperature" : "22.7"
+    },
+    "-MkdOLG4ZCcvJ535SKW7" : {
+      "temperature" : "25.6"
+    },
+    "-MkdOLG4ZCcvJ535SKW8" : {
+      "temperature" : "26.0"
+    },
+    "-MkdOLG5q8dAkeiGgdri" : {
+      "temperature" : "25.2"
+    },
+    "-MkdOLG6xTV2303VxHhA" : {
+      "temperature" : "22.4"
+    },
+    "-MkdOLG7pjF-tHOgfaez" : {
+      "temperature" : "23.7"
+    },
+    "-MkdOLG8TnhP32IHA8yp" : {
+      "temperature" : "21.3"
+    },
+    "-MkdOLG8TnhP32IHA8yq" : {
+      "temperature" : "24.3"
+    },
+    "-MkdOLG9pivC41fezwtt" : {
+      "temperature" : "26.5"
+    },
+    "-MkdOLGIKzISVhMgozDs" : {
+      "temperature" : "23.8"
+    },
+    "-MkdOLGLwnVAFec0GhVu" : {
+      "temperature" : "27.4"
+    },
+    "-MkdOLGtPrWoEVeLki2-" : {
+      "temperature" : "21.7"
+    },
+    "-MkdOLGuMsIdGtBJ2cJ7" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOLGvqK1v5fk3LeXx" : {
+      "temperature" : "20.3"
+    },
+    "-MkdOLGvqK1v5fk3LeXy" : {
+      "temperature" : "21.4"
+    },
+    "-MkdOLGzRW_P-ZR_KRoJ" : {
+      "temperature" : "27.6"
+    },
+    "-MkdOLH0lV4hTs3GE-rJ" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOLH4ePxIMgIhDrtx" : {
+      "temperature" : "27.1"
+    },
+    "-MkdOLH4ePxIMgIhDrty" : {
+      "temperature" : "27.2"
+    },
+    "-MkdOLHCaARXF9-7NyRn" : {
+      "temperature" : "21.0"
+    },
+    "-MkdOLHRQYWtKCTdRC4Z" : {
+      "temperature" : "20.9"
+    },
+    "-MkdOLIZNtYJsuOJwYj2" : {
+      "temperature" : "22.7"
+    },
+    "-MkdOLIdPgP7JxvMZXQs" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOLIeTNxHuYxsvFiR" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOLIeTNxHuYxsvFiS" : {
+      "temperature" : "28.0"
+    },
+    "-MkdOLImb_OlQd2RxMxY" : {
+      "temperature" : "27.4"
+    },
+    "-MkdOLIp5ayLScVn1H4z" : {
+      "temperature" : "22.1"
+    },
+    "-MkdOLIr3B2mXhf328bA" : {
+      "temperature" : "26.3"
+    },
+    "-MkdOLJ7XoTJBIX4OsnO" : {
+      "temperature" : "25.1"
+    },
+    "-MkdOLJD3_77pXzspFH9" : {
+      "temperature" : "18.3"
+    },
+    "-MkdOLL9tuROm0Hhb4y1" : {
+      "temperature" : "26.4"
+    },
+    "-MkdOLL9tuROm0Hhb4y2" : {
+      "temperature" : "23.6"
+    },
+    "-MkdOLL9tuROm0Hhb4y3" : {
+      "temperature" : "23.7"
+    },
+    "-MkdOLLFH8aa-Qk8NZSu" : {
+      "temperature" : "21.0"
+    },
+    "-MkdOLLFH8aa-Qk8NZSv" : {
+      "temperature" : "22.3"
+    },
+    "-MkdOLLKsW32HS7GEWcB" : {
+      "temperature" : "22.6"
+    },
+    "-MkdOLMkZOSZQEN2eaLK" : {
+      "temperature" : "24.4"
+    },
+    "-MkdOLNgaQHTd6gftf_d" : {
+      "temperature" : "26.1"
+    },
+    "-MkdOLR7oNG35u2LC7nZ" : {
+      "temperature" : "22.1"
+    },
+    "-MkdOLREVYJS3ZRdGMea" : {
+      "temperature" : "18.7"
+    },
+    "-MkdOLRZAU23YRUVcR-n" : {
+      "temperature" : "24.8"
+    },
+    "-MkdOLSnsxjYuJYovYyR" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOLT75LtqktSnNadR" : {
+      "temperature" : "19.2"
+    },
+    "-MkdOLTUk0cDCMoPqPIb" : {
+      "temperature" : "20.5"
+    },
+    "-MkdOLTkdUnj37kGuiSC" : {
+      "temperature" : "25.0"
+    },
+    "-MkdOLUTN8m5bdld_5ac" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOLWZVN016J0BMqn0" : {
+      "temperature" : "25.2"
+    },
+    "-MkdOLY0wa64I4LAf7Xt" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOL_eVvGZrL-FN5Tq" : {
+      "temperature" : "22.7"
+    },
+    "-MkdOLa0pbnA9qCsSRZq" : {
+      "temperature" : "26.6"
+    },
+    "-MkdOLbCWPBW69UD8J-7" : {
+      "temperature" : "22.6"
+    },
+    "-MkdOLbCWPBW69UD8J-8" : {
+      "temperature" : "27.2"
+    },
+    "-MkdOLbCWPBW69UD8J-9" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOLbCWPBW69UD8J-A" : {
+      "temperature" : "18.9"
+    },
+    "-MkdOLbCWPBW69UD8J-B" : {
+      "temperature" : "23.8"
+    },
+    "-MkdOLbCWPBW69UD8J-C" : {
+      "temperature" : "25.7"
+    },
+    "-MkdOLbCWPBW69UD8J-D" : {
+      "temperature" : "25.6"
+    },
+    "-MkdOLbCWPBW69UD8J-E" : {
+      "temperature" : "18.7"
+    },
+    "-MkdOLbF1mGpjnB3sdpl" : {
+      "temperature" : "27.8"
+    },
+    "-MkdOLeiWS1N5Q3YHlHx" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOLen52_TewZxz-mu" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOLg9_9D9NE_UVlft" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOLjRVnuP5apKPHcw" : {
+      "temperature" : "21.2"
+    },
+    "-MkdOLmXnSZ1wRQLTtVA" : {
+      "temperature" : "22.2"
+    },
+    "-MkdOLmXnSZ1wRQLTtVB" : {
+      "temperature" : "22.7"
+    },
+    "-MkdOLmZoI2Jo5_1YI7N" : {
+      "temperature" : "26.3"
+    },
+    "-MkdOLmZoI2Jo5_1YI7O" : {
+      "temperature" : "21.5"
+    },
+    "-MkdOLm_o-FbVc-QAIm0" : {
+      "temperature" : "23.0"
+    },
+    "-MkdOLmdtTqUBJd1TrUR" : {
+      "temperature" : "25.8"
+    },
+    "-MkdOLmoz621BvW_MASS" : {
+      "temperature" : "25.7"
+    },
+    "-MkdOLmoz621BvW_MAST" : {
+      "temperature" : "19.5"
+    },
+    "-MkdOLmoz621BvW_MASU" : {
+      "temperature" : "20.6"
+    },
+    "-MkdOLmoz621BvW_MASV" : {
+      "temperature" : "25.5"
+    },
+    "-MkdOLmq7NKPE07PLNrJ" : {
+      "temperature" : "26.1"
+    },
+    "-MkdOLpBVwAhdLzxpVXY" : {
+      "temperature" : "19.2"
+    },
+    "-MkdOLpBVwAhdLzxpVXZ" : {
+      "temperature" : "22.2"
+    },
+    "-MkdOLpH9sWpYss8Oc62" : {
+      "temperature" : "23.4"
+    },
+    "-MkdOLpKGyr7s8-_Njey" : {
+      "temperature" : "19.4"
+    },
+    "-MkdOLpKGyr7s8-_Njez" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOLpKGyr7s8-_Njf-" : {
+      "temperature" : "21.4"
+    },
+    "-MkdOLpQ5L5vlKwVXNan" : {
+      "temperature" : "22.3"
+    },
+    "-MkdOLpQ5L5vlKwVXNao" : {
+      "temperature" : "27.8"
+    },
+    "-MkdOLpQ5L5vlKwVXNap" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOLpRFf2qmeHUfZXx" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOLpRFf2qmeHUfZXy" : {
+      "temperature" : "18.1"
+    },
+    "-MkdOLpSjgHOurKcRedl" : {
+      "temperature" : "23.5"
+    },
+    "-MkdOLpSjgHOurKcRedm" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOLpUNd2EHmNCh69A" : {
+      "temperature" : "20.5"
+    },
+    "-MkdOLp_rTvW4fw1Zie8" : {
+      "temperature" : "26.5"
+    },
+    "-MkdOLpbI69XBjYEO7N5" : {
+      "temperature" : "18.1"
+    },
+    "-MkdOLqUDemXEfCMyQ-T" : {
+      "temperature" : "20.6"
+    },
+    "-MkdOLqWhnJgWI4k6G62" : {
+      "temperature" : "18.6"
+    },
+    "-MkdOLqnKEuhKNQIXGVJ" : {
+      "temperature" : "27.2"
+    },
+    "-MkdOLqv92FwxdB5jQSn" : {
+      "temperature" : "20.2"
+    },
+    "-MkdOLqv92FwxdB5jQSo" : {
+      "temperature" : "18.9"
+    },
+    "-MkdOLqv92FwxdB5jQSp" : {
+      "temperature" : "27.8"
+    },
+    "-MkdOLqwKMryTS3coGSi" : {
+      "temperature" : "26.9"
+    },
+    "-MkdOM1v_orlm78ABS0h" : {
+      "temperature" : "22.0"
+    },
+    "-MkdOM1wV6IYHZoBseyb" : {
+      "temperature" : "26.4"
+    },
+    "-MkdOM1wV6IYHZoBseyc" : {
+      "temperature" : "25.3"
+    },
+    "-MkdOM1wV6IYHZoBseyd" : {
+      "temperature" : "26.6"
+    },
+    "-MkdOM2MGNxmdrTXOMKA" : {
+      "temperature" : "23.1"
+    },
+    "-MkdOM2O6gddJxulEQ-M" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOM2O6gddJxulEQ-N" : {
+      "temperature" : "21.9"
+    },
+    "-MkdOM2Xcon9Sg6aNMpF" : {
+      "temperature" : "21.6"
+    },
+    "-MkdOM2hWzpGeWTp7vpY" : {
+      "temperature" : "26.7"
+    },
+    "-MkdOM2hWzpGeWTp7vpZ" : {
+      "temperature" : "25.2"
+    },
+    "-MkdOM2lpgnPdlBfdJEQ" : {
+      "temperature" : "19.0"
+    },
+    "-MkdOM2lpgnPdlBfdJER" : {
+      "temperature" : "21.0"
+    },
+    "-MkdOM2lpgnPdlBfdJES" : {
+      "temperature" : "25.3"
+    },
+    "-MkdOM2lpgnPdlBfdJET" : {
+      "temperature" : "22.8"
+    },
+    "-MkdOM2zdZwVYClLSTws" : {
+      "temperature" : "20.6"
+    },
+    "-MkdOM334WhRnrXYU_Rc" : {
+      "temperature" : "22.0"
+    },
+    "-MkdOM375CEp1XBLdMBF" : {
+      "temperature" : "26.3"
+    },
+    "-MkdOM3CQKWgKqkn2CRG" : {
+      "temperature" : "19.8"
+    },
+    "-MkdOM3CQKWgKqkn2CRH" : {
+      "temperature" : "27.4"
+    },
+    "-MkdOM3Kt9PIR8DBk8ML" : {
+      "temperature" : "19.1"
+    },
+    "-MkdOM9fdo065Du3-0DT" : {
+      "temperature" : "26.3"
+    },
+    "-MkdOM9g0hd4QZDS2Gix" : {
+      "temperature" : "20.8"
+    },
+    "-MkdOM9g0hd4QZDS2Giy" : {
+      "temperature" : "21.9"
+    },
+    "-MkdOM9kktmX4aGEk47r" : {
+      "temperature" : "22.3"
+    },
+    "-MkdOMDPBl5z3dE7l_uQ" : {
+      "temperature" : "18.5"
+    },
+    "-MkdOMDQGzcIMZfn6eoX" : {
+      "temperature" : "20.9"
+    },
+    "-MkdOMDQGzcIMZfn6eoY" : {
+      "temperature" : "18.6"
+    },
+    "-MkdOMDQGzcIMZfn6eoZ" : {
+      "temperature" : "18.9"
+    },
+    "-MkdOMDSOR-EPs2V3dsN" : {
+      "temperature" : "23.0"
+    },
+    "-MkdOMDat9brW2gAVzPk" : {
+      "temperature" : "22.6"
+    },
+    "-MkdOMDewlCGpDTjuHr4" : {
+      "temperature" : "25.9"
+    },
+    "-MkdOMDewlCGpDTjuHr5" : {
+      "temperature" : "18.1"
+    },
+    "-MkdOMDewlCGpDTjuHr6" : {
+      "temperature" : "27.7"
+    },
+    "-MkdOMDewlCGpDTjuHr7" : {
+      "temperature" : "26.1"
+    },
+    "-MkdOMDf_NBh-ZstSS06" : {
+      "temperature" : "23.0"
+    },
+    "-MkdOMDf_NBh-ZstSS07" : {
+      "temperature" : "22.8"
+    },
+    "-MkdOMDf_NBh-ZstSS08" : {
+      "temperature" : "24.4"
+    },
+    "-MkdOMDf_NBh-ZstSS09" : {
+      "temperature" : "27.6"
+    },
+    "-MkdOMDf_NBh-ZstSS0A" : {
+      "temperature" : "21.7"
+    },
+    "-MkdOMDf_NBh-ZstSS0B" : {
+      "temperature" : "21.1"
+    },
+    "-MkdOMDgNJqls6cxcULG" : {
+      "temperature" : "18.3"
+    },
+    "-MkdOMDgNJqls6cxcULH" : {
+      "temperature" : "25.0"
+    },
+    "-MkdOMDgNJqls6cxcULI" : {
+      "temperature" : "22.6"
+    },
+    "-MkdOMDiuppJ8XlvtIrx" : {
+      "temperature" : "24.9"
+    },
+    "-MkdOMDkdDRuPXDIyDzu" : {
+      "temperature" : "19.2"
+    },
+    "-MkdOMDnEbKmLZsk5DvR" : {
+      "temperature" : "23.6"
+    },
+    "-MkdOMDrfVrk3OTW8Dyt" : {
+      "temperature" : "21.5"
+    },
+    "-MkdOME7ykpcYkohCyx7" : {
+      "temperature" : "18.5"
+    },
+    "-MkdOME7ykpcYkohCyx8" : {
+      "temperature" : "23.1"
+    },
+    "-MkdOME7ykpcYkohCyx9" : {
+      "temperature" : "18.9"
+    },
+    "-MkdOME9DR1Prd1CBVOU" : {
+      "temperature" : "24.8"
+    },
+    "-MkdOMJCGDc-eCknsjJ-" : {
+      "temperature" : "22.6"
+    },
+    "-MkdOMJCGDc-eCknsjJ0" : {
+      "temperature" : "21.9"
+    },
+    "-MkdOMJCGDc-eCknsjJ1" : {
+      "temperature" : "26.4"
+    },
+    "-MkdOMJCGDc-eCknsjJ2" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOMJCGDc-eCknsjJ3" : {
+      "temperature" : "19.0"
+    },
+    "-MkdOMJCGDc-eCknsjJ4" : {
+      "temperature" : "25.9"
+    },
+    "-MkdOMJCGDc-eCknsjJ5" : {
+      "temperature" : "27.8"
+    },
+    "-MkdOMJCGDc-eCknsjJ6" : {
+      "temperature" : "21.5"
+    },
+    "-MkdOMJCGDc-eCknsjJ7" : {
+      "temperature" : "23.0"
+    },
+    "-MkdOMJCGDc-eCknsjJ8" : {
+      "temperature" : "21.7"
+    },
+    "-MkdOMJCGDc-eCknsjJ9" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOMJCGDc-eCknsjJA" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOMJCGDc-eCknsjJB" : {
+      "temperature" : "26.0"
+    },
+    "-MkdOMJCGDc-eCknsjJC" : {
+      "temperature" : "26.3"
+    },
+    "-MkdOMJCGDc-eCknsjJD" : {
+      "temperature" : "21.2"
+    },
+    "-MkdOMJCGDc-eCknsjJE" : {
+      "temperature" : "19.6"
+    },
+    "-MkdOMJCGDc-eCknsjJF" : {
+      "temperature" : "20.5"
+    },
+    "-MkdOMJCGDc-eCknsjJG" : {
+      "temperature" : "18.3"
+    },
+    "-MkdOMJCGDc-eCknsjJH" : {
+      "temperature" : "18.8"
+    },
+    "-MkdOMJD-wPilqGHu-xl" : {
+      "temperature" : "26.7"
+    },
+    "-MkdOMJD-wPilqGHu-xm" : {
+      "temperature" : "24.2"
+    },
+    "-MkdOMJD-wPilqGHu-xn" : {
+      "temperature" : "22.2"
+    },
+    "-MkdOMJD-wPilqGHu-xo" : {
+      "temperature" : "20.9"
+    },
+    "-MkdOMJD-wPilqGHu-xp" : {
+      "temperature" : "21.0"
+    },
+    "-MkdOMJD-wPilqGHu-xq" : {
+      "temperature" : "19.1"
+    },
+    "-MkdOMJD-wPilqGHu-xr" : {
+      "temperature" : "25.6"
+    },
+    "-MkdOMJD-wPilqGHu-xs" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOMJI7dYBEWDHX8tX" : {
+      "temperature" : "26.6"
+    },
+    "-MkdOMJI7dYBEWDHX8tY" : {
+      "temperature" : "19.8"
+    },
+    "-MkdOMKBD8FXMooelfKZ" : {
+      "temperature" : "27.7"
+    },
+    "-MkdOMNFUUVsf_8bZelw" : {
+      "temperature" : "20.8"
+    },
+    "-MkdOMNFUUVsf_8bZelx" : {
+      "temperature" : "27.3"
+    },
+    "-MkdOMNL12ZGy5Me0_6G" : {
+      "temperature" : "24.0"
+    },
+    "-MkdOMNL12ZGy5Me0_6H" : {
+      "temperature" : "18.5"
+    },
+    "-MkdOMNMcC8Wt0W8FUn1" : {
+      "temperature" : "20.9"
+    },
+    "-MkdOMNMcC8Wt0W8FUn2" : {
+      "temperature" : "22.4"
+    },
+    "-MkdOMNNoVoED4S56Gc1" : {
+      "temperature" : "21.5"
+    },
+    "-MkdOMNTLyf9EMbpc_HO" : {
+      "temperature" : "24.0"
+    },
+    "-MkdOMNUxmLBLmtW5jTP" : {
+      "temperature" : "18.7"
+    },
+    "-MkdOMNUxmLBLmtW5jTQ" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOMNUxmLBLmtW5jTR" : {
+      "temperature" : "26.7"
+    },
+    "-MkdOMNXLe2tCfkC_toi" : {
+      "temperature" : "26.4"
+    },
+    "-MkdOMNXLe2tCfkC_toj" : {
+      "temperature" : "20.8"
+    },
+    "-MkdOMNYQBPq1ccy1kEr" : {
+      "temperature" : "19.6"
+    },
+    "-MkdOMNYQBPq1ccy1kEs" : {
+      "temperature" : "25.9"
+    },
+    "-MkdOMNYQBPq1ccy1kEt" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOMNby0IBbs_nrWqv" : {
+      "temperature" : "25.9"
+    },
+    "-MkdOMNmdzlQ-cBvTkgl" : {
+      "temperature" : "21.5"
+    },
+    "-MkdOMT42Jt2Vyju3Tz2" : {
+      "temperature" : "23.9"
+    },
+    "-MkdOMT6ZPHK4o7mb8QL" : {
+      "temperature" : "24.3"
+    },
+    "-MkdOMT9pfauyWzO0ULD" : {
+      "temperature" : "27.6"
+    },
+    "-MkdOMTI2zkloeuyvbWY" : {
+      "temperature" : "27.8"
+    },
+    "-MkdOMTI2zkloeuyvbWZ" : {
+      "temperature" : "24.3"
+    },
+    "-MkdOMTJz95pWj1vGoaN" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOMTLoFX8fHf9k8P1" : {
+      "temperature" : "25.0"
+    },
+    "-MkdOMTMZ3TOx2jLvI7Q" : {
+      "temperature" : "26.9"
+    },
+    "-MkdOMTdg3SgqJD1845b" : {
+      "temperature" : "24.9"
+    },
+    "-MkdOMTdg3SgqJD1845c" : {
+      "temperature" : "26.6"
+    },
+    "-MkdOMTeb6bkeCwyuGRN" : {
+      "temperature" : "22.3"
+    },
+    "-MkdOMTfy180Djq_Ux4w" : {
+      "temperature" : "25.3"
+    },
+    "-MkdOMTfy180Djq_Ux4x" : {
+      "temperature" : "25.1"
+    },
+    "-MkdOMTfy180Djq_Ux4y" : {
+      "temperature" : "25.3"
+    },
+    "-MkdOMTfy180Djq_Ux4z" : {
+      "temperature" : "19.3"
+    },
+    "-MkdOMTfy180Djq_Ux5-" : {
+      "temperature" : "19.9"
+    },
+    "-MkdOMThkhB2SwNbQev2" : {
+      "temperature" : "24.9"
+    },
+    "-MkdOMTt-p5NsV-d8cVV" : {
+      "temperature" : "27.4"
+    },
+    "-MkdOMTvj6cqNdC-atGP" : {
+      "temperature" : "22.3"
+    },
+    "-MkdOMTztyeE7-xBrPBF" : {
+      "temperature" : "21.2"
+    },
+    "-MkdOMU-K3R40B057Ew1" : {
+      "temperature" : "26.4"
+    },
+    "-MkdOMU-K3R40B057Ew2" : {
+      "temperature" : "27.5"
+    },
+    "-MkdOMU-K3R40B057Ew3" : {
+      "temperature" : "21.5"
+    },
+    "-MkdOMUIu7gagoPru5Dd" : {
+      "temperature" : "21.1"
+    },
+    "-MkdOMUK_0OMj5-rr_WX" : {
+      "temperature" : "22.4"
+    },
+    "-MkdOMUK_0OMj5-rr_WY" : {
+      "temperature" : "27.3"
+    },
+    "-MkdOMWSqIheLFvPee1H" : {
+      "temperature" : "23.5"
+    },
+    "-MkdOMWSqIheLFvPee1I" : {
+      "temperature" : "23.8"
+    },
+    "-MkdOMWU9I8Ba2vlH8WL" : {
+      "temperature" : "18.1"
+    },
+    "-MkdOMW_RGVrpz8-tKTz" : {
+      "temperature" : "25.2"
+    },
+    "-MkdOMW_RGVrpz8-tKU-" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOMWaOOg_iTOG7JGy" : {
+      "temperature" : "23.0"
+    },
+    "-MkdOMWaOOg_iTOG7JGz" : {
+      "temperature" : "26.6"
+    },
+    "-MkdOMWbYFqmzCo-D0A_" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOMWbYFqmzCo-D0Aa" : {
+      "temperature" : "26.8"
+    },
+    "-MkdOMWbYFqmzCo-D0Ab" : {
+      "temperature" : "18.9"
+    },
+    "-MkdOMWqAmyXvmb_3f1V" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOMWrK45u9j6eU_Th" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOMWrK45u9j6eU_Ti" : {
+      "temperature" : "24.0"
+    },
+    "-MkdOMWrK45u9j6eU_Tj" : {
+      "temperature" : "27.8"
+    },
+    "-MkdOMWsBrq0meifsEUC" : {
+      "temperature" : "19.0"
+    },
+    "-MkdOMWsBrq0meifsEUD" : {
+      "temperature" : "19.0"
+    },
+    "-MkdOMWtYhlbQynvrDlo" : {
+      "temperature" : "21.3"
+    },
+    "-MkdOMWuKhNlD98NJS2W" : {
+      "temperature" : "27.8"
+    },
+    "-MkdOMg85xYk1WXGyhPi" : {
+      "temperature" : "23.9"
+    },
+    "-MkdOMijMb6G7wGhSwHf" : {
+      "temperature" : "24.7"
+    },
+    "-MkdOMijMb6G7wGhSwHg" : {
+      "temperature" : "25.1"
+    },
+    "-MkdOMik0K8e2HOhDBr8" : {
+      "temperature" : "21.3"
+    },
+    "-MkdOMipVKBzXoVPqHMC" : {
+      "temperature" : "24.3"
+    },
+    "-MkdOMiqtK4IVw6FXkGZ" : {
+      "temperature" : "18.1"
+    },
+    "-MkdOMirIGYQdhcU4VxS" : {
+      "temperature" : "27.3"
+    },
+    "-MkdOMisjGGHajSb7Ldq" : {
+      "temperature" : "24.6"
+    },
+    "-MkdOMisjGGHajSb7Ldr" : {
+      "temperature" : "20.8"
+    },
+    "-MkdOMisjGGHajSb7Lds" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOMivnmCCwhNtTYM0" : {
+      "temperature" : "21.4"
+    },
+    "-MkdOMivnmCCwhNtTYM1" : {
+      "temperature" : "20.5"
+    },
+    "-MkdOMkfXTvJzsjVMsIQ" : {
+      "temperature" : "25.8"
+    },
+    "-MkdOMkhRR3xJOKlRGID" : {
+      "temperature" : "24.9"
+    },
+    "-MkdOMkiqVIlfG2-n06T" : {
+      "temperature" : "25.9"
+    },
+    "-MkdOMkiqVIlfG2-n06U" : {
+      "temperature" : "18.3"
+    },
+    "-MkdOMkiqVIlfG2-n06V" : {
+      "temperature" : "21.0"
+    },
+    "-MkdOMkjsJb95soNfWPP" : {
+      "temperature" : "25.1"
+    },
+    "-MkdOMkl7jFb2Zho5p4x" : {
+      "temperature" : "21.5"
+    },
+    "-MkdOMkmYHmdDWRUilI2" : {
+      "temperature" : "22.4"
+    },
+    "-MkdOMkn6e_ATmQuqbdO" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOMkn6e_ATmQuqbdP" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOMkn6e_ATmQuqbdQ" : {
+      "temperature" : "24.9"
+    },
+    "-MkdOMkn6e_ATmQuqbdR" : {
+      "temperature" : "22.3"
+    },
+    "-MkdOMkogGGqngWKCv2H" : {
+      "temperature" : "22.5"
+    },
+    "-MkdOMkpJL7Ykb2X1Fx2" : {
+      "temperature" : "21.9"
+    },
+    "-MkdOMkvYWvKbBRTQaBJ" : {
+      "temperature" : "19.8"
+    },
+    "-MkdOMkw8wIKxA1vwlE4" : {
+      "temperature" : "24.9"
+    },
+    "-MkdOMkw8wIKxA1vwlE5" : {
+      "temperature" : "28.0"
+    },
+    "-MkdOMkw8wIKxA1vwlE6" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOMl1_fQuSR3aw5El" : {
+      "temperature" : "22.7"
+    },
+    "-MkdOMl2oomJOrp1vTVv" : {
+      "temperature" : "24.2"
+    },
+    "-MkdOMl31K7A1hIfwjIj" : {
+      "temperature" : "22.8"
+    },
+    "-MkdOMl6EPCmdac0E9YX" : {
+      "temperature" : "18.5"
+    },
+    "-MkdOMl7s1RflyDNmnBf" : {
+      "temperature" : "19.0"
+    },
+    "-MkdOMlJ6Ll6OAXMmQce" : {
+      "temperature" : "18.7"
+    },
+    "-MkdOMlJ6Ll6OAXMmQcf" : {
+      "temperature" : "23.0"
+    },
+    "-MkdOMlKPr9djMevHVeb" : {
+      "temperature" : "24.5"
+    },
+    "-MkdOMlM7NNF2TCcBeB2" : {
+      "temperature" : "27.4"
+    },
+    "-MkdOMlM7NNF2TCcBeB3" : {
+      "temperature" : "27.0"
+    },
+    "-MkdOMlM7NNF2TCcBeB4" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOMlNPSJljI9VGZQ4" : {
+      "temperature" : "23.9"
+    },
+    "-MkdOMlO-iUzWb49yS_S" : {
+      "temperature" : "24.4"
+    },
+    "-MkdOMlO-iUzWb49yS_T" : {
+      "temperature" : "22.0"
+    },
+    "-MkdOMlPgf6aRtcRKZOG" : {
+      "temperature" : "21.9"
+    },
+    "-MkdOMmA6iUTgThJo4pd" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOMmBMwPUUyKilMXD" : {
+      "temperature" : "27.1"
+    },
+    "-MkdOMo8kNIPenkXAPk3" : {
+      "temperature" : "19.1"
+    },
+    "-MkdOMo9kr4PsdQC2z64" : {
+      "temperature" : "26.3"
+    },
+    "-MkdOMo9kr4PsdQC2z65" : {
+      "temperature" : "23.5"
+    },
+    "-MkdOMoBBdk86jEkrtwd" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOMoBBdk86jEkrtwe" : {
+      "temperature" : "25.7"
+    },
+    "-MkdOMoBBdk86jEkrtwf" : {
+      "temperature" : "27.4"
+    },
+    "-MkdOMoCfQAlcKnhqSJ6" : {
+      "temperature" : "26.3"
+    },
+    "-MkdOMoCfQAlcKnhqSJ7" : {
+      "temperature" : "22.7"
+    },
+    "-MkdOMoCfQAlcKnhqSJ8" : {
+      "temperature" : "18.7"
+    },
+    "-MkdOMoCfQAlcKnhqSJ9" : {
+      "temperature" : "22.1"
+    },
+    "-MkdOMoCfQAlcKnhqSJA" : {
+      "temperature" : "19.4"
+    },
+    "-MkdOMoD6BV5y12R82EG" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOMoD6BV5y12R82EH" : {
+      "temperature" : "24.8"
+    },
+    "-MkdOMoFfV4bkPRHi_pG" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOMoFfV4bkPRHi_pH" : {
+      "temperature" : "18.5"
+    },
+    "-MkdOMoPJ_Hc4sy3DC2J" : {
+      "temperature" : "27.4"
+    },
+    "-MkdOMoPJ_Hc4sy3DC2K" : {
+      "temperature" : "20.3"
+    },
+    "-MkdOMoQ9CyYCYt0WjGC" : {
+      "temperature" : "23.8"
+    },
+    "-MkdOMoQ9CyYCYt0WjGD" : {
+      "temperature" : "23.4"
+    },
+    "-MkdOMoQ9CyYCYt0WjGE" : {
+      "temperature" : "21.3"
+    },
+    "-MkdOMoQ9CyYCYt0WjGF" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOMoQ9CyYCYt0WjGG" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOMoRJg4xjxTYqedm" : {
+      "temperature" : "27.7"
+    },
+    "-MkdOMoRJg4xjxTYqedn" : {
+      "temperature" : "24.7"
+    },
+    "-MkdOMoSRUBGCDBgOy5c" : {
+      "temperature" : "21.3"
+    },
+    "-MkdOMoTWUmVZJtc4IW-" : {
+      "temperature" : "23.9"
+    },
+    "-MkdOMoUGXTpzziHoVRU" : {
+      "temperature" : "19.3"
+    },
+    "-MkdOMoUGXTpzziHoVRV" : {
+      "temperature" : "21.3"
+    },
+    "-MkdOMoVUbqbafrRAI04" : {
+      "temperature" : "21.8"
+    },
+    "-MkdOMoVUbqbafrRAI05" : {
+      "temperature" : "24.0"
+    },
+    "-MkdOMoWbA803bv_d4Jk" : {
+      "temperature" : "25.5"
+    },
+    "-MkdOMoWbA803bv_d4Jl" : {
+      "temperature" : "19.7"
+    },
+    "-MkdOMoWbA803bv_d4Jm" : {
+      "temperature" : "26.1"
+    },
+    "-MkdOMoXnCD9FcjdMDK6" : {
+      "temperature" : "20.9"
+    },
+    "-MkdOMoYgLwCYAuM5J-A" : {
+      "temperature" : "21.2"
+    },
+    "-MkdOModSMQh6PL0h4Gq" : {
+      "temperature" : "24.8"
+    },
+    "-MkdOMoelZHCgd-SdXYe" : {
+      "temperature" : "24.2"
+    },
+    "-MkdOMoelZHCgd-SdXYf" : {
+      "temperature" : "25.5"
+    },
+    "-MkdOMoelZHCgd-SdXYg" : {
+      "temperature" : "25.3"
+    },
+    "-MkdOMofRxs7XGv0q5yF" : {
+      "temperature" : "19.2"
+    },
+    "-MkdOMofRxs7XGv0q5yG" : {
+      "temperature" : "21.9"
+    },
+    "-MkdOMogIJ4JAaLS7ShQ" : {
+      "temperature" : "19.7"
+    },
+    "-MkdOMogIJ4JAaLS7ShR" : {
+      "temperature" : "22.8"
+    },
+    "-MkdOMohTSNAojJVgMqS" : {
+      "temperature" : "18.4"
+    },
+    "-MkdOMohTSNAojJVgMqT" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOMohTSNAojJVgMqU" : {
+      "temperature" : "19.9"
+    },
+    "-MkdOMoiuftwUDe2R8ad" : {
+      "temperature" : "23.4"
+    },
+    "-MkdOMop5kdr9cyXapL5" : {
+      "temperature" : "26.9"
+    },
+    "-MkdOMop5kdr9cyXapL6" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOMorvqoc-daGeHJr" : {
+      "temperature" : "26.9"
+    },
+    "-MkdOMorvqoc-daGeHJs" : {
+      "temperature" : "20.3"
+    },
+    "-MkdOMorvqoc-daGeHJt" : {
+      "temperature" : "18.8"
+    },
+    "-MkdOMosqvEVHCD6d3Dt" : {
+      "temperature" : "24.0"
+    },
+    "-MkdOMotIV7U65Wb4FFJ" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOMouZOF9b8JS3klb" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOMyTIUT9vu-JrVhN" : {
+      "temperature" : "18.9"
+    },
+    "-MkdOMyVS0MuzViVyrHm" : {
+      "temperature" : "26.5"
+    },
+    "-MkdOMyWG2wL4gJPOCB1" : {
+      "temperature" : "23.6"
+    },
+    "-MkdOMyXqBn30iBaQg1E" : {
+      "temperature" : "23.3"
+    },
+    "-MkdOMyYvo7ZlR1e-ggn" : {
+      "temperature" : "27.6"
+    },
+    "-MkdOMyayxp7IHTllJ14" : {
+      "temperature" : "27.1"
+    },
+    "-MkdOMyj_Be6iRYBq3a5" : {
+      "temperature" : "24.9"
+    },
+    "-MkdOMyj_Be6iRYBq3a6" : {
+      "temperature" : "27.1"
+    },
+    "-MkdOMyj_Be6iRYBq3a7" : {
+      "temperature" : "25.0"
+    },
+    "-MkdOMyj_Be6iRYBq3a8" : {
+      "temperature" : "20.8"
+    },
+    "-MkdOMymZnMhW0csG0-g" : {
+      "temperature" : "23.6"
+    },
+    "-MkdOMyn-3-DJ1-dRHaa" : {
+      "temperature" : "21.4"
+    },
+    "-MkdOMyn-3-DJ1-dRHab" : {
+      "temperature" : "22.8"
+    },
+    "-MkdOMyoT0giD25lNifS" : {
+      "temperature" : "23.6"
+    },
+    "-MkdOMyoT0giD25lNifT" : {
+      "temperature" : "21.3"
+    },
+    "-MkdOMz3y-fz_XW5q58V" : {
+      "temperature" : "27.5"
+    },
+    "-MkdOMz3y-fz_XW5q58W" : {
+      "temperature" : "19.8"
+    },
+    "-MkdOMz3y-fz_XW5q58X" : {
+      "temperature" : "20.8"
+    },
+    "-MkdOMzBvnPlfzVigswE" : {
+      "temperature" : "24.4"
+    },
+    "-MkdOMzCKYETnlUGAats" : {
+      "temperature" : "20.0"
+    },
+    "-MkdOMzCKYETnlUGAatt" : {
+      "temperature" : "26.8"
+    },
+    "-MkdOMzCKYETnlUGAatu" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOMzDdmAgdHm6RIty" : {
+      "temperature" : "20.3"
+    },
+    "-MkdOMzE-KkIccVSqSMw" : {
+      "temperature" : "23.1"
+    },
+    "-MkdOMzF1BHz_54mqI4u" : {
+      "temperature" : "19.0"
+    },
+    "-MkdOMzGFAs88eeWvvIb" : {
+      "temperature" : "23.2"
+    },
+    "-MkdOMzGFAs88eeWvvIc" : {
+      "temperature" : "25.9"
+    },
+    "-MkdOMzHmukoELLT2-pE" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOMzINA9GB9r2P_Bx" : {
+      "temperature" : "20.6"
+    },
+    "-MkdOMzJxb0-YA37rZAT" : {
+      "temperature" : "25.3"
+    },
+    "-MkdOMzKhizNRzos3nle" : {
+      "temperature" : "26.6"
+    },
+    "-MkdOMzM2Yxe1gT7XPGu" : {
+      "temperature" : "25.9"
+    },
+    "-MkdOMzObaPHWpfZrzEd" : {
+      "temperature" : "24.8"
+    },
+    "-MkdOMzTeXypvSuz2Pd0" : {
+      "temperature" : "27.6"
+    },
+    "-MkdOMzTeXypvSuz2Pd1" : {
+      "temperature" : "19.5"
+    },
+    "-MkdOMzUY1f8DP2tETCS" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOMzUY1f8DP2tETCT" : {
+      "temperature" : "23.3"
+    },
+    "-MkdOMzVKtps2_nmiBxw" : {
+      "temperature" : "19.7"
+    },
+    "-MkdOMzYQeyUuuy3rmZU" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOMzZ_vfdYqY_CSwZ" : {
+      "temperature" : "20.5"
+    },
+    "-MkdOMzZ_vfdYqY_CSw_" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOMzZ_vfdYqY_CSwa" : {
+      "temperature" : "19.0"
+    },
+    "-MkdOMzag5tdU09vD6GG" : {
+      "temperature" : "18.1"
+    },
+    "-MkdOMzb6LPugqn8pTQS" : {
+      "temperature" : "25.6"
+    },
+    "-MkdOMzcmzc9yHVkcj4q" : {
+      "temperature" : "27.8"
+    },
+    "-MkdOMzcmzc9yHVkcj4r" : {
+      "temperature" : "21.2"
+    },
+    "-MkdOMzfDcNRnjdCruPB" : {
+      "temperature" : "18.1"
+    },
+    "-MkdOMzh7-sgdQ64vGNz" : {
+      "temperature" : "25.5"
+    },
+    "-MkdOMzj1ybclpfmaoXI" : {
+      "temperature" : "26.6"
+    },
+    "-MkdOMzj1ybclpfmaoXJ" : {
+      "temperature" : "23.1"
+    },
+    "-MkdOMzzclivMD0QMhTO" : {
+      "temperature" : "21.4"
+    },
+    "-MkdOMzzclivMD0QMhTP" : {
+      "temperature" : "20.1"
+    },
+    "-MkdOMzzclivMD0QMhTQ" : {
+      "temperature" : "19.7"
+    },
+    "-MkdON--hH77dMVmLlRz" : {
+      "temperature" : "23.1"
+    },
+    "-MkdON--hH77dMVmLlS-" : {
+      "temperature" : "20.5"
+    },
+    "-MkdON-0sgDKgUNGuaey" : {
+      "temperature" : "20.8"
+    },
+    "-MkdON-2L6yqLxqNzByK" : {
+      "temperature" : "19.7"
+    },
+    "-MkdON-2L6yqLxqNzByL" : {
+      "temperature" : "23.8"
+    },
+    "-MkdON-2L6yqLxqNzByM" : {
+      "temperature" : "21.9"
+    },
+    "-MkdON-2L6yqLxqNzByN" : {
+      "temperature" : "26.5"
+    },
+    "-MkdON-3m-W3lQboJcdP" : {
+      "temperature" : "23.0"
+    },
+    "-MkdON-E4lMaYTj9CwNz" : {
+      "temperature" : "26.7"
+    },
+    "-MkdON-FFOJX1D1ujdj0" : {
+      "temperature" : "24.1"
+    },
+    "-MkdON-FFOJX1D1ujdj1" : {
+      "temperature" : "27.5"
+    },
+    "-MkdON-FFOJX1D1ujdj2" : {
+      "temperature" : "27.3"
+    },
+    "-MkdON-FFOJX1D1ujdj3" : {
+      "temperature" : "19.9"
+    },
+    "-MkdON-H7DadBOQ3fGYF" : {
+      "temperature" : "21.1"
+    },
+    "-MkdON-LrK5sokbMBtjQ" : {
+      "temperature" : "18.8"
+    },
+    "-MkdON-UfxdAAlqo4kIy" : {
+      "temperature" : "27.8"
+    },
+    "-MkdON-VMQW6Ylq4KMak" : {
+      "temperature" : "21.9"
+    },
+    "-MkdON-WgfXgd0L8g8u6" : {
+      "temperature" : "24.5"
+    },
+    "-MkdON-YdKw6Uu2e4fFf" : {
+      "temperature" : "22.2"
+    },
+    "-MkdON-YdKw6Uu2e4fFg" : {
+      "temperature" : "19.5"
+    },
+    "-MkdON-ZlPPEkmaaQImS" : {
+      "temperature" : "22.8"
+    },
+    "-MkdON-ZlPPEkmaaQImT" : {
+      "temperature" : "25.1"
+    },
+    "-MkdON-_KgFLR1B4_Sd1" : {
+      "temperature" : "26.8"
+    },
+    "-MkdON-bnnH1b5QS-o5O" : {
+      "temperature" : "20.8"
+    },
+    "-MkdON-bnnH1b5QS-o5P" : {
+      "temperature" : "25.8"
+    },
+    "-MkdON-i7guQkaONsZtJ" : {
+      "temperature" : "26.3"
+    },
+    "-MkdON-jOAeR1zPsXLvh" : {
+      "temperature" : "24.9"
+    },
+    "-MkdON-jOAeR1zPsXLvi" : {
+      "temperature" : "22.2"
+    },
+    "-MkdON-jOAeR1zPsXLvj" : {
+      "temperature" : "18.5"
+    },
+    "-MkdON-k-nHyGtuoe9Ux" : {
+      "temperature" : "21.2"
+    },
+    "-MkdON-lIcix8Tu0tJOO" : {
+      "temperature" : "26.6"
+    },
+    "-MkdON-mpCBJdSHCRIwx" : {
+      "temperature" : "26.7"
+    },
+    "-MkdON-mpCBJdSHCRIwy" : {
+      "temperature" : "23.1"
+    },
+    "-MkdON-nxy4iZ1HaDSfn" : {
+      "temperature" : "20.2"
+    },
+    "-MkdON-q7zzomAwBFvXJ" : {
+      "temperature" : "25.0"
+    },
+    "-MkdON-zxTWRCmH6P5PM" : {
+      "temperature" : "22.7"
+    },
+    "-MkdON00eAvQ8wO4Lfg3" : {
+      "temperature" : "18.6"
+    },
+    "-MkdON1PUzJ5QshKp-40" : {
+      "temperature" : "24.8"
+    },
+    "-MkdON1PUzJ5QshKp-41" : {
+      "temperature" : "22.7"
+    },
+    "-MkdON1QgGiBSjAUElku" : {
+      "temperature" : "23.8"
+    },
+    "-MkdON1QgGiBSjAUElkv" : {
+      "temperature" : "22.7"
+    },
+    "-MkdON1QgGiBSjAUElkw" : {
+      "temperature" : "22.7"
+    },
+    "-MkdON1QgGiBSjAUElkx" : {
+      "temperature" : "25.1"
+    },
+    "-MkdON1RIqHPxerCrryo" : {
+      "temperature" : "24.7"
+    },
+    "-MkdON1ZCZX1JexvjNq9" : {
+      "temperature" : "21.4"
+    },
+    "-MkdON1_lMyzfXJ9f8wm" : {
+      "temperature" : "19.0"
+    },
+    "-MkdON1_lMyzfXJ9f8wn" : {
+      "temperature" : "25.3"
+    },
+    "-MkdON3XU5DkRK0VvnsG" : {
+      "temperature" : "18.7"
+    },
+    "-MkdON3XU5DkRK0VvnsH" : {
+      "temperature" : "27.5"
+    },
+    "-MkdON3XU5DkRK0VvnsI" : {
+      "temperature" : "24.0"
+    },
+    "-MkdON3XU5DkRK0VvnsJ" : {
+      "temperature" : "22.7"
+    },
+    "-MkdON3Ya8sUquUgPkBx" : {
+      "temperature" : "23.8"
+    },
+    "-MkdON3eB5LTjAaE40jh" : {
+      "temperature" : "27.8"
+    },
+    "-MkdON3eB5LTjAaE40ji" : {
+      "temperature" : "22.4"
+    },
+    "-MkdON3f9C7rL_Lwzq4e" : {
+      "temperature" : "18.5"
+    },
+    "-MkdON3f9C7rL_Lwzq4f" : {
+      "temperature" : "22.7"
+    },
+    "-MkdON3gepoh4v8DdjCU" : {
+      "temperature" : "25.1"
+    },
+    "-MkdON3gepoh4v8DdjCV" : {
+      "temperature" : "21.0"
+    },
+    "-MkdON3hOU2Ygj9d89GH" : {
+      "temperature" : "25.5"
+    },
+    "-MkdON3hOU2Ygj9d89GI" : {
+      "temperature" : "24.7"
+    },
+    "-MkdON4-StTSSemDZvC6" : {
+      "temperature" : "22.2"
+    },
+    "-MkdON43yLUwOwEBjPnN" : {
+      "temperature" : "21.7"
+    },
+    "-MkdON44Y1EkQLpurEUD" : {
+      "temperature" : "25.4"
+    },
+    "-MkdON450-zv5SNX8JLR" : {
+      "temperature" : "27.0"
+    },
+    "-MkdON450-zv5SNX8JLS" : {
+      "temperature" : "28.0"
+    },
+    "-MkdON450-zv5SNX8JLT" : {
+      "temperature" : "23.7"
+    },
+    "-MkdON461rPOYFZJOG4t" : {
+      "temperature" : "22.6"
+    },
+    "-MkdON461rPOYFZJOG4u" : {
+      "temperature" : "22.8"
+    },
+    "-MkdON461rPOYFZJOG4v" : {
+      "temperature" : "18.9"
+    },
+    "-MkdON48xPg6fVOMMjpA" : {
+      "temperature" : "21.3"
+    },
+    "-MkdON48xPg6fVOMMjpB" : {
+      "temperature" : "18.6"
+    },
+    "-MkdON49uKqCZpLM2UHS" : {
+      "temperature" : "25.6"
+    },
+    "-MkdON4B3WvPExdcEpgO" : {
+      "temperature" : "18.4"
+    },
+    "-MkdON4FwEUDxF3ZWlJB" : {
+      "temperature" : "19.4"
+    },
+    "-MkdON4GxQIkM0ZIt1WN" : {
+      "temperature" : "23.8"
+    },
+    "-MkdON4HhLJC7_HRVSz-" : {
+      "temperature" : "27.7"
+    },
+    "-MkdON4IpZqgC_4NKU7p" : {
+      "temperature" : "22.4"
+    },
+    "-MkdON4IpZqgC_4NKU7q" : {
+      "temperature" : "20.7"
+    },
+    "-MkdON4IpZqgC_4NKU7r" : {
+      "temperature" : "27.4"
+    },
+    "-MkdON4JLw1P6QpMgybZ" : {
+      "temperature" : "23.6"
+    },
+    "-MkdON4Ky5YOSDPQlnFB" : {
+      "temperature" : "24.3"
+    },
+    "-MkdON4LJcDa3cWn22Rx" : {
+      "temperature" : "22.3"
+    },
+    "-MkdON4LJcDa3cWn22Ry" : {
+      "temperature" : "27.1"
+    },
+    "-MkdON4LJcDa3cWn22Rz" : {
+      "temperature" : "23.4"
+    },
+    "-MkdON4MBEx-_9ftykRi" : {
+      "temperature" : "21.8"
+    },
+    "-MkdON4NAk1FeABMzHE6" : {
+      "temperature" : "22.8"
+    },
+    "-MkdON4Oy5dwPYCMTGin" : {
+      "temperature" : "19.1"
+    },
+    "-MkdON4PInQtD2yCP7GN" : {
+      "temperature" : "22.9"
+    },
+    "-MkdON4PInQtD2yCP7GO" : {
+      "temperature" : "20.7"
+    },
+    "-MkdON4PInQtD2yCP7GP" : {
+      "temperature" : "23.4"
+    },
+    "-MkdON4RkH4oEoVEasBl" : {
+      "temperature" : "21.0"
+    },
+    "-MkdON4RkH4oEoVEasBm" : {
+      "temperature" : "24.2"
+    },
+    "-MkdON4UzCGPHJedyfJz" : {
+      "temperature" : "23.3"
+    },
+    "-MkdON4WP1K9GsTrQAwK" : {
+      "temperature" : "23.3"
+    },
+    "-MkdON4Zgn5R9mkshzmk" : {
+      "temperature" : "19.0"
+    },
+    "-MkdON4_wWIuM2bBAMxS" : {
+      "temperature" : "26.7"
+    },
+    "-MkdON4_wWIuM2bBAMxT" : {
+      "temperature" : "22.9"
+    },
+    "-MkdON4_wWIuM2bBAMxU" : {
+      "temperature" : "25.8"
+    },
+    "-MkdON4_wWIuM2bBAMxV" : {
+      "temperature" : "20.8"
+    },
+    "-MkdON4b7QWXWIRnsc9f" : {
+      "temperature" : "27.5"
+    },
+    "-MkdON4dmJXnDAiYwvku" : {
+      "temperature" : "19.3"
+    },
+    "-MkdON4efP6wnkZuT9SX" : {
+      "temperature" : "25.3"
+    },
+    "-MkdON4efP6wnkZuT9SY" : {
+      "temperature" : "19.5"
+    },
+    "-MkdON4efP6wnkZuT9SZ" : {
+      "temperature" : "26.4"
+    },
+    "-MkdON4gYPWJFz7jtdUX" : {
+      "temperature" : "25.2"
+    },
+    "-MkdON4lCvcZQPWoYBEI" : {
+      "temperature" : "23.3"
+    },
+    "-MkdON4lCvcZQPWoYBEJ" : {
+      "temperature" : "23.9"
+    },
+    "-MkdON4qvgycy2zM7gKV" : {
+      "temperature" : "19.4"
+    },
+    "-MkdON4rX7LA17XCtdnz" : {
+      "temperature" : "26.2"
+    },
+    "-MkdON4rX7LA17XCtdo-" : {
+      "temperature" : "26.3"
+    },
+    "-MkdON4rX7LA17XCtdo0" : {
+      "temperature" : "23.4"
+    },
+    "-MkdON4sVzufpXAu4DDF" : {
+      "temperature" : "23.1"
+    },
+    "-MkdON4sVzufpXAu4DDG" : {
+      "temperature" : "19.9"
+    },
+    "-MkdON4sVzufpXAu4DDH" : {
+      "temperature" : "18.8"
+    },
+    "-MkdON5-sTHQTee1j3fa" : {
+      "temperature" : "20.5"
+    },
+    "-MkdON51q6QL55SEBlO1" : {
+      "temperature" : "23.8"
+    },
+    "-MkdON52TiccPZKarSuN" : {
+      "temperature" : "20.3"
+    },
+    "-MkdON52TiccPZKarSuO" : {
+      "temperature" : "21.3"
+    },
+    "-MkdON52TiccPZKarSuP" : {
+      "temperature" : "27.2"
+    },
+    "-MkdON53swSV82FfO3-e" : {
+      "temperature" : "26.3"
+    },
+    "-MkdON54Eha49sfCgGzb" : {
+      "temperature" : "22.6"
+    },
+    "-MkdON54Eha49sfCgGzc" : {
+      "temperature" : "19.1"
+    },
+    "-MkdON54Eha49sfCgGzd" : {
+      "temperature" : "18.0"
+    },
+    "-MkdON54Eha49sfCgGze" : {
+      "temperature" : "23.6"
+    },
+    "-MkdON54Eha49sfCgGzf" : {
+      "temperature" : "22.1"
+    },
+    "-MkdON5My1M7EB6s3T56" : {
+      "temperature" : "22.1"
+    },
+    "-MkdON5Oh2UoDA6Dq9JO" : {
+      "temperature" : "27.7"
+    },
+    "-MkdON5QDMEc9PcOLAD9" : {
+      "temperature" : "18.4"
+    },
+    "-MkdON5QDMEc9PcOLADA" : {
+      "temperature" : "22.7"
+    },
+    "-MkdON5SNSKWUWBWZF9B" : {
+      "temperature" : "21.4"
+    },
+    "-MkdON5TFGmZWFEmnuTj" : {
+      "temperature" : "22.0"
+    },
+    "-MkdON5Uy3jkiglHuXsA" : {
+      "temperature" : "19.0"
+    },
+    "-MkdON5Uy3jkiglHuXsB" : {
+      "temperature" : "24.6"
+    },
+    "-MkdON5Uy3jkiglHuXsC" : {
+      "temperature" : "18.7"
+    },
+    "-MkdON5Uy3jkiglHuXsD" : {
+      "temperature" : "24.1"
+    },
+    "-MkdON5Uy3jkiglHuXsE" : {
+      "temperature" : "25.6"
+    },
+    "-MkdON5Uy3jkiglHuXsF" : {
+      "temperature" : "24.1"
+    },
+    "-MkdON6aYpaaDuEkj0zw" : {
+      "temperature" : "22.1"
+    },
+    "-MkdON6bid2epLfv_AM2" : {
+      "temperature" : "19.5"
+    },
+    "-MkdON6bid2epLfv_AM3" : {
+      "temperature" : "23.0"
+    },
+    "-MkdON6dKB2913H33u1z" : {
+      "temperature" : "23.1"
+    },
+    "-MkdONBD3Nd_ORkyD1im" : {
+      "temperature" : "25.3"
+    },
+    "-MkdONBD3Nd_ORkyD1in" : {
+      "temperature" : "27.7"
+    },
+    "-MkdONBD3Nd_ORkyD1io" : {
+      "temperature" : "18.6"
+    },
+    "-MkdONBFb9NLzyrSAWHX" : {
+      "temperature" : "19.8"
+    },
+    "-MkdONBGxvPTpgM8ySe_" : {
+      "temperature" : "18.6"
+    },
+    "-MkdONBJTPUUZRjh58ms" : {
+      "temperature" : "20.0"
+    },
+    "-MkdONBLivmS1dGdzphy" : {
+      "temperature" : "18.1"
+    },
+    "-MkdONBMMiZ4_Dpu4rIm" : {
+      "temperature" : "22.7"
+    },
+    "-MkdONCjQ-dwlwScCPxZ" : {
+      "temperature" : "27.5"
+    },
+    "-MkdONDhVBrxatUIU1GA" : {
+      "temperature" : "23.6"
+    },
+    "-MkdONDiW0HH4f3EFEdr" : {
+      "temperature" : "25.1"
+    },
+    "-MkdONDiW0HH4f3EFEds" : {
+      "temperature" : "19.2"
+    },
+    "-MkdONDkDRvc7kPuJbjk" : {
+      "temperature" : "26.8"
+    },
+    "-MkdONDkDRvc7kPuJbjl" : {
+      "temperature" : "24.8"
+    },
+    "-MkdONDkDRvc7kPuJbjm" : {
+      "temperature" : "24.4"
+    },
+    "-MkdONDkDRvc7kPuJbjn" : {
+      "temperature" : "26.9"
+    },
+    "-MkdONDlksiOJJJTDM0A" : {
+      "temperature" : "21.3"
+    },
+    "-MkdONDlksiOJJJTDM0B" : {
+      "temperature" : "26.0"
+    },
+    "-MkdONDlksiOJJJTDM0C" : {
+      "temperature" : "25.0"
+    },
+    "-MkdONDm00OW4anXKkrT" : {
+      "temperature" : "18.9"
+    },
+    "-MkdONDm00OW4anXKkrU" : {
+      "temperature" : "27.5"
+    },
+    "-MkdONDm00OW4anXKkrV" : {
+      "temperature" : "23.2"
+    },
+    "-MkdONDnFlzSoVagtVpQ" : {
+      "temperature" : "24.1"
+    },
+    "-MkdONDoIpd11Q_zaT6y" : {
+      "temperature" : "19.6"
+    },
+    "-MkdONDp96xvOVzoRfRK" : {
+      "temperature" : "20.9"
+    },
+    "-MkdONDqjOz_CQgcDqwt" : {
+      "temperature" : "19.7"
+    },
+    "-MkdONDqjOz_CQgcDqwu" : {
+      "temperature" : "21.7"
+    },
+    "-MkdONDqjOz_CQgcDqwv" : {
+      "temperature" : "27.1"
+    },
+    "-MkdONDrfp_0SS6y50m0" : {
+      "temperature" : "24.8"
+    },
+    "-MkdONDsFRDwfj2ibvI1" : {
+      "temperature" : "27.2"
+    },
+    "-MkdONDsFRDwfj2ibvI2" : {
+      "temperature" : "19.5"
+    },
+    "-MkdONDsFRDwfj2ibvI3" : {
+      "temperature" : "19.6"
+    },
+    "-MkdONDuD2xs0n57-Wj5" : {
+      "temperature" : "25.7"
+    },
+    "-MkdONDuD2xs0n57-Wj6" : {
+      "temperature" : "26.6"
+    },
+    "-MkdONDvoNORFU8qte-_" : {
+      "temperature" : "23.8"
+    },
+    "-MkdONDvoNORFU8qte-a" : {
+      "temperature" : "21.5"
+    },
+    "-MkdONDvoNORFU8qte-b" : {
+      "temperature" : "19.4"
+    },
+    "-MkdONDvoNORFU8qte-c" : {
+      "temperature" : "25.0"
+    },
+    "-MkdONDvoNORFU8qte-d" : {
+      "temperature" : "18.7"
+    },
+    "-MkdONDwqWtBPX9symwR" : {
+      "temperature" : "24.0"
+    },
+    "-MkdONDygAigBm0U1wve" : {
+      "temperature" : "23.6"
+    },
+    "-MkdONDygAigBm0U1wvf" : {
+      "temperature" : "27.6"
+    },
+    "-MkdONDygAigBm0U1wvg" : {
+      "temperature" : "26.6"
+    },
+    "-MkdONDzwnFcGgZT0jY4" : {
+      "temperature" : "22.6"
+    },
+    "-MkdONE-sK875kumPMhB" : {
+      "temperature" : "20.1"
+    },
+    "-MkdONE-sK875kumPMhC" : {
+      "temperature" : "24.0"
+    },
+    "-MkdONE6mkKw5VYd1Noi" : {
+      "temperature" : "21.1"
+    },
+    "-MkdONE8LJoA9Rveq5DU" : {
+      "temperature" : "27.6"
+    },
+    "-MkdONG7ctxbNHvzh-YG" : {
+      "temperature" : "24.9"
+    },
+    "-MkdONG8MZTcS6zHKWDa" : {
+      "temperature" : "25.6"
+    },
+    "-MkdONHggLOySU8j_gOc" : {
+      "temperature" : "23.7"
+    },
+    "-MkdONHhfIccSLTI_NJ_" : {
+      "temperature" : "24.9"
+    },
+    "-MkdONHphYu5-4wf4ALX" : {
+      "temperature" : "24.6"
+    },
+    "-MkdONHphYu5-4wf4ALY" : {
+      "temperature" : "19.2"
+    },
+    "-MkdONHphYu5-4wf4ALZ" : {
+      "temperature" : "27.5"
+    },
+    "-MkdONHqwQsGyrRaq2ND" : {
+      "temperature" : "21.2"
+    },
+    "-MkdONHu3-PxYi0k49mj" : {
+      "temperature" : "23.4"
+    },
+    "-MkdONHvRfn4f6A72aK5" : {
+      "temperature" : "18.1"
+    },
+    "-MkdONHvRfn4f6A72aK6" : {
+      "temperature" : "28.0"
+    },
+    "-MkdONHwnlN7duiHe9ab" : {
+      "temperature" : "27.6"
+    },
+    "-MkdONHxDcpTtDTtF4vx" : {
+      "temperature" : "21.9"
+    },
+    "-MkdONI11IaTbPfYBIAK" : {
+      "temperature" : "19.9"
+    },
+    "-MkdONI11IaTbPfYBIAL" : {
+      "temperature" : "27.1"
+    },
+    "-MkdONI20tQw2qzhWtDJ" : {
+      "temperature" : "19.7"
+    },
+    "-MkdONI20tQw2qzhWtDK" : {
+      "temperature" : "23.9"
+    },
+    "-MkdONI20tQw2qzhWtDL" : {
+      "temperature" : "25.9"
+    },
+    "-MkdONI3MXAQ1vMVLg1u" : {
+      "temperature" : "18.6"
+    },
+    "-MkdONI3MXAQ1vMVLg1v" : {
+      "temperature" : "26.1"
+    },
+    "-MkdONI3MXAQ1vMVLg1w" : {
+      "temperature" : "19.5"
+    },
+    "-MkdONI3MXAQ1vMVLg1x" : {
+      "temperature" : "24.0"
+    },
+    "-MkdONI3MXAQ1vMVLg1y" : {
+      "temperature" : "22.7"
+    },
+    "-MkdONI4_Ub8PlC3f2rL" : {
+      "temperature" : "25.1"
+    },
+    "-MkdONI5bVLEOd_2mtX5" : {
+      "temperature" : "23.0"
+    },
+    "-MkdONJA2QpBI9CYNcOt" : {
+      "temperature" : "25.8"
+    },
+    "-MkdONJA2QpBI9CYNcOu" : {
+      "temperature" : "25.8"
+    },
+    "-MkdONJE91nEAj3_YTPD" : {
+      "temperature" : "23.2"
+    },
+    "-MkdONJF6Nvm6zgE6uXy" : {
+      "temperature" : "24.4"
+    },
+    "-MkdONJGmU3yVyFvESsu" : {
+      "temperature" : "18.4"
+    },
+    "-MkdONJjx2f4zV8tG5EA" : {
+      "temperature" : "20.5"
+    },
+    "-MkdONM_8U-WtlVkfjbb" : {
+      "temperature" : "27.4"
+    },
+    "-MkdONM_8U-WtlVkfjbc" : {
+      "temperature" : "22.8"
+    },
+    "-MkdONMahiMj6qJJ-Yoj" : {
+      "temperature" : "22.0"
+    },
+    "-MkdONMbF4lpEqBfeoCn" : {
+      "temperature" : "18.1"
+    },
+    "-MkdONMkz-h7w14T9zYm" : {
+      "temperature" : "20.3"
+    },
+    "-MkdONMnLXF7PC-Vaifw" : {
+      "temperature" : "18.5"
+    },
+    "-MkdONMnLXF7PC-Vaifx" : {
+      "temperature" : "25.6"
+    },
+    "-MkdONMnLXF7PC-Vaify" : {
+      "temperature" : "27.0"
+    },
+    "-MkdONMnLXF7PC-Vaifz" : {
+      "temperature" : "27.2"
+    },
+    "-MkdONMo9eD7KXv_3Y06" : {
+      "temperature" : "22.5"
+    },
+    "-MkdONMqsZt4yO02Xpkg" : {
+      "temperature" : "23.9"
+    },
+    "-MkdONMqsZt4yO02Xpkh" : {
+      "temperature" : "19.3"
+    },
+    "-MkdONMtSOhW00TviJIc" : {
+      "temperature" : "22.8"
+    },
+    "-MkdONMtSOhW00TviJId" : {
+      "temperature" : "26.1"
+    },
+    "-MkdONN5r8IO2xGXFxpg" : {
+      "temperature" : "20.8"
+    },
+    "-MkdONNAXnRfLTsvCTNE" : {
+      "temperature" : "18.9"
+    },
+    "-MkdONNAXnRfLTsvCTNF" : {
+      "temperature" : "23.1"
+    },
+    "-MkdONNC3wZ8bvMK4J-G" : {
+      "temperature" : "21.5"
+    },
+    "-MkdONND4-5nPOXOweC5" : {
+      "temperature" : "23.8"
+    },
+    "-MkdONNF6gsp3k1AbcKZ" : {
+      "temperature" : "18.9"
+    },
+    "-MkdONNGqQ4rSRZSGq4W" : {
+      "temperature" : "26.7"
+    },
+    "-MkdONNGqQ4rSRZSGq4X" : {
+      "temperature" : "25.1"
+    },
+    "-MkdONNGqQ4rSRZSGq4Y" : {
+      "temperature" : "18.4"
+    },
+    "-MkdONNHPmsQaG2mkeFh" : {
+      "temperature" : "18.8"
+    },
+    "-MkdONNJkRS6IoU9Rsyq" : {
+      "temperature" : "23.2"
+    },
+    "-MkdONNMu32mANYR7gq3" : {
+      "temperature" : "20.3"
+    },
+    "-MkdONNMu32mANYR7gq4" : {
+      "temperature" : "18.6"
+    },
+    "-MkdONNOEitnu8uSq9Uh" : {
+      "temperature" : "26.7"
+    },
+    "-MkdONNOEitnu8uSq9Ui" : {
+      "temperature" : "23.5"
+    },
+    "-MkdONNTvQ9l3acmYJ2c" : {
+      "temperature" : "26.2"
+    },
+    "-MkdONNWf7fFmqlHcaYy" : {
+      "temperature" : "25.1"
+    },
+    "-MkdONNXtNtaDEIl73cp" : {
+      "temperature" : "25.2"
+    },
+    "-MkdONNXtNtaDEIl73cq" : {
+      "temperature" : "25.9"
+    },
+    "-MkdONNXtNtaDEIl73cr" : {
+      "temperature" : "25.2"
+    },
+    "-MkdONNXtNtaDEIl73cs" : {
+      "temperature" : "21.4"
+    },
+    "-MkdONNXtNtaDEIl73ct" : {
+      "temperature" : "26.0"
+    },
+    "-MkdONNZhFRFoPaLF1w7" : {
+      "temperature" : "26.4"
+    },
+    "-MkdONNZhFRFoPaLF1w8" : {
+      "temperature" : "22.3"
+    },
+    "-MkdONNZhFRFoPaLF1w9" : {
+      "temperature" : "26.3"
+    },
+    "-MkdONN_6ZccssvzBvTs" : {
+      "temperature" : "25.7"
+    },
+    "-MkdONNcY2iLJfDpk36m" : {
+      "temperature" : "25.9"
+    },
+    "-MkdONNcY2iLJfDpk36n" : {
+      "temperature" : "24.8"
+    },
+    "-MkdONNe4BwUF6ydp44Y" : {
+      "temperature" : "21.9"
+    },
+    "-MkdONNe4BwUF6ydp44Z" : {
+      "temperature" : "26.9"
+    },
+    "-MkdONNna0Edogq8jiQo" : {
+      "temperature" : "20.2"
+    },
+    "-MkdONNoesjqPb1DaZ8U" : {
+      "temperature" : "23.9"
+    },
+    "-MkdONNrpptXAxaltscy" : {
+      "temperature" : "20.1"
+    },
+    "-MkdONNtI8iJ0zlaV31f" : {
+      "temperature" : "26.0"
+    },
+    "-MkdONP6Ny00t3c4vRbt" : {
+      "temperature" : "27.4"
+    },
+    "-MkdONP7QFLW-ad9TMJB" : {
+      "temperature" : "21.3"
+    },
+    "-MkdONP7QFLW-ad9TMJC" : {
+      "temperature" : "19.5"
+    },
+    "-MkdONP7QFLW-ad9TMJD" : {
+      "temperature" : "23.7"
+    },
+    "-MkdONPA0W9kMgufRrp1" : {
+      "temperature" : "18.3"
+    },
+    "-MkdONPA0W9kMgufRrp2" : {
+      "temperature" : "18.0"
+    },
+    "-MkdONPCIjyUrmkwljGf" : {
+      "temperature" : "25.7"
+    },
+    "-MkdONPCIjyUrmkwljGg" : {
+      "temperature" : "21.5"
+    },
+    "-MkdONPCIjyUrmkwljGh" : {
+      "temperature" : "20.7"
+    },
+    "-MkdONPJyXlNdc8OnEYk" : {
+      "temperature" : "25.4"
+    },
+    "-MkdONPUY2tVLS6e_9Tm" : {
+      "temperature" : "20.4"
+    },
+    "-MkdONPUY2tVLS6e_9Tn" : {
+      "temperature" : "21.6"
+    },
+    "-MkdONPUY2tVLS6e_9To" : {
+      "temperature" : "24.2"
+    },
+    "-MkdONPZIkwQJbR4VFcj" : {
+      "temperature" : "18.5"
+    },
+    "-MkdONPZIkwQJbR4VFck" : {
+      "temperature" : "24.5"
+    },
+    "-MkdONPZIkwQJbR4VFcl" : {
+      "temperature" : "21.4"
+    },
+    "-MkdONP_uKURIUVGlKnX" : {
+      "temperature" : "24.6"
+    },
+    "-MkdONP_uKURIUVGlKnY" : {
+      "temperature" : "20.5"
+    },
+    "-MkdONP_uKURIUVGlKnZ" : {
+      "temperature" : "20.1"
+    },
+    "-MkdONPawfsfDxr_2CUT" : {
+      "temperature" : "23.5"
+    },
+    "-MkdONPawfsfDxr_2CUU" : {
+      "temperature" : "23.5"
+    },
+    "-MkdONPb0Yi_eY9ZS4-s" : {
+      "temperature" : "23.9"
+    },
+    "-MkdONPb0Yi_eY9ZS4-t" : {
+      "temperature" : "24.2"
+    },
+    "-MkdONPcS6AbNAW369HY" : {
+      "temperature" : "20.1"
+    },
+    "-MkdONPcS6AbNAW369HZ" : {
+      "temperature" : "24.6"
+    },
+    "-MkdONPdjpijF02EuJgu" : {
+      "temperature" : "26.7"
+    },
+    "-MkdONPdjpijF02EuJgv" : {
+      "temperature" : "24.8"
+    },
+    "-MkdONSWQI8h_PyZUmkA" : {
+      "temperature" : "26.8"
+    },
+    "-MkdONSiudPpWE0OTV2o" : {
+      "temperature" : "18.9"
+    },
+    "-MkdONSwq7bAPW60wVr1" : {
+      "temperature" : "25.2"
+    },
+    "-MkdONSwq7bAPW60wVr2" : {
+      "temperature" : "26.9"
+    },
+    "-MkdONSwq7bAPW60wVr3" : {
+      "temperature" : "22.9"
+    },
+    "-MkdONSxdrTMk9LfKRJy" : {
+      "temperature" : "19.5"
+    },
+    "-MkdONSymEo81HX4iL2g" : {
+      "temperature" : "20.9"
+    },
+    "-MkdONSymEo81HX4iL2h" : {
+      "temperature" : "27.6"
+    },
+    "-MkdONSz7yvHKEXkJLuY" : {
+      "temperature" : "20.1"
+    },
+    "-MkdONSz7yvHKEXkJLuZ" : {
+      "temperature" : "20.9"
+    },
+    "-MkdONT-ti-mZi2EmAMN" : {
+      "temperature" : "25.4"
+    },
+    "-MkdONT-ti-mZi2EmAMO" : {
+      "temperature" : "24.5"
+    },
+    "-MkdONT0A9VDcHkOHE-O" : {
+      "temperature" : "21.9"
+    },
+    "-MkdONT0A9VDcHkOHE-P" : {
+      "temperature" : "24.7"
+    },
+    "-MkdONT1ZnjVdZKHxfaX" : {
+      "temperature" : "27.6"
+    },
+    "-MkdONTH-Cp_U-tOPIpp" : {
+      "temperature" : "22.2"
+    },
+    "-MkdONUfU2MXAetQaVRd" : {
+      "temperature" : "26.3"
+    },
+    "-MkdONUfU2MXAetQaVRe" : {
+      "temperature" : "21.1"
+    },
+    "-MkdONUfU2MXAetQaVRf" : {
+      "temperature" : "23.0"
+    },
+    "-MkdONUgCkzyNh0PG0XO" : {
+      "temperature" : "26.9"
+    },
+    "-MkdONUkOY6JM6yoqZmC" : {
+      "temperature" : "21.3"
+    },
+    "-MkdONUkOY6JM6yoqZmD" : {
+      "temperature" : "27.0"
+    },
+    "-MkdONVCcKJDACozcPnq" : {
+      "temperature" : "20.4"
+    },
+    "-MkdONVEpNbT3Jd6w11I" : {
+      "temperature" : "27.8"
+    },
+    "-MkdONVLWdwhPQIYKvGy" : {
+      "temperature" : "20.2"
+    },
+    "-MkdONVi2qaqv5QQ0nfe" : {
+      "temperature" : "26.9"
+    },
+    "-MkdONVleRfzt5YEGx_O" : {
+      "temperature" : "20.8"
+    },
+    "-MkdONVmuCIqCzgNc_Ap" : {
+      "temperature" : "24.1"
+    },
+    "-MkdONVpBPI0gQszyUou" : {
+      "temperature" : "18.7"
+    },
+    "-MkdONWJruL_Xd0_dyxS" : {
+      "temperature" : "24.3"
+    },
+    "-MkdONWKzEljGSMy3Arq" : {
+      "temperature" : "19.6"
+    },
+    "-MkdONWKzEljGSMy3Arr" : {
+      "temperature" : "23.2"
+    },
+    "-MkdONWKzEljGSMy3Ars" : {
+      "temperature" : "20.8"
+    },
+    "-MkdONWKzEljGSMy3Art" : {
+      "temperature" : "27.1"
+    },
+    "-MkdONWN_WLQb2hns6L7" : {
+      "temperature" : "25.7"
+    },
+    "-MkdONWN_WLQb2hns6L8" : {
+      "temperature" : "20.2"
+    },
+    "-MkdONWanYAvkNAOtK8E" : {
+      "temperature" : "18.3"
+    },
+    "-MkdONWeYJpLgSC0Kw-G" : {
+      "temperature" : "25.7"
+    },
+    "-MkdONXuQdPF62VuVTgO" : {
+      "temperature" : "21.1"
+    },
+    "-MkdONbZJWomyA_h37K_" : {
+      "temperature" : "20.4"
+    },
+    "-MkdONrj7p1DooZ1NY3n" : {
+      "temperature" : "24.1"
+    },
+    "-MkdOO5hm6b9IkhZTat-" : {
+      "temperature" : "22.1"
+    },
+    "-MkdOOLZT_BdRUPtsdJs" : {
+      "temperature" : "21.3"
+    },
+    "-MkdOO_iBot1BFcNS8Sm" : {
+      "temperature" : "24.5"
+    },
+    "-MkdOOpK7GcPIzWZBeN5" : {
+      "temperature" : "26.5"
+    },
+    "-MkdOP4J3iVBsx-8iEpu" : {
+      "temperature" : "24.3"
+    },
+    "-MkdOPL3JwpEr-qA6CXf" : {
+      "temperature" : "27.2"
+    },
+    "-MkdOPXgVJ9wThqQYLuz" : {
+      "temperature" : "22.0"
+    },
+    "-MkdOPlyAZMotCkH33I-" : {
+      "temperature" : "26.5"
+    },
+    "-MkdOQ1kZfM40c0VCn83" : {
+      "temperature" : "22.0"
+    },
+    "-MkdOQH8PkZNAd3s8J4q" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOQVwFYz8Wiq_cnwV" : {
+      "temperature" : "18.4"
+    },
+    "-MkdOQkjJCW4ZQL-Wk5N" : {
+      "temperature" : "26.8"
+    },
+    "-MkdOR-En6fQJ49nt2lS" : {
+      "temperature" : "26.0"
+    },
+    "-MkdORUEQ_QscTFhukOT" : {
+      "temperature" : "22.7"
+    },
+    "-MkdORWc7F9UBy-rQOs2" : {
+      "temperature" : "25.7"
+    },
+    "-MkdORiPHQ22oyr_m_4U" : {
+      "temperature" : "21.3"
+    },
+    "-MkdORyAo8_2B6D_OxGE" : {
+      "temperature" : "23.2"
+    },
+    "-MkdOSCiZifX4FNCHunl" : {
+      "temperature" : "22.6"
+    },
+    "-MkdOSSNy9C9nvETfcld" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOSgy3RNNjQq3l5en" : {
+      "temperature" : "18.3"
+    },
+    "-MkdOSwtAaSI-YhZGVE1" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOTBLMC2rXG7z0jL5" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOTQpkAIgRzvP63Ty" : {
+      "temperature" : "27.6"
+    },
+    "-MkdOTgOeQDgTvLLqat1" : {
+      "temperature" : "18.2"
+    },
+    "-MkdOTvDBvbyFWmHdE8M" : {
+      "temperature" : "24.4"
+    },
+    "-MkdOU9dlHm0dHqXtOHq" : {
+      "temperature" : "25.5"
+    },
+    "-MkdOUP9FdQVhsCIpwc6" : {
+      "temperature" : "27.3"
+    },
+    "-MkdOUdyCTqAZC7-2sot" : {
+      "temperature" : "19.8"
+    },
+    "-MkdOUtQttBTDbCRhGxN" : {
+      "temperature" : "24.4"
+    },
+    "-MkdOV87Qe4jxJu5rHe-" : {
+      "temperature" : "23.5"
+    },
+    "-MkdOVNeczz3tUxcN3qz" : {
+      "temperature" : "25.5"
+    },
+    "-MkdOVcJ6eY2oveBaYO_" : {
+      "temperature" : "27.8"
+    },
+    "-MkdOVrha1dCVD1PnuYL" : {
+      "temperature" : "24.4"
+    },
+    "-MkdOW6g72ojHeevz9bd" : {
+      "temperature" : "19.8"
+    },
+    "-MkdOWM0_DxtAq71xhKI" : {
+      "temperature" : "27.5"
+    },
+    "-MkdOWafQYqr568ivG5o" : {
+      "temperature" : "18.6"
+    },
+    "-MkdOWrYN4myL281HqX3" : {
+      "temperature" : "25.6"
+    },
+    "-MkdOX8JMQlP6i1EEJ-w" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOXO4Rvk768qqZtzX" : {
+      "temperature" : "27.7"
+    },
+    "-MkdOXfq_W94V5rDcurG" : {
+      "temperature" : "23.6"
+    },
+    "-MkdOXpX7aXLzg3EZchE" : {
+      "temperature" : "19.1"
+    },
+    "-MkdOY406Y3JvFq7yFq8" : {
+      "temperature" : "22.5"
+    },
+    "-MkdOYKIXrQpyc_cSU-g" : {
+      "temperature" : "25.5"
+    },
+    "-MkdOYZDqp7tTwaG4KXx" : {
+      "temperature" : "18.9"
+    },
+    "-MkdOYnqJj82JUz06nGS" : {
+      "temperature" : "27.7"
+    },
+    "-MkdOZ27NMoQT1YP-wko" : {
+      "temperature" : "25.1"
+    },
+    "-MkdOZIG13kcFFb9r6yM" : {
+      "temperature" : "20.3"
+    },
+    "-MkdOZXoKDtPPRbYGFjf" : {
+      "temperature" : "18.0"
+    },
+    "-MkdOZmMBCH-jCk-meHM" : {
+      "temperature" : "26.2"
+    },
+    "-MkdO_129ZtICXFI2wry" : {
+      "temperature" : "20.2"
+    },
+    "-MkdO_GRsMOQYdXjV8ua" : {
+      "temperature" : "20.8"
+    },
+    "-MkdO_W58CRfDUuf6UUr" : {
+      "temperature" : "22.4"
+    },
+    "-MkdO_kmmVilxcRFXlGY" : {
+      "temperature" : "23.8"
+    },
+    "-MkdOa-I20KQLO2o7jqk" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOaF2muanSH5rDyMs" : {
+      "temperature" : "22.4"
+    },
+    "-MkdOaUe6p345KO7lDE8" : {
+      "temperature" : "22.4"
+    },
+    "-MkdOajDQFpjeKy8mQCc" : {
+      "temperature" : "25.6"
+    },
+    "-MkdOayeCTWbC1AH5v5C" : {
+      "temperature" : "21.6"
+    },
+    "-MkdObDA2hIqyV1eS-Ma" : {
+      "temperature" : "18.9"
+    },
+    "-MkdObTa_5jc4ZchBvzu" : {
+      "temperature" : "21.7"
+    },
+    "-MkdObi0rtb8UTJhEyyJ" : {
+      "temperature" : "19.1"
+    },
+    "-MkdObx9p1CJum3-zZCb" : {
+      "temperature" : "25.7"
+    },
+    "-MkdOcBqCmfmC7Lt_eVn" : {
+      "temperature" : "22.2"
+    },
+    "-MkdOcRNr7mcHtzTLb4z" : {
+      "temperature" : "25.3"
+    },
+    "-MkdOcg-Cdm8FiTPIhJA" : {
+      "temperature" : "21.9"
+    },
+    "-MkdOcvvQOvneCa3CtVG" : {
+      "temperature" : "24.1"
+    },
+    "-MkdOdAWDTCEOUdZYSz7" : {
+      "temperature" : "20.5"
+    },
+    "-MkdOdQFTQ6zE7Q8kUjT" : {
+      "temperature" : "22.8"
+    },
+    "-MkdOdfMqtOqXEGtLVVZ" : {
+      "temperature" : "21.0"
+    },
+    "-MkdOdvNh8w8KeNygX41" : {
+      "temperature" : "21.9"
+    },
+    "-MkdOe9XAUI8FSJIwBOC" : {
+      "temperature" : "27.0"
+    },
+    "-MkdOePhE5xUrxjb3jLv" : {
+      "temperature" : "26.2"
+    },
+    "-MkdOedH5y2cP43QpwHg" : {
+      "temperature" : "19.6"
+    },
+    "-MkdOesvsOWF8J5OLvuZ" : {
+      "temperature" : "21.7"
+    },
+    "-MkdOf7NIx7s8jSd3LJu" : {
+      "temperature" : "25.5"
+    },
+    "-MkdOfNOhFog-0sANLmR" : {
+      "temperature" : "24.1"
+    },
+    "-MkdOfbbEtOZSBKq8YHr" : {
+      "temperature" : "27.9"
+    },
+    "-MkdOfrNYYhkIbJ90j5o" : {
+      "temperature" : "19.2"
+    },
+    "-MkdOg6W87ufJVy00fES" : {
+      "temperature" : "26.7"
+    },
+    "-MkdOgM3eBugbSA2gPhY" : {
+      "temperature" : "22.1"
+    },
+    "-MkdOga3cv83YAG5JR5t" : {
+      "temperature" : "24.4"
+    },
+    "-MkdOgphFgYI_zpn-A1W" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOh5MsuVuYB-fWmyp" : {
+      "temperature" : "27.6"
+    },
+    "-MkdOhJyoVVddcy_5NEO" : {
+      "temperature" : "21.5"
+    },
+    "-MkdOhZvx5gzSNqRZihR" : {
+      "temperature" : "21.5"
+    },
+    "-MkdOhox0TNSl2rvjlXV" : {
+      "temperature" : "26.2"
+    },
+    "-MkdOi2aL_7g_WMwt_w4" : {
+      "temperature" : "18.7"
+    },
+    "-MkdOiIT3nNU1TcjkHQ8" : {
+      "temperature" : "19.1"
+    },
+    "-MkdOiXsC21-rWAzUXKF" : {
+      "temperature" : "25.1"
+    },
+    "-MkdOim_8cMJGTlL-7J3" : {
+      "temperature" : "21.5"
+    },
+    "-MkdOj10414pibRsQ-XY" : {
+      "temperature" : "22.1"
+    },
+    "-MkdOjGurvRJFhJpM1hq" : {
+      "temperature" : "22.0"
+    },
+    "-MkdOjWqHByuALWM9B1R" : {
+      "temperature" : "18.5"
+    },
+    "-MkdOjllNl3N7ODePHmk" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOk-pPW5KlPBr_ntl" : {
+      "temperature" : "26.4"
+    },
+    "-MkdOkFHneR9Fpc3HxKA" : {
+      "temperature" : "22.6"
+    },
+    "-MkdOkVJnjz1H_PLyF-i" : {
+      "temperature" : "25.2"
+    },
+    "-MkdOkkEm4yIdUku_Hyd" : {
+      "temperature" : "23.7"
+    },
+    "-MkdOkz_On8JhcrcTjqt" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOlEP5Gsz0Bl2LheW" : {
+      "temperature" : "22.3"
+    },
+    "-MkdOlUqPmrloHSVFc2c" : {
+      "temperature" : "20.7"
+    },
+    "-MkdOliPRWnZVccBzXz-" : {
+      "temperature" : "23.8"
+    },
+    "-MkdOly-egZtdpPYiYn_" : {
+      "temperature" : "18.1"
+    },
+    "-MkdOmCZkJZjD0_3GeSJ" : {
+      "temperature" : "22.4"
+    },
+    "-MkdOmSHiHChl2IHhxsU" : {
+      "temperature" : "22.3"
+    },
+    "-MkdOmgr5B1-eUlAECvw" : {
+      "temperature" : "19.1"
+    },
+    "-MkdOmwXDEaTqXX6AMQg" : {
+      "temperature" : "25.8"
+    },
+    "-MkdOnB1Vit1rWHSWbK6" : {
+      "temperature" : "27.2"
+    },
+    "-MkdOnQw4uCBYUpqkwxa" : {
+      "temperature" : "26.4"
+    },
+    "-MkdOnfK8BYWT2DC0M0t" : {
+      "temperature" : "19.7"
+    },
+    "-MkdOnv6_zFs8mwngO-n" : {
+      "temperature" : "20.5"
+    },
+    "-MkdOo98ru1BSCpfuZRO" : {
+      "temperature" : "20.9"
+    },
+    "-MkdOoP1jIsTpJrAW-D1" : {
+      "temperature" : "21.4"
+    },
+    "-MkdOodX_aoKnzZw77iW" : {
+      "temperature" : "25.0"
+    },
+    "-MkdOotDuOrDcvuxVPpV" : {
+      "temperature" : "21.1"
+    },
+    "-MkdOp7t7Uk3M8kczNgh" : {
+      "temperature" : "21.2"
+    },
+    "-MkdOpNvnbnDR1-aGvCw" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOpcFdEsnz539_Ro0" : {
+      "temperature" : "19.3"
+    },
+    "-MkdOprfNHXwDcGewGin" : {
+      "temperature" : "19.5"
+    },
+    "-MkdOq67r8Ifd8Onhlvq" : {
+      "temperature" : "27.3"
+    },
+    "-MkdOqMITPCFzUAcxmxo" : {
+      "temperature" : "24.4"
+    },
+    "-MkdOqabhxkjpi14FEm4" : {
+      "temperature" : "25.5"
+    },
+    "-MkdOqqlxCMoGWv_U37-" : {
+      "temperature" : "26.8"
+    },
+    "-MkdOr4k9GVy-4nbgW4T" : {
+      "temperature" : "22.9"
+    },
+    "-MkdOrKBJBVl329qugj8" : {
+      "temperature" : "25.3"
+    },
+    "-MkdOr_4H4zfd7NApx6p" : {
+      "temperature" : "24.3"
+    },
+    "-MkdOrovoWE03RqdQNeG" : {
+      "temperature" : "27.8"
+    },
+    "-MkdOs4D-XF6s2g6T3sv" : {
+      "temperature" : "19.6"
+    },
+    "-MkdOsJk8CfBYqcGdWW8" : {
+      "temperature" : "25.2"
+    },
+    "-MkdOsZ9PlO3iqt319gN" : {
+      "temperature" : "19.8"
+    },
+    "-MkdOsna0qmgYj4jU-KG" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOt2aDWgwFtkfo2YR" : {
+      "temperature" : "19.2"
+    },
+    "-MkdOtHmQq_zZ5wLroQu" : {
+      "temperature" : "18.4"
+    },
+    "-MkdOtXNKyzJGZwTo_wr" : {
+      "temperature" : "18.6"
+    },
+    "-MkdOtlr2Mco6HZ0xzET" : {
+      "temperature" : "26.4"
+    },
+    "-MkdOu0tMnpyNkpRaXqK" : {
+      "temperature" : "21.7"
+    },
+    "-MkdOuGBSbLIAgRPA3XY" : {
+      "temperature" : "20.8"
+    },
+    "-MkdOuVsX6e1L3nSYN93" : {
+      "temperature" : "27.5"
+    },
+    "-MkdOukfh9J7u-WXPpMS" : {
+      "temperature" : "26.3"
+    },
+    "-MkdOuzqCxZDufasej25" : {
+      "temperature" : "25.2"
+    },
+    "-MkdOvEfVHKAWg8ITf7n" : {
+      "temperature" : "19.9"
+    },
+    "-MkdOvU-ENi1GHnDXBOT" : {
+      "temperature" : "18.6"
+    },
+    "-MkdOvjAxxtlP3uciHaM" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOvyXY6uDsPQV5cP0" : {
+      "temperature" : "25.1"
+    },
+    "-MkdOwD7rjwRW2r6xyas" : {
+      "temperature" : "20.6"
+    },
+    "-MkdOwSnCwAbsBKSDRVc" : {
+      "temperature" : "19.3"
+    },
+    "-MkdOwhLC9pAOe_p7TuJ" : {
+      "temperature" : "20.3"
+    },
+    "-MkdOwx0Sa4Xvdv3YR5S" : {
+      "temperature" : "21.9"
+    },
+    "-MkdOxBJnq9gmyxWPwmN" : {
+      "temperature" : "22.1"
+    },
+    "-MkdOxQxWitff4q-7o_I" : {
+      "temperature" : "22.2"
+    },
+    "-MkdOxfntYm_fYtOUxgq" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOxvZLnGwZRePPSMk" : {
+      "temperature" : "24.7"
+    },
+    "-MkdOyA0lVl253Hj0nCk" : {
+      "temperature" : "19.4"
+    },
+    "-MkdOyPc0laP_yMXIYFF" : {
+      "temperature" : "25.0"
+    },
+    "-MkdOyeLgwtn-W1JgOSV" : {
+      "temperature" : "25.4"
+    },
+    "-MkdOyt_F6dq3C8785o3" : {
+      "temperature" : "22.3"
+    },
+    "-MkdOz9GwdLHHuGjulhX" : {
+      "temperature" : "21.1"
+    },
+    "-MkdOzOo7JrlkYl0PAi8" : {
+      "temperature" : "20.4"
+    },
+    "-MkdOzdF-ZNeJoazoqQb" : {
+      "temperature" : "19.8"
+    },
+    "-MkdOzsiBmomsMqvUe9n" : {
+      "temperature" : "23.8"
+    },
+    "-MkdP-7YQqkTvt-b3y5s" : {
+      "temperature" : "22.8"
+    },
+    "-MkdP-Mqsg91TwYYRq_I" : {
+      "temperature" : "24.3"
+    },
+    "-MkdP-b__WLedWD4kd4k" : {
+      "temperature" : "25.5"
+    },
+    "-MkdP-rBGQxRjQl1F2G0" : {
+      "temperature" : "21.8"
+    },
+    "-MkdP0769yrUdcbcGSCM" : {
+      "temperature" : "25.3"
+    },
+    "-MkdP0L631t_QEGox2ir" : {
+      "temperature" : "25.9"
+    },
+    "-MkdP0_xS1qXj8uhdTA4" : {
+      "temperature" : "25.3"
+    },
+    "-MkdP0piMMcmNB4V7DWp" : {
+      "temperature" : "25.0"
+    },
+    "-MkdP14Lf-fjM7KR5HO4" : {
+      "temperature" : "23.8"
+    },
+    "-MkdP1JwuM071O4P5V71" : {
+      "temperature" : "26.3"
+    },
+    "-MkdP1ZCxhsYnXxDuVlC" : {
+      "temperature" : "20.0"
+    },
+    "-MkdP1nofgSmF5NhKRSy" : {
+      "temperature" : "20.4"
+    },
+    "-MkdP22XMgAjoFSj2XuF" : {
+      "temperature" : "26.6"
+    },
+    "-MkdP2INYB65V1B-Y8Pa" : {
+      "temperature" : "28.0"
+    },
+    "-MkdP2XwZpYeKR7BjXrB" : {
+      "temperature" : "24.9"
+    },
+    "-MkdP2mFXJ-meo4ZfKzH" : {
+      "temperature" : "23.8"
+    },
+    "-MkdP314PoivHLilFZ7E" : {
+      "temperature" : "25.3"
+    },
+    "-MkdP3Gvg32zcb6oNitN" : {
+      "temperature" : "27.4"
+    },
+    "-MkdP3WWZ93fUY1K1PUK" : {
+      "temperature" : "22.0"
+    },
+    "-MkdP3kwVQ-bv41-nVPx" : {
+      "temperature" : "27.1"
+    },
+    "-MkdP4-wZ0yuIIGMT5CR" : {
+      "temperature" : "19.3"
+    },
+    "-MkdP4Fm1E-TQhS6PQQB" : {
+      "temperature" : "24.3"
+    },
+    "-MkdP4V5WrYkow_w7s4S" : {
+      "temperature" : "25.7"
+    },
+    "-MkdP4j0D4O0jbavjNgw" : {
+      "temperature" : "18.3"
+    },
+    "-MkdP4yf7kTu2OCpYWgE" : {
+      "temperature" : "21.7"
+    },
+    "-MkdP5Do05-pAOC1KjxT" : {
+      "temperature" : "19.1"
+    },
+    "-MkdP5Tiq2CoXmpXzJzb" : {
+      "temperature" : "25.3"
+    },
+    "-MkdP5iAu-uBdSGAzQDZ" : {
+      "temperature" : "27.9"
+    },
+    "-MkdP5yIP_ng3L9RqlCZ" : {
+      "temperature" : "22.9"
+    },
+    "-MkdP6CJzutoAEoT2m1Y" : {
+      "temperature" : "21.5"
+    },
+    "-MkdP6SGhPN6gYHmMzOJ" : {
+      "temperature" : "21.9"
+    },
+    "-MkdP6gkblMWtMDmKwt6" : {
+      "temperature" : "27.8"
+    },
+    "-MkdP6wunq66yLbVaZus" : {
+      "temperature" : "19.6"
+    },
+    "-MkdP7AeomFYnt5SaLdw" : {
+      "temperature" : "21.9"
+    },
+    "-MkdP7QIRORaZe49aHd3" : {
+      "temperature" : "25.1"
+    },
+    "-MkdP7fSm7h20-W66-6A" : {
+      "temperature" : "23.7"
+    },
+    "-MkdP7uUOTU9l_XekbJT" : {
+      "temperature" : "27.5"
+    },
+    "-MkdP89IM1WiT9hj8uOh" : {
+      "temperature" : "22.4"
+    },
+    "-MkdP8RJK0BfB_s7mhCD" : {
+      "temperature" : "19.1"
+    },
+    "-MkdP8e9lwSTFB_TDGBo" : {
+      "temperature" : "26.7"
+    },
+    "-MkdP8uikPv9mQygUq3Q" : {
+      "temperature" : "26.6"
+    },
+    "-MkdP97hHBbw8wBMYGYx" : {
+      "temperature" : "19.1"
+    },
+    "-MkdP9Nwk3-nHko4EFFo" : {
+      "temperature" : "27.2"
+    },
+    "-MkdP9d4jlqzfoCauTo0" : {
+      "temperature" : "25.1"
+    },
+    "-MkdP9sM0bIOpYEST3nC" : {
+      "temperature" : "24.0"
+    },
+    "-MkdPA6AHmlyNkKYN81K" : {
+      "temperature" : "25.6"
+    },
+    "-MkdPALdrU9tQ59vXVWO" : {
+      "temperature" : "25.9"
+    },
+    "-MkdPAarK-BBatLcUpun" : {
+      "temperature" : "22.3"
+    },
+    "-MkdPAq5tFhha9xWFUvE" : {
+      "temperature" : "21.7"
+    },
+    "-MkdPB4jdqk2kpqZYKe0" : {
+      "temperature" : "23.0"
+    },
+    "-MkdPBKFN1U_sds6i8kc" : {
+      "temperature" : "24.7"
+    },
+    "-MkdPBZmjE6RwXvgwtzK" : {
+      "temperature" : "23.7"
+    },
+    "-MkdPBoKDZbgqCPLzPo3" : {
+      "temperature" : "23.6"
+    },
+    "-MkdPC3JD48ceOajuCDE" : {
+      "temperature" : "20.0"
+    },
+    "-MkdPCIdOGiiGExe7rMu" : {
+      "temperature" : "23.5"
+    },
+    "-MkdPC_wZpKcpnb6CCoh" : {
+      "temperature" : "18.4"
+    },
+    "-MkdPCnPZ2atQGgMNlBz" : {
+      "temperature" : "21.5"
+    },
+    "-MkdPD2HbOc9Ji9rJPFS" : {
+      "temperature" : "23.5"
+    },
+    "-MkdPDHaHiPnoRyy-uIq" : {
+      "temperature" : "23.5"
+    },
+    "-MkdPDXBpaNnGkIDULNu" : {
+      "temperature" : "23.4"
+    },
+    "-MkdPDmDHnZHV4okulvg" : {
+      "temperature" : "21.2"
+    },
+    "-MkdPE0wI5Rb444nhSd8" : {
+      "temperature" : "26.9"
+    },
+    "-MkdPEGDHNCioh5rS8QN" : {
+      "temperature" : "25.0"
+    },
+    "-MkdPEWSbM1O8iuuCAOg" : {
+      "temperature" : "27.6"
+    },
+    "-MkdPEkkR4sO8vuBpewI" : {
+      "temperature" : "22.4"
+    },
+    "-MkdPEzxtbQc-603rpqy" : {
+      "temperature" : "24.4"
+    },
+    "-MkdPFFPorVuiUrclBlE" : {
+      "temperature" : "18.9"
+    },
+    "-MkdPFUHq6rH3l_3QpaK" : {
+      "temperature" : "26.2"
+    },
+    "-MkdPFix0MlxRkgadEUE" : {
+      "temperature" : "24.5"
+    },
+    "-MkdPFytlzS2vJ3X1QDo" : {
+      "temperature" : "24.0"
+    },
+    "-MkdPGCyBH4pGcHVKxHb" : {
+      "temperature" : "18.9"
+    },
+    "-MkdPGT8zxLTyTs5JVgS" : {
+      "temperature" : "19.5"
+    },
+    "-MkdPGh-WtueDSano9ZB" : {
+      "temperature" : "26.0"
+    },
+    "-MkdPGwbbo_H1dcJrnrN" : {
+      "temperature" : "23.6"
+    },
+    "-MkdPHBXHKm3XzV2C-4n" : {
+      "temperature" : "21.0"
+    },
+    "-MkdPHR3mEezWnzFv7X0" : {
+      "temperature" : "19.4"
+    },
+    "-MkdPHfOPY9oOTwM8gjH" : {
+      "temperature" : "18.7"
+    },
+    "-MkdPHvDJvVN0S23iwNX" : {
+      "temperature" : "22.2"
+    },
+    "-MkdPIAPX242BIHoKmo7" : {
+      "temperature" : "25.3"
+    },
+    "-MkdPIPKBwtbkZicTEnh" : {
+      "temperature" : "23.2"
+    },
+    "-MkdPIe7VuzSqTn4RKsD" : {
+      "temperature" : "23.8"
+    },
+    "-MkdPItnop-WhYF7GzIP" : {
+      "temperature" : "27.7"
+    },
+    "-MkdPJ8FXu6Jz1ifoBPF" : {
+      "temperature" : "25.9"
+    },
+    "-MkdPJO4HmPqnboSHkNX" : {
+      "temperature" : "25.8"
+    },
+    "-MkdPJcpp1XmKrU55ics" : {
+      "temperature" : "20.8"
+    },
+    "-MkdPJsbbFCG94d1YCzx" : {
+      "temperature" : "23.0"
+    },
+    "-MkdPK730PiQMI7UeHaa" : {
+      "temperature" : "22.7"
+    },
+    "-MkdPKMnOoprCl4e7Qr9" : {
+      "temperature" : "24.9"
+    },
+    "-MkdPKbBFY1UFhqSdcL-" : {
+      "temperature" : "24.0"
+    },
+    "-MkdPKsBAeYkVSgYjQq6" : {
+      "temperature" : "21.3"
+    },
+    "-MkdPL5_Mrx5FMxEivup" : {
+      "temperature" : "23.8"
+    },
+    "-MkdPLLQODP6afaGf06z" : {
+      "temperature" : "18.1"
+    },
+    "-MkdPL_h-w6h-viDh7eA" : {
+      "temperature" : "21.5"
+    },
+    "-MkdPLpHDdGotQW_ZZIW" : {
+      "temperature" : "21.6"
+    },
+    "-MkdPM4J73Sp-rnpXvP4" : {
+      "temperature" : "19.0"
+    },
+    "-MkdPMJmQixSapihlPgD" : {
+      "temperature" : "25.2"
+    },
+    "-MkdPMZROm0YSGQwFdbo" : {
+      "temperature" : "19.5"
+    },
+    "-MkdPMnuz2BYHUd8x8Tm" : {
+      "temperature" : "27.5"
+    },
+    "-MkdPN2RJO73tkgza_mf" : {
+      "temperature" : "19.1"
+    },
+    "-MkdPNK1VjkbxQI2J4in" : {
+      "temperature" : "22.7"
+    },
+    "-MkdPNXhpUSAgKv0xHK_" : {
+      "temperature" : "21.9"
+    },
+    "-MkdPNmA0NSECNJlHjln" : {
+      "temperature" : "20.6"
+    },
+    "-MkdPO0uySdx8ccmc2CQ" : {
+      "temperature" : "20.8"
+    },
+    "-MkdPOGPhB-BRWQDmwy5" : {
+      "temperature" : "22.3"
+    },
+    "-MkdPOW2YmPaeGnDALmP" : {
+      "temperature" : "27.1"
+    },
+    "-MkdPOkfYVc1kxoRaQCX" : {
+      "temperature" : "24.5"
+    },
+    "-MkdPP-SOI7bC8yfNhs0" : {
+      "temperature" : "26.1"
+    },
+    "-MkdPPEtrGSPWFxVI1Vk" : {
+      "temperature" : "21.6"
+    },
+    "-MkdPPUSgMYDtir6EjQP" : {
+      "temperature" : "18.5"
+    },
+    "-MkdPPjIIAHEuTwlXA0Y" : {
+      "temperature" : "22.4"
+    },
+    "-MkdPPypxruDcDWCeSp6" : {
+      "temperature" : "18.5"
+    },
+    "-MkdPQDPF0c-Qmj9ZvRb" : {
+      "temperature" : "18.9"
+    },
+    "-MkdPQT_XJZ7Vbrk29Ok" : {
+      "temperature" : "21.4"
+    },
+    "-MkdPQhhr8ULXcLF34EE" : {
+      "temperature" : "18.8"
+    },
+    "-MkdPQwrHxoY4xUoyOpb" : {
+      "temperature" : "20.5"
+    },
+    "-MkdPRBoKxehajERuVWR" : {
+      "temperature" : "20.4"
+    },
+    "-MkdPRSP6rSG0E7fqO3Q" : {
+      "temperature" : "19.4"
+    },
+    "-MkdPRiDWIX19fOxHTY0" : {
+      "temperature" : "21.2"
+    },
+    "-MkdPRwe2EAh0HcQ7N-v" : {
+      "temperature" : "26.8"
+    },
+    "-MkdPSAoWRMeZUHQh20A" : {
+      "temperature" : "25.3"
+    },
+    "-MkdPSRXVR8Gz45-ux9e" : {
+      "temperature" : "27.1"
+    },
+    "-MkdPSfoBCIHi72a6IPP" : {
+      "temperature" : "27.1"
+    },
+    "-MkdPSvHkZ9eeD2sRtAw" : {
+      "temperature" : "26.9"
+    },
+    "-MkdPT9FSW9dttXK6v4j" : {
+      "temperature" : "27.3"
+    },
+    "-MkdPTOprW88cK6-NWm3" : {
+      "temperature" : "28.0"
+    },
+    "-MkdPTd_k4mGk6Em349b" : {
+      "temperature" : "27.9"
+    },
+    "-MkdPTtIWAMpbs5Ey7LG" : {
+      "temperature" : "22.9"
+    },
+    "-MkdPU7PJB6-zCdRiFQC" : {
+      "temperature" : "22.4"
+    },
+    "-MkdPUNB4jvxfBhmfYOW" : {
+      "temperature" : "19.7"
+    },
+    "-MkdPUbmA8lR4CPDeXuX" : {
+      "temperature" : "20.3"
+    },
+    "-MkdPUrdJYSqyxbe7Dsw" : {
+      "temperature" : "26.5"
+    },
+    "-MkdPV63yyWUyHO_eEbz" : {
+      "temperature" : "25.7"
+    },
+    "-MkdPVLXl6ib1Kf3TfKn" : {
+      "temperature" : "24.9"
+    },
+    "-MkdPVa8QBmYfzoZMyLv" : {
+      "temperature" : "23.2"
+    },
+    "-MkdPVqG47_5rDcOk7HV" : {
+      "temperature" : "26.6"
+    },
+    "-MkdPW5LuTnlkY3uL_MK" : {
+      "temperature" : "19.4"
+    },
+    "-MkdPWKFVy3dRWY9CPWg" : {
+      "temperature" : "23.6"
+    },
+    "-MkdPWZdj2ufln7mT0rP" : {
+      "temperature" : "27.8"
+    },
+    "-MkdPWoEaetUqofs1I9v" : {
+      "temperature" : "19.6"
+    },
+    "-MkdPX2jDiL0ZIhK7onf" : {
+      "temperature" : "20.5"
+    },
+    "-MkdPXISgnYCewxkP-DE" : {
+      "temperature" : "18.1"
+    },
+    "-MkdPXYA6_cd9oVHA95s" : {
+      "temperature" : "27.1"
+    },
+    "-MkdPXmkHP4n9QKvy5OG" : {
+      "temperature" : "21.1"
+    },
+    "-MkdPY1JJ_GKTRWpEH5X" : {
+      "temperature" : "27.0"
+    },
+    "-MkdPYGvJjVMQ1DvO4Fg" : {
+      "temperature" : "20.2"
+    },
+    "-MkdPYWRZkUeWN_PT6IC" : {
+      "temperature" : "20.1"
+    },
+    "-MkdPYlfnRF7HPVyBw1R" : {
+      "temperature" : "23.1"
+    },
+    "-MkdPZ0Btdxks33mA-j7" : {
+      "temperature" : "25.5"
+    },
+    "-MkdPZFuHZ7np7ijklIF" : {
+      "temperature" : "25.9"
+    },
+    "-MkdPZVfGNDfLRBPrRvG" : {
+      "temperature" : "25.9"
+    },
+    "-MkdPZjrRtG0SAfzVqFi" : {
+      "temperature" : "21.6"
+    },
+    "-MkdPZzjokE6KH7bKfpx" : {
+      "temperature" : "26.4"
+    },
+    "-MkdP_ERjNHyoBAjCe1i" : {
+      "temperature" : "22.7"
+    },
+    "-MkdP_TxlrpkVa-PNasW" : {
+      "temperature" : "23.1"
+    },
+    "-MkdP_iczzvZWLUNw9YZ" : {
+      "temperature" : "22.5"
+    },
+    "-MkdP_xvhGq2jeRIwXBv" : {
+      "temperature" : "27.1"
+    },
+    "-MkdPaCeTdC-mxv_Cg53" : {
+      "temperature" : "19.8"
+    },
+    "-MkdPaSNA-CZ6DDWIOiK" : {
+      "temperature" : "19.3"
+    },
+    "-MkdPagmYD_XeXdmRXyB" : {
+      "temperature" : "27.2"
+    },
+    "-MkdPawpiHftutHczohC" : {
+      "temperature" : "27.5"
+    },
+    "-MkdPbBFGFUJ3PJCIWe3" : {
+      "temperature" : "24.0"
+    },
+    "-MkdPbQaLAy1GznSDvXC" : {
+      "temperature" : "27.2"
+    },
+    "-MkdPbfXuPmm2Ar9V2Mp" : {
+      "temperature" : "22.9"
+    },
+    "-MkdPbuvbkoSlka9nq7d" : {
+      "temperature" : "26.5"
+    },
+    "-MkdPc9XBCRISCLT33t6" : {
+      "temperature" : "25.7"
+    },
+    "-MkdPcPIvQfWsFQqk3F_" : {
+      "temperature" : "23.6"
+    },
+    "-MkdPcdqCk4q3lrDUILx" : {
+      "temperature" : "27.1"
+    },
+    "-MkdPctIU7urGDbUb6aY" : {
+      "temperature" : "23.1"
+    },
+    "-MkdPd8DMiiMcwfW9HA1" : {
+      "temperature" : "19.2"
+    },
+    "-MkdPdNRgr5lczHW4hHI" : {
+      "temperature" : "19.1"
+    },
+    "-MkdPdcESzgM8ZLhT5FF" : {
+      "temperature" : "24.8"
+    },
+    "-MkdPdru6pijH5xhQn0F" : {
+      "temperature" : "20.8"
+    },
+    "-MkdPe6OsYiZBi7wJuYw" : {
+      "temperature" : "25.5"
+    },
+    "-MkdPeMFm60kBwGu-mh3" : {
+      "temperature" : "19.1"
+    },
+    "-MkdPeassMB3j2sMA-5J" : {
+      "temperature" : "22.4"
+    },
+    "-MkdPeqTCB5Y5GwCQTPt" : {
+      "temperature" : "18.8"
+    },
+    "-MkdPf5MH1mdZt1Brbyp" : {
+      "temperature" : "24.9"
+    },
+    "-MkdPfL0EtEy2Lau4oGS" : {
+      "temperature" : "25.2"
+    },
+    "-MkdPf_jBhQnFXprn54S" : {
+      "temperature" : "21.7"
+    },
+    "-MkdPfpW7wund_xM3AX7" : {
+      "temperature" : "21.1"
+    },
+    "-MkdPg46oLvjouMobgOZ" : {
+      "temperature" : "22.7"
+    },
+    "-MkdPgJTwKWU6ivyuMGs" : {
+      "temperature" : "22.6"
+    },
+    "-MkdPgZ7s4BZk4J8s2xC" : {
+      "temperature" : "19.3"
+    },
+    "-MkdPgnYxD1LOr5Hny2c" : {
+      "temperature" : "27.5"
+    },
+    "-MkdPh2-utZFMGnD72_M" : {
+      "temperature" : "20.2"
+    },
+    "-MkdPhHuLxV2aggUFMOi" : {
+      "temperature" : "18.1"
+    },
+    "-MkdPhXPhhh_YE32-u81" : {
+      "temperature" : "23.8"
+    },
+    "-MkdPhm3vL4rx8uy5bFx" : {
+      "temperature" : "20.3"
+    },
+    "-MkdPi0jSHrEHdqREhEl" : {
+      "temperature" : "19.3"
+    },
+    "-MkdPiGIFRMAunuHVxj7" : {
+      "temperature" : "27.2"
+    },
+    "-MkdPiVqGdz_xC5BR77q" : {
+      "temperature" : "19.2"
+    },
+    "-MkdPikJuLmg-5ZPZZJ-" : {
+      "temperature" : "24.5"
+    },
+    "-MkdPj-2iy95wdOAR0iL" : {
+      "temperature" : "19.2"
+    },
+    "-MkdPjEib-_Lq4G78UVF" : {
+      "temperature" : "22.2"
+    },
+    "-MkdPjUTePBrT9kKeEH0" : {
+      "temperature" : "26.9"
+    },
+    "-MkdPjioWY-I_lGLHMcf" : {
+      "temperature" : "26.9"
+    },
+    "-MkdPjye8D_GA3dMlgj3" : {
+      "temperature" : "22.5"
+    },
+    "-MkdPkD84FlhZLDJEswy" : {
+      "temperature" : "26.5"
+    },
+    "-MkdPkSe3nKYKAtN2siS" : {
+      "temperature" : "27.6"
+    },
+    "-MkdPkhLkV-bcZ7sBrPv" : {
+      "temperature" : "18.9"
+    },
+    "-MkdPkx19PmhIxEAZlp4" : {
+      "temperature" : "22.7"
+    },
+    "-MkdPlBSieSqg0o0ZKSx" : {
+      "temperature" : "23.2"
+    },
+    "-MkdPlR-UgvcMkUatfN7" : {
+      "temperature" : "26.9"
+    },
+    "-MkdPlfik9qckzNotqPl" : {
+      "temperature" : "20.8"
+    },
+    "-MkdPlvBUr3HSLjoFKsg" : {
+      "temperature" : "23.0"
+    },
+    "-MkdPmACQ9KVVtJZeBiW" : {
+      "temperature" : "20.7"
+    },
+    "-MkdPmQFCO-xhTq2be0v" : {
+      "temperature" : "22.0"
+    },
+    "-MkdPme_SIydc0U6KEwp" : {
+      "temperature" : "19.4"
+    },
+    "-MkdPmuUU2bs9BcRsNUJ" : {
+      "temperature" : "23.7"
+    },
+    "-MkdPn8xlCmS_c2AjWI6" : {
+      "temperature" : "22.7"
+    },
+    "-MkdPnOpVc8AUnIo30om" : {
+      "temperature" : "24.8"
+    },
+    "-MkdPndSRPSWClf-mJXp" : {
+      "temperature" : "22.2"
+    },
+    "-MkdPntZf2eiIJo5DJtw" : {
+      "temperature" : "19.3"
+    },
+    "-MkdPo7MPKS_STNbqWf9" : {
+      "temperature" : "24.1"
+    },
+    "-MkdPoMqvR2Toy9HGz5i" : {
+      "temperature" : "25.5"
+    },
+    "-MkdPobjBW4eKVETpUw3" : {
+      "temperature" : "26.6"
+    },
+    "-MkdPorUO-voD1z6W-5O" : {
+      "temperature" : "21.9"
+    },
+    "-MkdPp6QkVjz_BTOlaXT" : {
+      "temperature" : "18.4"
+    },
+    "-MkdPpLGxsY5SscrYplf" : {
+      "temperature" : "25.2"
+    },
+    "-MkdPpaBLQuVE07k9bWg" : {
+      "temperature" : "25.6"
+    },
+    "-MkdPppViG5BUab2a11z" : {
+      "temperature" : "23.9"
+    },
+    "-MkdPq4W8i82o4Ttx-GD" : {
+      "temperature" : "19.8"
+    },
+    "-MkdPqJh0E1ZSY8qmBPm" : {
+      "temperature" : "20.5"
+    },
+    "-MkdPqZZ3zJb1HOPhaRJ" : {
+      "temperature" : "25.1"
+    },
+    "-MkdPqo3EPBMDo3hA794" : {
+      "temperature" : "24.8"
+    },
+    "-MkdPr2duk6jyvhTvJEf" : {
+      "temperature" : "25.7"
+    },
+    "-MkdPrIOSfuH4PseSP4k" : {
+      "temperature" : "21.3"
+    },
+    "-MkdPrXz1w5aHcoMHeSL" : {
+      "temperature" : "24.3"
+    },
+    "-MkdPrmMUfmfg1dHbxnr" : {
+      "temperature" : "21.3"
+    },
+    "-MkdPs18mWjosX5GbNr0" : {
+      "temperature" : "24.6"
+    },
+    "-MkdPsGgHAPbIS5ycgUk" : {
+      "temperature" : "26.4"
+    },
+    "-MkdPsWWwG5cwABlaiPy" : {
+      "temperature" : "22.1"
+    },
+    "-MkdPskw8Fy7OXxqMHYi" : {
+      "temperature" : "24.6"
+    },
+    "-MkdPt03aJ225sLIVN9s" : {
+      "temperature" : "26.5"
+    },
+    "-MkdPtFjCXsOroILB0TC" : {
+      "temperature" : "21.9"
+    },
+    "-MkdPtUQveSypWNGEmHV" : {
+      "temperature" : "22.4"
+    },
+    "-MkdPtjrZWlqZmvIjY39" : {
+      "temperature" : "18.8"
+    },
+    "-MkdPtzWJuyVlQUbDvdC" : {
+      "temperature" : "24.0"
+    },
+    "-MkdPuEEODXwdlny64gY" : {
+      "temperature" : "18.6"
+    },
+    "-MkdPuTqZDFUaSK_KenF" : {
+      "temperature" : "20.5"
+    },
+    "-MkdPuiL-zdd-Thhiex4" : {
+      "temperature" : "26.8"
+    },
+    "-MkdPuy4DV9W_jva1c8v" : {
+      "temperature" : "24.8"
+    },
+    "-MkdPvCp1yo1hfMWxvk-" : {
+      "temperature" : "19.9"
+    },
+    "-MkdPvShex3M8b9bi_j2" : {
+      "temperature" : "25.0"
+    },
+    "-MkdPvguEudXNlbnyfkl" : {
+      "temperature" : "24.6"
+    },
+    "-MkdPvwR6zG2Ojd1RNc6" : {
+      "temperature" : "26.8"
+    },
+    "-MkdPwBH4diqfNU1O6gC" : {
+      "temperature" : "18.6"
+    },
+    "-MkdPwQd1NwEe16faU9q" : {
+      "temperature" : "19.2"
+    },
+    "-MkdPwfJP8OsbUFWJzG3" : {
+      "temperature" : "21.9"
+    },
+    "-MkdPwuyUiDcTAIxPznF" : {
+      "temperature" : "21.9"
+    },
+    "-MkdPx9OjrL4gsfqjMdj" : {
+      "temperature" : "22.0"
+    },
+    "-MkdPxPDiNgh6XL9c2ov" : {
+      "temperature" : "18.8"
+    },
+    "-MkdPxe8KKy5RlOlhEzZ" : {
+      "temperature" : "19.2"
+    },
+    "-MkdPxtWRumWuExqteng" : {
+      "temperature" : "24.0"
+    },
+    "-MkdPy8-woevJSTRJg6n" : {
+      "temperature" : "27.0"
+    },
+    "-MkdPyO2sOCAJEXZZFHZ" : {
+      "temperature" : "22.9"
+    },
+    "-MkdPycpw8rx1iPdQ-Ve" : {
+      "temperature" : "21.6"
+    },
+    "-MkdPyrp4NmKgddEkTR4" : {
+      "temperature" : "24.3"
+    },
+    "-MkdPz6ZG8wkW06CJtQc" : {
+      "temperature" : "23.9"
+    },
+    "-MkdPzLeHimHuNVYiy2j" : {
+      "temperature" : "18.1"
+    },
+    "-MkdPzaZsIuZ_RRmXghg" : {
+      "temperature" : "20.5"
+    },
+    "-MkdPzprZyn4hGcofWhg" : {
+      "temperature" : "25.2"
+    },
+    "-MkdQ-4eOFKcvgt9yEvz" : {
+      "temperature" : "25.0"
+    },
+    "-MkdQ-KKCcXO0jZ8XJWW" : {
+      "temperature" : "18.4"
+    },
+    "-MkdQ-Zkc1ilASDbWQkS" : {
+      "temperature" : "27.5"
+    },
+    "-MkdQ-ofBp7Wi-sb2d8Y" : {
+      "temperature" : "22.2"
+    },
+    "-MkdQ03PKaYoHjuVQ9t1" : {
+      "temperature" : "27.3"
+    },
+    "-MkdQ0JeAU085fahY2_W" : {
+      "temperature" : "23.7"
+    },
+    "-MkdQ0YpehPmVOElFdOD" : {
+      "temperature" : "22.4"
+    },
+    "-MkdQ0nVahoq8f9XYynH" : {
+      "temperature" : "23.9"
+    },
+    "-MkdQ123OXTzw1MSmhIZ" : {
+      "temperature" : "21.1"
+    },
+    "-MkdQ1I4TD5T0E0t035e" : {
+      "temperature" : "26.3"
+    },
+    "-MkdQ1Xb5e3Gb4b43T2C" : {
+      "temperature" : "26.3"
+    },
+    "-MkdQ1ltqcRLgwpbA8C6" : {
+      "temperature" : "27.6"
+    },
+    "-MkdQ20N5J1DPCSAPaDC" : {
+      "temperature" : "25.8"
+    },
+    "-MkdQ2GWB1SMlEw2KzHP" : {
+      "temperature" : "24.8"
+    },
+    "-MkdQ2VhtLHV-p7vf9ZW" : {
+      "temperature" : "22.7"
+    },
+    "-MkdQ2kF0x5YEtSMr4vd" : {
+      "temperature" : "19.2"
+    },
+    "-MkdQ3-ERYCUbjh4W6sq" : {
+      "temperature" : "21.9"
+    },
+    "-MkdQ3UQNAGVZ6ei39n8" : {
+      "temperature" : "19.2"
+    },
+    "-MkdQ3Wk6HJu6d9Ir1Pf" : {
+      "temperature" : "26.3"
+    },
+    "-MkdQ3isdoXKwKjktdwR" : {
+      "temperature" : "24.1"
+    },
+    "-MkdQ3yjuBDABreK60Oh" : {
+      "temperature" : "22.4"
+    },
+    "-MkdQ4DSL3ip6UCkeB6Q" : {
+      "temperature" : "26.9"
+    },
+    "-MkdQ4SmP-bbEwLlKw88" : {
+      "temperature" : "25.2"
+    },
+    "-MkdQ4hHtdhrQyWsh5-N" : {
+      "temperature" : "19.1"
+    },
+    "-MkdQ4wZZbOcfxUNVB_0" : {
+      "temperature" : "21.7"
+    },
+    "-MkdQ5BMEBY_uHLF4vyS" : {
+      "temperature" : "19.7"
+    },
+    "-MkdQ5QtYeu_kCzONR9c" : {
+      "temperature" : "23.6"
+    },
+    "-MkdQ5fXaPE4-1ZWlFKh" : {
+      "temperature" : "22.0"
+    },
+    "-MkdQ5vPNGaFO1j0z0RJ" : {
+      "temperature" : "20.5"
+    },
+    "-MkdQ6AEhEbYIdakMC8L" : {
+      "temperature" : "19.9"
+    },
+    "-MkdQ6PjqG3N4YvHzdnZ" : {
+      "temperature" : "27.2"
+    },
+    "-MkdQ6eDuIKz7ldY4aBC" : {
+      "temperature" : "20.4"
+    },
+    "-MkdQ6tp9VOUGcNSiZdR" : {
+      "temperature" : "22.2"
+    },
+    "-MkdQ78BAP7k1MWwSj0n" : {
+      "temperature" : "25.9"
+    },
+    "-MkdQ7OioZ44Ti25onTA" : {
+      "temperature" : "27.4"
+    },
+    "-MkdQ7dbXlqmcViOThPC" : {
+      "temperature" : "27.9"
+    },
+    "-MkdQ7shmPZGz1VZtCL1" : {
+      "temperature" : "25.9"
+    },
+    "-MkdQ88859He6z-S7-NJ" : {
+      "temperature" : "24.6"
+    },
+    "-MkdQ8MhKbPxFy1MVBqv" : {
+      "temperature" : "21.9"
+    },
+    "-MkdQ8bVsFStSVzCN2WV" : {
+      "temperature" : "23.5"
+    },
+    "-MkdQ8s593dINoui9K5r" : {
+      "temperature" : "22.6"
+    },
+    "-MkdQ95of0sGypzpHDJ8" : {
+      "temperature" : "21.4"
+    },
+    "-MkdQ9LBeGnnVy8jVZec" : {
+      "temperature" : "19.0"
+    },
+    "-MkdQ9_tNzmLmQvJKLrD" : {
+      "temperature" : "24.6"
+    },
+    "-MkdQ9qJulEMNOoQdwQn" : {
+      "temperature" : "26.4"
+    },
+    "-MkdQA46_d7VoRXEkJUF" : {
+      "temperature" : "27.0"
+    },
+    "-MkdQAJanEqNR0_Oy7AH" : {
+      "temperature" : "21.3"
+    },
+    "-MkdQA_Hy6NB8pEY-IZh" : {
+      "temperature" : "22.4"
+    },
+    "-MkdQAo99vExHWHEUD1W" : {
+      "temperature" : "18.2"
+    },
+    "-MkdQB2jPhdVk4v1IaJg" : {
+      "temperature" : "22.4"
+    },
+    "-MkdQBLD2bWMWfMhCMtx" : {
+      "temperature" : "27.4"
+    },
+    "-MkdQBXtBCCJULgJM1gW" : {
+      "temperature" : "26.9"
+    },
+    "-MkdQBmkfOqGo70ocFqp" : {
+      "temperature" : "22.6"
+    },
+    "-MkdQC0ji-hf2Qgc-wxh" : {
+      "temperature" : "24.2"
+    },
+    "-MkdQCGPjQJH459ksFO4" : {
+      "temperature" : "25.4"
+    },
+    "-MkdQCWDLlHh2dJ-m-Lx" : {
+      "temperature" : "23.6"
+    },
+    "-MkdQCkraqUcnDUdWClB" : {
+      "temperature" : "19.7"
+    },
+    "-MkdQD-QoQHzSGdGrxl9" : {
+      "temperature" : "25.1"
+    },
+    "-MkdQDFsRgn5BW1l7uk7" : {
+      "temperature" : "21.7"
+    },
+    "-MkdQDUUYxCWUU4quEgn" : {
+      "temperature" : "25.4"
+    },
+    "-MkdQDj73izfpAqPQm2Z" : {
+      "temperature" : "19.9"
+    },
+    "-MkdQDyVniI2QxV26Jpu" : {
+      "temperature" : "24.8"
+    },
+    "-MkdQED_Md54Z-LCusL-" : {
+      "temperature" : "26.9"
+    },
+    "-MkdQEVOdM133sHFE7Qr" : {
+      "temperature" : "19.0"
+    },
+    "-MkdQEiDgzzdhk6RZHcf" : {
+      "temperature" : "18.9"
+    },
+    "-MkdQExqY3N2oY_qKbr_" : {
+      "temperature" : "19.9"
+    },
+    "-MkdQFCSzhtk4m4_XvZM" : {
+      "temperature" : "18.9"
+    },
+    "-MkdQFSCrBl3PEzPvOng" : {
+      "temperature" : "25.4"
+    },
+    "-MkdQFgsRspyWKReSl5t" : {
+      "temperature" : "21.4"
+    },
+    "-MkdQFwG0tZt1NhUYIWw" : {
+      "temperature" : "23.9"
+    },
+    "-MkdQGAfgxUB0R3cTB93" : {
+      "temperature" : "23.7"
+    },
+    "-MkdQGQSTLXVbEWXMmiD" : {
+      "temperature" : "21.5"
+    },
+    "-MkdQGfJnQsjIvwko6u6" : {
+      "temperature" : "27.0"
+    },
+    "-MkdQGv3ACUphcdRak17" : {
+      "temperature" : "21.0"
+    },
+    "-MkdQJ6jIr0i4bfqTbu2" : {
+      "temperature" : "21.6"
+    },
+    "-MkdQJ7APou6gwEXutDp" : {
+      "temperature" : "27.4"
+    },
+    "-MkdQJ7CRwBV7CgLMSwj" : {
+      "temperature" : "21.8"
+    },
+    "-MkdQJBQYO8Y2-LZj0Pg" : {
+      "temperature" : "20.6"
+    },
+    "-MkdQJBw1Np9KQJZknYe" : {
+      "temperature" : "24.2"
+    },
+    "-MkdQJBxxOuRX29HcreL" : {
+      "temperature" : "26.3"
+    },
+    "-MkdQJBxxOuRX29HcreM" : {
+      "temperature" : "18.9"
+    },
+    "-MkdQJBz9V3MZEIziXZd" : {
+      "temperature" : "21.9"
+    },
+    "-MkdQJC0epQjatPRVzWl" : {
+      "temperature" : "23.1"
+    },
+    "-MkdQJLxujD1cmzu128q" : {
+      "temperature" : "20.3"
+    },
+    "-MkdQJaA94u5BoYaRxzO" : {
+      "temperature" : "23.7"
+    },
+    "-MkdQJq0VgmQd8Wzi2ze" : {
+      "temperature" : "21.8"
+    },
+    "-MkdQK6-QTQbqUkGm4c6" : {
+      "temperature" : "27.6"
+    },
+    "-MkdQKKPQCIrmS30aQ2-" : {
+      "temperature" : "24.3"
+    },
+    "-MkdQKZrq3Ki9_nTxH31" : {
+      "temperature" : "25.5"
+    },
+    "-MkdQKoK7O2SQP-ARNF6" : {
+      "temperature" : "18.4"
+    },
+    "-MkdQL2rdXmGkxr9WvW2" : {
+      "temperature" : "20.3"
+    },
+    "-MkdQLIWSjeoYbkZTzk3" : {
+      "temperature" : "19.7"
+    },
+    "-MkdQLYHNcFqpsCwmVsS" : {
+      "temperature" : "21.8"
+    },
+    "-MkdQLmxTEQVk4Dd4oGV" : {
+      "temperature" : "26.6"
+    },
+    "-MkdQM22bxf9BA3ZsCMF" : {
+      "temperature" : "25.4"
+    },
+    "-MkdQMHgpbMBt93pBvBN" : {
+      "temperature" : "21.3"
+    },
+    "-MkdQMX6U_9-d4fUOJX_" : {
+      "temperature" : "26.7"
+    },
+    "-MkdQMluZTvW8-QrDIXy" : {
+      "temperature" : "20.5"
+    },
+    "-MkdQN0IYgWcDKDmaGhd" : {
+      "temperature" : "22.0"
+    },
+    "-MkdQNG45NSBAOzle5gS" : {
+      "temperature" : "23.2"
+    },
+    "-MkdQNViSMZWa3b7gL2V" : {
+      "temperature" : "27.5"
+    },
+    "-MkdQNkVfQsx3UPLmCxF" : {
+      "temperature" : "19.9"
+    },
+    "-MkdQO-5zx5ErulC8x8i" : {
+      "temperature" : "25.3"
+    },
+    "-MkdQOF1LW6Yj0M1gogF" : {
+      "temperature" : "23.1"
+    },
+    "-MkdQOU9qV1eScnqWHUf" : {
+      "temperature" : "27.4"
+    },
+    "-MkdQOiJ7iIhkzsg-NBf" : {
+      "temperature" : "24.2"
+    },
+    "-MkdQOy9NeFPaNnRS68M" : {
+      "temperature" : "18.4"
+    },
+    "-MkdQPCivU8yRl5m9wUQ" : {
+      "temperature" : "26.3"
+    },
+    "-MkdQPSP7J84hXZoiLwn" : {
+      "temperature" : "25.6"
+    },
+    "-MkdQPgmWD9AuIx21Zpe" : {
+      "temperature" : "23.4"
+    },
+    "-MkdQPwY7xuSxzInDeK_" : {
+      "temperature" : "22.8"
+    },
+    "-MkdQQB6y-P3H_2E7CI2" : {
+      "temperature" : "24.2"
+    },
+    "-MkdQQQds6wa2PNbcEF7" : {
+      "temperature" : "20.8"
+    },
+    "-MkdQQfRKk5cosBnP3Le" : {
+      "temperature" : "22.1"
+    },
+    "-MkdQSs2qTKCjCfM_0DW" : {
+      "temperature" : "24.4"
+    },
+    "-MkdQSvL7tbBgGFr3ttZ" : {
+      "temperature" : "18.3"
+    },
+    "-MkdQSvL7tbBgGFr3tt_" : {
+      "temperature" : "22.1"
+    },
+    "-MkdQSvRtlgfJjhqZqjM" : {
+      "temperature" : "22.3"
+    },
+    "-MkdQSvZoNPdPD4PDdxT" : {
+      "temperature" : "26.4"
+    },
+    "-MkdQSvZoNPdPD4PDdxU" : {
+      "temperature" : "27.8"
+    },
+    "-MkdQSva-QD51ZLSBd0T" : {
+      "temperature" : "27.8"
+    },
+    "-MkdQSva-QD51ZLSBd0U" : {
+      "temperature" : "25.3"
+    },
+    "-MkdQSveCBJg-KfRlZSt" : {
+      "temperature" : "23.6"
+    },
+    "-MkdQT7ZLJM195fkWg5m" : {
+      "temperature" : "19.0"
+    },
+    "-MkdQTMdtbk2OXpVt1Xi" : {
+      "temperature" : "27.9"
+    },
+    "-MkdQTcAMPL83L4FDn1v" : {
+      "temperature" : "24.6"
+    },
+    "-MkdQTrYBqaPy7BnKL9Y" : {
+      "temperature" : "22.8"
+    },
+    "-MkdQU5XuV4sdCFJzf9J" : {
+      "temperature" : "26.5"
+    },
+    "-MkdQULM5XcSrehEbM_f" : {
+      "temperature" : "18.7"
+    },
+    "-MkdQU_oD8rOjrXWxwtZ" : {
+      "temperature" : "22.1"
+    },
+    "-MkdQUpGCca99uT4PH9s" : {
+      "temperature" : "21.9"
+    },
+    "-MkdQV4ZmdZPyGt4RAIF" : {
+      "temperature" : "21.9"
+    },
+    "-MkdQVJgfp-wsWh8kgtF" : {
+      "temperature" : "18.6"
+    },
+    "-MkdQVZ3lWdR__hv5wVP" : {
+      "temperature" : "23.0"
+    },
+    "-MkdQVoQRGRAsPrD38j6" : {
+      "temperature" : "20.3"
+    },
+    "-MkdQW2K9DNTW2k-OuRn" : {
+      "temperature" : "22.2"
+    },
+    "-MkdQWCldjDZmvSRBZi3" : {
+      "temperature" : "27.6"
+    },
+    "-MkdQWHrf1P_KlR5mEnf" : {
+      "temperature" : "19.1"
+    },
+    "-MkdQWXkKWt4tROjnAj9" : {
+      "temperature" : "21.8"
+    },
+    "-MkdQWlxmVWTPF3900ut" : {
+      "temperature" : "26.8"
+    },
+    "-MkdQX0SGNWSBftZfBMN" : {
+      "temperature" : "20.1"
+    },
+    "-MkdQXGIV2_DspOKC7LH" : {
+      "temperature" : "20.7"
+    },
+    "-MkdQXVuiNCcOaO244Ui" : {
+      "temperature" : "24.9"
+    },
+    "-MkdQXlJu2hOCiOFARMl" : {
+      "temperature" : "23.3"
+    },
+    "-MkdQY-6sM2lfkABubGz" : {
+      "temperature" : "24.1"
+    },
+    "-MkdQYExFChfC1Mo6tPP" : {
+      "temperature" : "18.2"
+    },
+    "-MkdQYUUwtsLvbEM7As-" : {
+      "temperature" : "18.7"
+    },
+    "-MkdQYcuVJLTibpM_sDj" : {
+      "temperature" : "20.9"
+    },
+    "-MkdQYjLOuHp2nbQ2p-U" : {
+      "temperature" : "21.0"
+    },
+    "-MkdQYyV4oCnRqEbGF7y" : {
+      "temperature" : "24.4"
+    },
+    "-MkdQZDGmuTPS3v0QQUm" : {
+      "temperature" : "26.0"
+    },
+    "-MkdQZShUy1WTqXe8fid" : {
+      "temperature" : "24.3"
+    },
+    "-MkdQZhXgjx_LH_U9lME" : {
+      "temperature" : "20.8"
+    },
+    "-MkdQZwwEJbnC02f1hLF" : {
+      "temperature" : "19.9"
+    },
+    "-MkdQ_BXsUjkvcWYm5ng" : {
+      "temperature" : "20.7"
+    },
+    "-MkdQ_RyUwU5B8C1A9QV" : {
+      "temperature" : "27.4"
+    },
+    "-MkdQ_gE5Y6B0JnqjMH2" : {
+      "temperature" : "23.8"
+    },
+    "-MkdQ_wWTy0LwhjQtMJp" : {
+      "temperature" : "23.0"
+    },
+    "-MkdQa3IM3xxF-vvjuex" : {
+      "temperature" : "20.2"
+    },
+    "-MkdQaBKYPKPr2U4JkeZ" : {
+      "temperature" : "21.9"
+    },
+    "-MkdQaQ7naJki4ZqLCht" : {
+      "temperature" : "22.7"
+    },
+    "-MkdQaeuh_yddu5ul7iA" : {
+      "temperature" : "26.1"
+    },
+    "-MkdQauP_aEn7q1GP7SW" : {
+      "temperature" : "21.0"
+    },
+    "-MkdQb9CbqCL2hIaCeYt" : {
+      "temperature" : "21.0"
+    },
+    "-MkdQbOU_j7PdP67_ZkS" : {
+      "temperature" : "23.1"
+    },
+    "-MkdQbdI6oL9lL5RMsHj" : {
+      "temperature" : "20.4"
+    },
+    "-MkdQbt0st6Ou1LmdgSB" : {
+      "temperature" : "25.2"
+    },
+    "-MkdQc7KuhEzCjPPt1LI" : {
+      "temperature" : "27.1"
+    },
+    "-MkdQcP3sC9P_OBMhHkt" : {
+      "temperature" : "25.9"
+    },
+    "-MkdQcV_bnfAbP3tqZPu" : {
+      "temperature" : "21.2"
+    },
+    "-MkdQcbpLX6SmCzDJURA" : {
+      "temperature" : "24.8"
+    },
+    "-MkdQcrB-j-AWXsV6Pcz" : {
+      "temperature" : "26.6"
+    },
+    "-MkdQd6F7RDj30yp7E2c" : {
+      "temperature" : "27.3"
+    },
+    "-MkdQdLUqNqvAlHVzjGc" : {
+      "temperature" : "26.3"
+    },
+    "-MkdQdaKMmHhnr-VVynv" : {
+      "temperature" : "19.9"
+    },
+    "-MkdQdpkm4r_uAYIaPJY" : {
+      "temperature" : "23.7"
+    },
+    "-MkdQe4h4sj00kRu9xj5" : {
+      "temperature" : "20.7"
+    },
+    "-MkdQeK3dyEZmxZN5BfD" : {
+      "temperature" : "21.4"
+    },
+    "-MkdQeZdgb3Rc_bLy69d" : {
+      "temperature" : "20.6"
+    },
+    "-MkdQeoVuYfEmZ9e44Xf" : {
+      "temperature" : "22.7"
+    },
+    "-MkdQex1OwHuPoEc8r1Q" : {
+      "temperature" : "25.7"
+    },
+    "-MkdQf2ndPVs0J22ybYq" : {
+      "temperature" : "18.8"
+    },
+    "-MkdQfIcHCVa4aTK-eI7" : {
+      "temperature" : "25.6"
+    },
+    "-MkdQfYnTIwQREEVWc15" : {
+      "temperature" : "24.7"
+    },
+    "-MkdQfo44EQJ9JCcNoT5" : {
+      "temperature" : "21.2"
+    },
+    "-MkdQg1YtufxpLxGrU7_" : {
+      "temperature" : "24.2"
+    },
+    "-MkdQgH6iqoycqYn9_-v" : {
+      "temperature" : "22.3"
+    },
+    "-MkdQgWQXUhWkyOr4c-y" : {
+      "temperature" : "23.9"
+    },
+    "-MkdQglf4UCCHeO4SITC" : {
+      "temperature" : "25.2"
+    },
+    "-MkdQh04NYSVq9PLNZcZ" : {
+      "temperature" : "23.1"
+    },
+    "-MkdQhG270B0xDp6qDmJ" : {
+      "temperature" : "19.5"
+    },
+    "-MkdQhOI22Xjndhg3SMQ" : {
+      "temperature" : "25.5"
+    },
+    "-MkdQhVcmGxmE1Ctjqbz" : {
+      "temperature" : "26.7"
+    },
+    "-MkdQhju60naLwP6hf-i" : {
+      "temperature" : "25.6"
+    },
+    "-MkdQhzlzF0XS5yxcc3u" : {
+      "temperature" : "23.6"
+    },
+    "-MkdQiEOAJAwrkwo7vPD" : {
+      "temperature" : "19.7"
+    },
+    "-MkdQiTmi2e7QUjgYpsA" : {
+      "temperature" : "20.0"
+    },
+    "-MkdQiiRfpe7AAEE7aiu" : {
+      "temperature" : "24.6"
+    },
+    "-MkdQiyPWTX2VwMql9Or" : {
+      "temperature" : "20.0"
+    },
+    "-MkdQjD9uo4BQyAgReyI" : {
+      "temperature" : "18.6"
+    },
+    "-MkdQjSEDFfIAu_UprKz" : {
+      "temperature" : "21.8"
+    },
+    "-MkdQjhHZUB4nwgsvW16" : {
+      "temperature" : "23.8"
+    },
+    "-MkdQjpYgVqsZmtIthjf" : {
+      "temperature" : "26.2"
+    },
+    "-MkdQjwcZdtpxTDgf11P" : {
+      "temperature" : "19.5"
+    },
+    "-MkdQkBJcKMXwo9UhoG4" : {
+      "temperature" : "26.5"
+    },
+    "-MkdQkQf6UlE6Lk__IUD" : {
+      "temperature" : "25.3"
+    },
+    "-MkdQkfL7nztoVKTyth3" : {
+      "temperature" : "20.2"
+    },
+    "-MkdQkv-KCiUto1FATBg" : {
+      "temperature" : "22.8"
+    },
+    "-MkdQl9iaZq2MrVv1f2M" : {
+      "temperature" : "24.2"
+    },
+    "-MkdQlP5i64lT5eZp8al" : {
+      "temperature" : "19.8"
+    },
+    "-MkdQlddxQCjua_lrSyj" : {
+      "temperature" : "19.0"
+    },
+    "-MkdQltVrHl59Htt4x-Y" : {
+      "temperature" : "23.8"
+    },
+    "-MkdQm8eaVkF0rQV0Roy" : {
+      "temperature" : "20.9"
+    },
+    "-MkdQmHGP4d8Wc5LuagM" : {
+      "temperature" : "27.4"
+    },
+    "-MkdQmOAG_MGwS_9ZWBt" : {
+      "temperature" : "23.8"
+    },
+    "-MkdQmchuMa75SdX52oC" : {
+      "temperature" : "19.4"
+    },
+    "-MkdQmtVqDS9Cj85TcZ6" : {
+      "temperature" : "23.9"
+    },
+    "-MkdQn76JKUfRIYUGquA" : {
+      "temperature" : "19.3"
+    },
+    "-MkdQnLm7YqvgCJZXx3O" : {
+      "temperature" : "24.4"
+    },
+    "-MkdQnaXQac-0uioC3kc" : {
+      "temperature" : "18.9"
+    },
+    "-MkdQnqQpXwy1a-TT9jk" : {
+      "temperature" : "25.3"
+    },
+    "-MkdQo5vWFzZVKuY9FY6" : {
+      "temperature" : "27.9"
+    },
+    "-MkdQoKw-FddprJO8mZP" : {
+      "temperature" : "24.8"
+    },
+    "-MkdQo_Nrh3a8Yti4NP_" : {
+      "temperature" : "20.8"
+    },
+    "-MkdQohu8Ij_YgOrj7NT" : {
+      "temperature" : "27.3"
+    },
+    "-MkdQopI41qBwQHh_n8x" : {
+      "temperature" : "22.7"
+    },
+    "-MkdQp3iju9LYWOja4vS" : {
+      "temperature" : "22.8"
+    },
+    "-MkdQpJQ2uphk2hAbFgT" : {
+      "temperature" : "18.9"
+    },
+    "-MkdQpZR2n3FYn_yVPCx" : {
+      "temperature" : "26.9"
+    },
+    "-MkdQpnsQOhnlKQc47wq" : {
+      "temperature" : "22.8"
+    },
+    "-MkdQq3G1CqONkYeYlp7" : {
+      "temperature" : "20.3"
+    },
+    "-MkdQqHqBt-yeNikyIS9" : {
+      "temperature" : "19.5"
+    },
+    "-MkdQqX7AujHROWlmorP" : {
+      "temperature" : "24.3"
+    },
+    "-MkdQqmGlFYnUmgGdSwr" : {
+      "temperature" : "20.6"
+    },
+    "-MkdQr0ooUQFaPX0CH-9" : {
+      "temperature" : "18.5"
+    },
+    "-MkdQr9T5Sjo3Mv8Tdq3" : {
+      "temperature" : "27.6"
+    },
+    "-MkdQrG_LfYOLolo_xTd" : {
+      "temperature" : "19.9"
+    },
+    "-MkdQrYtg1ty9hMRPKC7" : {
+      "temperature" : "20.1"
+    },
+    "-MkdQrkOCROA-LQVxvLw" : {
+      "temperature" : "22.5"
+    },
+    "-MkdQs-0FHXm8YZesC0e" : {
+      "temperature" : "19.1"
+    },
+    "-MkdQsFRoutPH7b6xwXA" : {
+      "temperature" : "26.9"
+    },
+    "-MkdQsUXHOKHzPDkH2Xq" : {
+      "temperature" : "27.1"
+    },
+    "-MkdQsizhzjB1KlT1qSo" : {
+      "temperature" : "21.4"
+    },
+    "-MkdQszElRRWxNUp8ojg" : {
+      "temperature" : "19.1"
+    },
+    "-MkdQtDGMu_BR7BhN4fG" : {
+      "temperature" : "20.0"
+    },
+    "-MkdQtSra_LWmNdf3D2i" : {
+      "temperature" : "24.4"
+    },
+    "-MkdQtah4f4QA78hbdsp" : {
+      "temperature" : "25.8"
+    },
+    "-MkdQthD81ptKULYxc-r" : {
+      "temperature" : "19.8"
+    },
+    "-MkdQtx9FMygGEj1tFgL" : {
+      "temperature" : "23.3"
+    },
+    "-MkdQuBcIr_4wL0pA9rU" : {
+      "temperature" : "25.1"
+    },
+    "-MkdQuRDglLVGkwLh-jj" : {
+      "temperature" : "23.8"
+    },
+    "-MkdQugKDO2PZkwQ837X" : {
+      "temperature" : "23.9"
+    },
+    "-MkdQuvCFtl9Zqrh-ZVf" : {
+      "temperature" : "25.5"
+    },
+    "-MkdQv9w3zHQg0hMY_9Z" : {
+      "temperature" : "18.7"
+    },
+    "-MkdQvQCgMzMD1Q84C2M" : {
+      "temperature" : "27.0"
+    },
+    "-MkdQvfNUSjNVSzqdYwL" : {
+      "temperature" : "23.5"
+    },
+    "-MkdQvvGPrrz4IeBmun6" : {
+      "temperature" : "20.4"
+    },
+    "-MkdQw1_o6oxbL5EkBvZ" : {
+      "temperature" : "18.6"
+    },
+    "-MkdQw97z0fOMTqKoTX-" : {
+      "temperature" : "20.7"
+    },
+    "-MkdQwOSHtHz2udTLObU" : {
+      "temperature" : "26.2"
+    },
+    "-MkdQwddraoX5JJ0SbvE" : {
+      "temperature" : "21.4"
+    },
+    "-MkdQwsk9s7hMmrEY3fO" : {
+      "temperature" : "19.9"
+    },
+    "-MkdQx7AT8t6QOxxwkZx" : {
+      "temperature" : "22.3"
+    },
+    "-MkdQxN1PYHzX9OQO7ed" : {
+      "temperature" : "18.1"
+    },
+    "-MkdQxc9M_Rjxu0CC2rR" : {
+      "temperature" : "23.5"
+    },
+    "-MkdQy5tKMRUGw5b4Eqy" : {
+      "temperature" : "21.5"
+    },
+    "-MkdQy8aLLihHE22lJNJ" : {
+      "temperature" : "18.2"
+    },
+    "-MkdQyLL6NTbxcX2CYx6" : {
+      "temperature" : "22.2"
+    },
+    "-MkdQyU8jETsdlPg1iVi" : {
+      "temperature" : "24.0"
+    },
+    "-MkdQyaM-qy74a3ssuwz" : {
+      "temperature" : "18.7"
+    },
+    "-MkdQypZbtoxre7H5M2s" : {
+      "temperature" : "23.5"
+    },
+    "-MkdQz46Ds2ZlKPSJkul" : {
+      "temperature" : "20.7"
+    },
+    "-MkdQzK2hKO_CPXG27El" : {
+      "temperature" : "21.5"
+    },
+    "-MkdQzZkMFhq67zk2MaY" : {
+      "temperature" : "24.6"
+    },
+    "-MkdQzntRDLIdjTwPyKL" : {
+      "temperature" : "24.7"
+    },
+    "-MkdR-2UKQT1Zpyf4rH9" : {
+      "temperature" : "21.1"
+    },
+    "-MkdR-I5wmijmiCGS9KU" : {
+      "temperature" : "27.9"
+    },
+    "-MkdR-Xemkjb3XkC6LVY" : {
+      "temperature" : "26.8"
+    },
+    "-MkdR-mZHrlanDtMzHvW" : {
+      "temperature" : "20.7"
+    },
+    "-MkdR-uuRoFBejydb37n" : {
+      "temperature" : "22.3"
+    },
+    "-MkdR01xxdELS_YcB-ys" : {
+      "temperature" : "21.2"
+    },
+    "-MkdR0GfR1iSXRdtWepd" : {
+      "temperature" : "23.7"
+    },
+    "-MkdR0WNVbEYvnIbz3fC" : {
+      "temperature" : "22.3"
+    },
+    "-MkdR0lfA6J085LjSLAt" : {
+      "temperature" : "23.4"
+    },
+    "-MkdR1-OyuL-LV092SMX" : {
+      "temperature" : "18.2"
+    },
+    "-MkdR1FRhmQ6yPt3nZGB" : {
+      "temperature" : "25.5"
+    },
+    "-MkdR1V7-BLk4D-PrFBF" : {
+      "temperature" : "20.2"
+    },
+    "-MkdR1kADxO4JbrnBRHM" : {
+      "temperature" : "21.5"
+    },
+    "-MkdR2-8srLd-frL0ngq" : {
+      "temperature" : "24.1"
+    },
+    "-MkdR2DsIwYRKOCLNEWk" : {
+      "temperature" : "25.5"
+    },
+    "-MkdR2MJJGlxOhp90raE" : {
+      "temperature" : "19.7"
+    },
+    "-MkdR2Unt5vmGdX068pu" : {
+      "temperature" : "23.8"
+    },
+    "-MkdR2iWTJYZcdedsRiR" : {
+      "temperature" : "24.2"
+    },
+    "-MkdR2xu2ZiyJy3QvFll" : {
+      "temperature" : "23.7"
+    },
+    "-MkdR3CbbcGt-BgfxsGZ" : {
+      "temperature" : "20.3"
+    },
+    "-MkdR3S4qsZCZGopIU14" : {
+      "temperature" : "23.5"
+    },
+    "-MkdR3hUvzG5tuLBcfNt" : {
+      "temperature" : "24.3"
+    },
+    "-MkdR3wcfWBg5-tJnCXz" : {
+      "temperature" : "20.8"
+    },
+    "-MkdR4BZnLgYpTUbCLGO" : {
+      "temperature" : "18.3"
+    },
+    "-MkdR4QZhqH_6T86xLKa" : {
+      "temperature" : "26.9"
+    },
+    "-MkdR4fFcUhJcz8TBO0F" : {
+      "temperature" : "23.3"
+    },
+    "-MkdR4nqEnK8G3kDQFSS" : {
+      "temperature" : "25.6"
+    },
+    "-MkdR4v5mba_COTPBzks" : {
+      "temperature" : "27.4"
+    },
+    "-MkdR59JbZYlBfepanwy" : {
+      "temperature" : "26.1"
+    },
+    "-MkdR5QOaYKVQb503wqK" : {
+      "temperature" : "25.8"
+    },
+    "-MkdR5dnDegrcKYY8ywJ" : {
+      "temperature" : "24.6"
+    },
+    "-MkdR5tTlRY6E3g06eR3" : {
+      "temperature" : "18.2"
+    },
+    "-MkdR6993ubsFyWaGDfC" : {
+      "temperature" : "18.8"
+    },
+    "-MkdR6NFPzKcZtQogVi4" : {
+      "temperature" : "25.5"
+    },
+    "-MkdR6c1i_c6MJlHsbQ2" : {
+      "temperature" : "20.2"
+    },
+    "-MkdR6rpVKRV_XFlAVPb" : {
+      "temperature" : "20.3"
+    },
+    "-MkdR76EDkAY-47-aMwk" : {
+      "temperature" : "25.3"
+    },
+    "-MkdR7FUyoUHDl0So7iR" : {
+      "temperature" : "22.4"
+    },
+    "-MkdR7Lv7WmBDS1SCFoH" : {
+      "temperature" : "18.7"
+    },
+    "-MkdR7azmPLf9rmQ4yHj" : {
+      "temperature" : "20.6"
+    },
+    "-MkdR7q9BqB7R0Z5I-4v" : {
+      "temperature" : "19.0"
+    },
+    "-MkdR85JFOvlC2qP1nAr" : {
+      "temperature" : "22.1"
+    },
+    "-MkdR8KUr9d4n1zFVu6w" : {
+      "temperature" : "18.2"
+    },
+    "-MkdR8__id387JhTM_eX" : {
+      "temperature" : "21.4"
+    },
+    "-MkdR8pBg-O7ADhMi-_Z" : {
+      "temperature" : "27.3"
+    },
+    "-MkdR93NipgYq_UGXjNo" : {
+      "temperature" : "25.2"
+    },
+    "-MkdR9JMgRmWCSdlnj9k" : {
+      "temperature" : "21.9"
+    },
+    "-MkdR9Z-aikW6nRq_qTX" : {
+      "temperature" : "27.8"
+    },
+    "-MkdR9fqNM7c8TMjPl-b" : {
+      "temperature" : "18.1"
+    },
+    "-MkdR9nL8REuwOGA-Y2t" : {
+      "temperature" : "25.7"
+    },
+    "-MkdRA27q2D2rRJvr3G3" : {
+      "temperature" : "22.5"
+    },
+    "-MkdRAHNUUE8LdM_E05l" : {
+      "temperature" : "26.5"
+    },
+    "-MkdRAY-d0LwISz9GUJh" : {
+      "temperature" : "23.0"
+    },
+    "-MkdRAmoTjKSIaNcvE60" : {
+      "temperature" : "23.2"
+    },
+    "-MkdRB0TVlSnpz0jZvs0" : {
+      "temperature" : "27.1"
+    },
+    "-MkdRBGFQXIzLV9W0vnX" : {
+      "temperature" : "23.9"
+    },
+    "-MkdRBV_G9HlVsxTqopM" : {
+      "temperature" : "23.1"
+    },
+    "-MkdRBkSJQVJicJPOd4B" : {
+      "temperature" : "27.7"
+    },
+    "-MkdRBzvs0d19YKxcLhi" : {
+      "temperature" : "24.9"
+    },
+    "-MkdRCEqkUhq0CHl9hOa" : {
+      "temperature" : "26.8"
+    },
+    "-MkdRCErzKOogZQux2Nr" : {
+      "temperature" : "27.6"
+    },
+    "-MkdRCUCUfozVBgX6Kcw" : {
+      "temperature" : "19.5"
+    },
+    "-MkdRClBbp5AdnjDRTff" : {
+      "temperature" : "26.1"
+    },
+    "-MkdRCyWhuT9jQtB2Bkd" : {
+      "temperature" : "20.2"
+    },
+    "-MkdRDDDnsS9kaWMn4AT" : {
+      "temperature" : "19.3"
+    },
+    "-MkdRDSVQUgvJJFCyl4V" : {
+      "temperature" : "26.9"
+    },
+    "-MkdRDi46a4QbyprZSyb" : {
+      "temperature" : "18.1"
+    },
+    "-MkdRDwpssygGNlr3pW1" : {
+      "temperature" : "20.4"
+    },
+    "-MkdREBC0DIRumsLPP5T" : {
+      "temperature" : "27.9"
+    },
+    "-MkdREQoZTKGsmps2hM1" : {
+      "temperature" : "22.0"
+    },
+    "-MkdRE_MtaJDJlPF7l_f" : {
+      "temperature" : "27.2"
+    },
+    "-MkdREfx7Bxm6gxVfEQZ" : {
+      "temperature" : "24.8"
+    },
+    "-MkdREvFE5E9ajLTVCsd" : {
+      "temperature" : "26.4"
+    },
+    "-MkdRFA2AIEJS-Hc3GuK" : {
+      "temperature" : "20.3"
+    },
+    "-MkdRFPI5D0ZbsgG1kkV" : {
+      "temperature" : "21.4"
+    },
+    "-MkdRFdyLbNhjIkH70Z1" : {
+      "temperature" : "22.2"
+    },
+    "-MkdRFtevB4MsE-3dwAW" : {
+      "temperature" : "22.4"
+    },
+    "-MkdRG8GPfojCMJhTQcP" : {
+      "temperature" : "26.3"
+    },
+    "-MkdRGOFroQS3DEFWcqQ" : {
+      "temperature" : "19.8"
+    },
+    "-MkdRGeBeimGr6C1_0Ri" : {
+      "temperature" : "25.4"
+    },
+    "-MkdRGsYHSNKnbK2uHDk" : {
+      "temperature" : "22.4"
+    },
+    "-MkdRH05GVGIQ-uLgr8E" : {
+      "temperature" : "24.0"
+    },
+    "-MkdRH7SDb1tyYDkesbX" : {
+      "temperature" : "25.3"
+    },
+    "-MkdRHMkOXX7zIqzpeiy" : {
+      "temperature" : "23.5"
+    },
+    "-MkdRHbch4MjHsdkEolK" : {
+      "temperature" : "22.7"
+    },
+    "-MkdRHqt18ZWCz0xxyo0" : {
+      "temperature" : "26.5"
+    },
+    "-MkdRI6WDFyxDMRC_kow" : {
+      "temperature" : "26.6"
+    },
+    "-MkdRILHHbgHQcGOKhws" : {
+      "temperature" : "19.5"
+    },
+    "-MkdRI_eihGFyzg0Ennw" : {
+      "temperature" : "18.2"
+    },
+    "-MkdRIp_ECRvaL_GzE2d" : {
+      "temperature" : "21.2"
+    },
+    "-MkdRJ4WwRf18I4AB9EG" : {
+      "temperature" : "26.2"
+    },
+    "-MkdRJSUQ4bfuY6LdecS" : {
+      "temperature" : "25.7"
+    },
+    "-MkdRLuIrHffr0uLNZTp" : {
+      "temperature" : "27.6"
+    },
+    "-MkdRLxPn7h2fETgfN-0" : {
+      "temperature" : "23.9"
+    },
+    "-MkdROJgXf9iKsbFlRKe" : {
+      "temperature" : "23.8"
+    },
+    "-MkdROKY5pXOwGmZABBE" : {
+      "temperature" : "25.7"
+    },
+    "-MkdRQl8_aZ6wLg0d3vI" : {
+      "temperature" : "21.0"
+    },
+    "-MkdRR26fxHgeQ61DeHj" : {
+      "temperature" : "19.7"
+    },
+    "-MkdRTC-lka89zMXXYk8" : {
+      "temperature" : "23.0"
+    },
+    "-MkdRTTEG0YFKw1SdG7_" : {
+      "temperature" : "24.2"
+    },
+    "-MkdRVeX6DZJwLvfjXZH" : {
+      "temperature" : "21.5"
+    },
+    "-MkdRVuIh7LLF83ITkkZ" : {
+      "temperature" : "25.4"
+    },
+    "-MkdRY4yZm9w6qTlJAad" : {
+      "temperature" : "23.6"
+    },
+    "-MkdRYM5reR0tZHPPzeB" : {
+      "temperature" : "25.5"
+    },
+    "-MkdR_WkaR3BYWWeZ4df" : {
+      "temperature" : "24.8"
+    },
+    "-MkdR_mms7XhDpiLb4Uh" : {
+      "temperature" : "20.6"
+    },
+    "-MkdRbxx0GI1QQJ7LMOw" : {
+      "temperature" : "21.8"
+    },
+    "-MkdRcDqUJKeYgqyCg4p" : {
+      "temperature" : "23.0"
+    },
+    "-MkdRePs9VZvf8MG9kQJ" : {
+      "temperature" : "24.4"
+    },
+    "-MkdRefpCsUaThOxt19D" : {
+      "temperature" : "27.5"
+    },
+    "-MkdRgr5Gc580QsiyCzi" : {
+      "temperature" : "24.4"
+    },
+    "-MkdRh6kTRBYz2ZcVI25" : {
+      "temperature" : "24.9"
+    },
+    "-MkdRjH_Qa7_Zv7Xfu8M" : {
+      "temperature" : "22.0"
+    },
+    "-MkdRjYucPK0JrRDXPmc" : {
+      "temperature" : "26.2"
+    },
+    "-MkdRljTfodiXSr3Uo7B" : {
+      "temperature" : "24.4"
+    },
+    "-MkdRm-4PCRd3KGNWFgu" : {
+      "temperature" : "19.4"
+    },
+    "-MkdRoAaon6MfjVN7X9A" : {
+      "temperature" : "20.5"
+    },
+    "-MkdRoR8T0NBrxG95U8N" : {
+      "temperature" : "22.0"
+    },
+    "-MkdRqbcNZOmcJ19HrIP" : {
+      "temperature" : "18.8"
+    },
+    "-MkdRqsYZWj3CkhMbRMj" : {
+      "temperature" : "19.6"
+    },
+    "-MkdRt3J1W2rHON1raRC" : {
+      "temperature" : "26.3"
+    },
+    "-MkdRtKmoNKX7Tce7MYO" : {
+      "temperature" : "23.5"
+    },
+    "-MkdRvVYENeRBrosASZS" : {
+      "temperature" : "22.9"
+    },
+    "-MkdRvkqlyOglPmPzg0j" : {
+      "temperature" : "25.1"
+    },
+    "-MkdRxwWJVXpZk2eK6m1" : {
+      "temperature" : "26.7"
+    },
+    "-MkdRyC5V5boYyPQQOix" : {
+      "temperature" : "23.6"
+    },
+    "-MkdS-O3tWmtZmZUXO_Z" : {
+      "temperature" : "19.2"
+    },
+    "-MkdS-dqbv0FAAd1Nrvi" : {
+      "temperature" : "27.6"
+    },
+    "-MkdS1of6elbgkOn4jAi" : {
+      "temperature" : "20.1"
+    },
+    "-MkdS24k0fh--nPMnb2k" : {
+      "temperature" : "26.4"
+    },
+    "-MkdS4GgZLokZX7xqS2G" : {
+      "temperature" : "20.8"
+    },
+    "-MkdS4YQ8Y72mDP3WOoU" : {
+      "temperature" : "18.8"
+    },
+    "-MkdS6hzA--_nc_oQw5d" : {
+      "temperature" : "24.0"
+    },
+    "-MkdS7ZRRYEPEBwi2Eqe" : {
+      "temperature" : "21.3"
+    },
+    "-MkdS98aPR9NQXfadE2M" : {
+      "temperature" : "26.6"
+    },
+    "-MkdS9wx5faNVvvz2hfT" : {
+      "temperature" : "19.2"
+    },
+    "-MkdSB_aSjaHHanp4FTl" : {
+      "temperature" : "19.1"
+    },
+    "-MkdSCNDmj-QO4-dgncu" : {
+      "temperature" : "18.3"
+    },
+    "-MkdSE1bCnme6oEbP4AR" : {
+      "temperature" : "27.2"
+    },
+    "-MkdSFJZy7P3lL2ief6S" : {
+      "in_temperature" : "19.7"
+    },
+    "-MkdSHj7RP_SVknb6o1Z" : {
+      "in_temperature" : "27.1"
+    },
+    "-MkdSJ3X9i7Q-7df89CF" : {
+      "out_temperature" : "19.2"
+    },
+    "-MkdSK8xBxZ-Iamv98X2" : {
+      "in_temperature" : "26.7"
+    },
+    "-MkdSLREBiwRJbU1jts3" : {
+      "out_temperature" : "23.1"
+    },
+    "-MkdSMaeby2MVkhuPIIc" : {
+      "in_temperature" : "21.3"
+    },
+    "-MkdSNsNUbcdqilJsDe4" : {
+      "out_temperature" : "21.8"
+    },
+    "-MkdSP1ziCe01EoM2xgf" : {
+      "in_temperature" : "20.5"
+    },
+    "-MkdSQJGqklgv16uyRI0" : {
+      "out_temperature" : "24.7"
+    },
+    "-MkdSRUGZUHyj1pZkfWS" : {
+      "in_temperature" : "20.9"
+    },
+    "-MkdSSkv51XczynzTBhy" : {
+      "out_temperature" : "22.8"
+    },
+    "-MkdSTvSi0rOd7R48fTa" : {
+      "in_temperature" : "23.9"
+    },
+    "-MkdSVCJCjauKjtNpmfI" : {
+      "out_temperature" : "21.2"
+    },
+    "-MkdSWMLF1m5-z8kKSzs" : {
+      "in_temperature" : "21.3"
+    },
+    "-MkdSXd9gswi4-xn5-du" : {
+      "out_temperature" : "24.3"
+    },
+    "-MkdSYnRhwSKMxTP-QQR" : {
+      "in_temperature" : "22.9"
+    },
+    "-MkdS_4gN7OcVcVUdq91" : {
+      "out_temperature" : "21.0"
+    },
+    "-MkdSaFFAzv57_iv_8Qk" : {
+      "in_temperature" : "24.8"
+    },
+    "-MkdSbWYLzPix0GxPpYS" : {
+      "out_temperature" : "20.9"
+    },
+    "-MkdScgksweWzh8g7W1E" : {
+      "in_temperature" : "24.0"
+    },
+    "-MkdSe2WOiaNLlOz73wv" : {
+      "out_temperature" : "19.9"
+    },
+    "-MkdSf7blzTfxTpEZCBZ" : {
+      "in_temperature" : "19.7"
+    },
+    "-MkdSgPdyyZkoLVnvX25" : {
+      "out_temperature" : "20.1"
+    },
+    "-MkdSh_CC47zkoeXS4NW" : {
+      "in_temperature" : "26.7"
+    },
+    "-MkdSiqJY3HZlGYCQvSz" : {
+      "out_temperature" : "23.5"
+    },
+    "-MkdSk0eMKcpxQhUWS7z" : {
+      "in_temperature" : "26.3"
+    },
+    "-MkdSlHKRPZsKx3C9m-E" : {
+      "out_temperature" : "26.2"
+    },
+    "-MkdSmSDDnAl9nZuOT3q" : {
+      "in_temperature" : "18.5"
+    },
+    "-MkdSnjY2vWttrx7vkG_" : {
+      "out_temperature" : "22.5"
+    },
+    "-MkdSotba4vUxnojsJKi" : {
+      "in_temperature" : "23.6"
+    },
+    "-MkdSqA9VmKJPNaOeVAR" : {
+      "out_temperature" : "21.8"
+    },
+    "-MkdSrLzpso6Ge9_KTqV" : {
+      "in_temperature" : "18.9"
+    },
+    "-MkdSsb3u-rDnmzaZCUL" : {
+      "out_temperature" : "23.6"
+    },
+    "-MkdStm7XPGjK4kOwncZ" : {
+      "in_temperature" : "22.3"
+    },
+    "-MkdSv347aUTUlHIk7Km" : {
+      "out_temperature" : "27.7"
+    },
+    "-MkdSwDPF1vdQYqG6LgR" : {
+      "in_temperature" : "18.2"
+    },
+    "-MkdSxV0s6H6ppy0WPkI" : {
+      "out_temperature" : "25.3"
+    },
+    "-MkdSyejiJDkSkzr-Pjz" : {
+      "in_temperature" : "24.4"
+    },
+    "-MkdSzvqFxxHQw7AM2j3" : {
+      "out_temperature" : "19.0"
+    },
+    "-MkdT05iFE-iC-EjYnSa" : {
+      "in_temperature" : "20.7"
+    },
+    "-MkdT1NVouUskhk99j2A" : {
+      "out_temperature" : "23.0"
+    },
+    "-MkdT2YE8RlPar1NNVCr" : {
+      "in_temperature" : "23.5"
+    },
+    "-MkdT3ofEjZhuYd03BtS" : {
+      "out_temperature" : "23.5"
+    },
+    "-MkdT4zjjuoY6RlPfbeX" : {
+      "in_temperature" : "24.1"
+    },
+    "-MkdT6Fn3AZNWfUuoI53" : {
+      "out_temperature" : "19.4"
+    },
+    "-MkdT7R7yDZMLY1U0Y36" : {
+      "in_temperature" : "22.5"
+    },
+    "-MkdT8hMCTCyRQde7kPy" : {
+      "out_temperature" : "20.2"
+    },
+    "-MkdT9sQtxreEF83pGjk" : {
+      "in_temperature" : "22.0"
+    },
+    "-MkdTB86Zhme_J7QCFq4" : {
+      "out_temperature" : "25.0"
+    },
+    "-MkdTCJXnfLXziBv595v" : {
+      "in_temperature" : "24.3"
+    },
+    "-MkdTD_QIC194gYS4IZB" : {
+      "out_temperature" : "23.3"
+    },
+    "-MkdTEkClQaD-hFCog9r" : {
+      "in_temperature" : "26.3"
+    },
+    "-MkdTG16j8xdcZFOqtjY" : {
+      "out_temperature" : "23.9"
+    },
+    "-MkdTHBd-Wy2VkZpl1CO" : {
+      "in_temperature" : "20.3"
+    },
+    "-MkdTITHVmgCDbRKYB3k" : {
+      "out_temperature" : "20.9"
+    },
+    "-MkdTJebg2gvCB942lUR" : {
+      "in_temperature" : "24.4"
+    },
+    "-MkdTKuRPHSGRzL5r7GW" : {
+      "out_temperature" : "21.4"
+    },
+    "-MkdTM4IJ0w2fFuYi5PK" : {
+      "in_temperature" : "21.4"
+    },
+    "-MkdTNMDDB1h6bSNliBT" : {
+      "out_temperature" : "22.7"
+    },
+    "-MkdTOWBJawzBJ562sXX" : {
+      "in_temperature" : "26.5"
+    },
+    "-MkdTPnA5If5DLcXwRHd" : {
+      "out_temperature" : "18.2"
+    },
+    "-MkdTQxOa7FDQe4oyL49" : {
+      "in_temperature" : "19.5"
+    },
+    "-MkdTSEFn6nR5_SV1yP-" : {
+      "out_temperature" : "20.2"
+    },
+    "-MkdTTOSmCvk9NPBbo3y" : {
+      "in_temperature" : "26.2"
+    },
+    "-MkdTUfo0ke4-6A3Dc9i" : {
+      "out_temperature" : "22.4"
+    },
+    "-MkdTVqSWZwYmYobKf91" : {
+      "in_temperature" : "24.8"
+    },
+    "-MkdTX7Q_et2bugJ6UiS" : {
+      "out_temperature" : "23.6"
+    },
+    "-MkdTYHNw6kKHBX4nT1S" : {
+      "in_temperature" : "18.3"
+    },
+    "-MkdTZYgC-copH7J_IBq" : {
+      "out_temperature" : "23.0"
+    },
+    "-MkdT_iafi3djvUkzb1Y" : {
+      "in_temperature" : "27.3"
+    },
+    "-MkdTb-X_Siv6LTBnqnO" : {
+      "out_temperature" : "22.7"
+    },
+    "-MkdTcAdXpJSvrrOUyMd" : {
+      "in_temperature" : "18.1"
+    },
+    "-MkdTdRQPHH2wd1skZIb" : {
+      "out_temperature" : "22.7"
+    },
+    "-MkdTeb9IP9J1MO7LqS7" : {
+      "in_temperature" : "22.5"
+    },
+    "-MkdTfsFn0Cu6DB4YA9G" : {
+      "out_temperature" : "19.2"
+    },
+    "-MkdTh2NfEgDi15LmQR8" : {
+      "in_temperature" : "25.5"
+    },
+    "-MkdTiKy1qiqWnNz7cdO" : {
+      "out_temperature" : "24.6"
+    },
+    "-MkdTjUfMp-CMQ0bPTPq" : {
+      "in_temperature" : "22.7"
+    },
+    "-MkdTkl20NIBGEybx1ou" : {
+      "out_temperature" : "23.2"
+    },
+    "-MkdTlvk3PvzS0kJ0pZn" : {
+      "in_temperature" : "19.6"
+    },
+    "-MkdTnMddjU8IqGDPZK6" : {
+      "out_temperature" : "27.3"
+    },
+    "-MkdToMjx2aWeHWJA2Nn" : {
+      "in_temperature" : "26.6"
+    },
+    "-MkdTpe4S2_TjbhYDR2I" : {
+      "out_temperature" : "22.3"
+    },
+    "-MkdTqogiIgWTYC4dL7E" : {
+      "in_temperature" : "19.2"
+    },
+    "-MkdTs4tkO5_WX4d2tsD" : {
+      "out_temperature" : "26.1"
+    },
+    "-MkdTtFMkamIWL3pqP4g" : {
+      "in_temperature" : "24.4"
+    },
+    "-MkdTuX-M2J2VzOA_QeX" : {
+      "out_temperature" : "26.5"
+    },
+    "-MkdTvgfbc40RE_goncx" : {
+      "in_temperature" : "27.4"
+    },
+    "-MkdTwzHTZVeDa-DXe0J" : {
+      "out_temperature" : "22.8"
+    },
+    "-MkdTy8CC4aO03mWEt7X" : {
+      "in_temperature" : "25.8"
+    },
+    "-MkdTzPxWy_9sYyipOXT" : {
+      "out_temperature" : "18.8"
+    },
+    "-MkdU-_JiQyWyCniWeXP" : {
+      "in_temperature" : "27.5"
+    },
+    "-MkdU0qd4c-2UQpA5jf4" : {
+      "out_temperature" : "24.5"
+    },
+    "-MkdU20kc6m7FyBSqcte" : {
+      "in_temperature" : "24.1"
+    },
+    "-MkdU3IP8q_Px9PHMa5L" : {
+      "out_temperature" : "24.2"
+    },
+    "-MkdU4U73kRGzjtTzYQM" : {
+      "in_temperature" : "23.1"
+    },
+    "-MkdU5k5Jas72DX_mdWN" : {
+      "out_temperature" : "25.0"
+    },
+    "-MkdU6tq_XgGLXar7hd1" : {
+      "in_temperature" : "19.4"
+    },
+    "-MkdU8AaBrhz26uUTU_R" : {
+      "out_temperature" : "22.4"
+    },
+    "-MkdU9L9ADVcCI_V2Luu" : {
+      "in_temperature" : "24.1"
+    },
+    "-MkdUAbxC5vU09UpaZ1K" : {
+      "out_temperature" : "23.2"
+    },
+    "-MkdUBmoggfDIr_z_mX1" : {
+      "in_temperature" : "22.7"
+    },
+    "-MkdUD3PxWEBDyboprv2" : {
+      "out_temperature" : "26.0"
+    },
+    "-MkdUEDl5wDiPysHNWZn" : {
+      "in_temperature" : "25.2"
+    },
+    "-MkdUFVW9RY-yoMGeTs7" : {
+      "out_temperature" : "22.5"
+    },
+    "-MkdUGfABQQx-yEfr8El" : {
+      "in_temperature" : "20.4"
+    },
+    "-MkdUHwwMFofviDwMKEI" : {
+      "out_temperature" : "26.9"
+    },
+    "-MkdUJ75ZxYfup0vcRM5" : {
+      "in_temperature" : "24.7"
+    },
+    "-MkdUKOHoQwcaq8d6lbV" : {
+      "out_temperature" : "23.3"
+    },
+    "-MkdULYxL4SaDgoHdh6e" : {
+      "in_temperature" : "19.0"
+    },
+    "-MkdUMpKcRibvrAqHonb" : {
+      "out_temperature" : "23.0"
+    },
+    "-MkdUNzT2hzZp16qcuYb" : {
+      "in_temperature" : "26.9"
+    }
+  }
+}
