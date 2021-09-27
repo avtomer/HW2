@@ -1,0 +1,52 @@
+{
+  "ruleChain": {
+    "additionalInfo": {
+      "description": "outdoor thermometer generator"
+    },
+    "name": "Therm_out_Generator",
+    "type": "CORE",
+    "firstRuleNodeId": null,
+    "root": false,
+    "debugMode": false,
+    "configuration": null
+  },
+  "metadata": {
+    "firstNodeIndex": null,
+    "nodes": [
+      {
+        "additionalInfo": {
+          "description": "",
+          "layoutX": 225,
+          "layoutY": 376
+        },
+        "type": "org.thingsboard.rule.engine.debug.TbMsgGeneratorNode",
+        "name": "ThermBGenerator",
+        "debugMode": false,
+        "configuration": {
+          "msgCount": 0,
+          "periodInSeconds": 10,
+          "jsScript": "var msg = {out_temperature: (18 + 10 * Math.random()).toFixed(1)};\n             return {msg: msg, metadata: {deviceType: \"outdoor thermometer\"}, msgType: \"POST_TELEMETRY_REQUEST\"};",
+          "originatorId": "2bf3bf60-1e0f-11ec-8d74-83bf26fc179b",
+          "originatorType": "DEVICE"
+        }
+      }
+    ],
+    "connections": null,
+    "ruleChainConnections": [
+      {
+        "fromIndex": 0,
+        "targetRuleChainId": {
+          "entityType": "RULE_CHAIN",
+          "id": "ea4ddc10-1726-11ec-9517-718e81bcc342"
+        },
+        "additionalInfo": {
+          "description": "",
+          "layoutX": 588,
+          "layoutY": 378,
+          "ruleChainNodeId": "rule-chain-node-3"
+        },
+        "type": "Success"
+      }
+    ]
+  }
+}

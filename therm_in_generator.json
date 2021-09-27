@@ -1,0 +1,52 @@
+{
+  "ruleChain": {
+    "additionalInfo": {
+      "description": "indoor thermometer generator"
+    },
+    "name": "Therm_in_Generator",
+    "type": "CORE",
+    "firstRuleNodeId": null,
+    "root": false,
+    "debugMode": false,
+    "configuration": null
+  },
+  "metadata": {
+    "firstNodeIndex": null,
+    "nodes": [
+      {
+        "additionalInfo": {
+          "description": "",
+          "layoutX": 282,
+          "layoutY": 261
+        },
+        "type": "org.thingsboard.rule.engine.debug.TbMsgGeneratorNode",
+        "name": "Therm_in_Generator",
+        "debugMode": false,
+        "configuration": {
+          "msgCount": 0,
+          "periodInSeconds": 10,
+          "jsScript": "var msg = {\n             \tin_temperature: (18 + 10 * Math.random()).toFixed(1)\n             };\n             \n             return {\n             \tmsg: msg,\n             \tmetadata: {\n             \t\tdeviceType: \"indoor thermometer\"\n             \t},\n             \tmsgType: \"POST_TELEMETRY_REQUEST\"\n             };\n",
+          "originatorId": "a7c38a50-1fe3-11ec-98f7-ff3c86e21132",
+          "originatorType": "DEVICE"
+        }
+      }
+    ],
+    "connections": null,
+    "ruleChainConnections": [
+      {
+        "fromIndex": 0,
+        "targetRuleChainId": {
+          "entityType": "RULE_CHAIN",
+          "id": "ea4ddc10-1726-11ec-9517-718e81bcc342"
+        },
+        "additionalInfo": {
+          "description": "",
+          "layoutX": 467,
+          "layoutY": 160,
+          "ruleChainNodeId": "rule-chain-node-3"
+        },
+        "type": "Success"
+      }
+    ]
+  }
+}
